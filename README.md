@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--lint ignore awesome-list-item no-dead-urls double-link-->
+<!--lint disable awesome-list-item no-dead-urls double-link-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
@@ -18,8 +18,6 @@
 > - Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
 
 </div>
-
-<!--lint disable awesome-list-item-->
 
 ---
 
@@ -44,7 +42,7 @@
   - [Community](#community)
 - [Contributing](#contributing)
 
-<!--lint enable awesome-list-item-->
+<!--lint enable awesome-list-item no-dead-urls double-link-->
 
 ## Featured (new releases)
 
