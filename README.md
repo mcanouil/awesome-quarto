@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--lint ignore no-dead-urls-->
+<!--lint disable awesome-list-item-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
@@ -19,9 +19,6 @@
 </div>
 
 ---
-
-<!--lint disable awesome-list-item-->
-
 ## Contents <!-- omit in toc --> 
 
 - [Featured (new releases)](#featured-new-releases)
@@ -43,9 +40,9 @@
   - [Community](#community)
 - [Contributing[^1]](#contributing1)
 
-<!--lint enable awesome-list-item-->
-
 ---
+
+<!--lint enable awesome-list-item-->
 
 ## Featured (new releases)
 
@@ -138,7 +135,7 @@
 
 <!-- ### Other formats -->
 
-<!-- END CONTENT -->
+<!--lint disable awesome-list-item-->
 
 ## Follow
 
@@ -154,6 +151,7 @@
 - [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto's core team.
 - [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto's core team.
 - [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto's core team.
+
 
 ### Community
 
