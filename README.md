@@ -79,7 +79,7 @@
 - [fontawesome](https://github.com/quarto-ext/fontawesome) - This extension provides support including free icons provided by [Font Awesome](https://fontawesome.com).
 - [grouped-tabsets](https://github.com/quarto-ext/grouped-tabsets) - This extension provides support for "grouped" tabsets (*HTML-based format only*).
 - [latex-environment](https://github.com/quarto-ext/latex-environment) - This extension enables `divs` to be output as a custom environment in LaTeX.
-- [lightbox](https://github.com/quarto-ext/lightbox) - An extension that uses the [GLightbox](https://biati-digital.github.io/glightbox/) javascript library to add lightbox styling and behavior to images (*HTML-based format only*).
+- [lightbox](https://github.com/quarto-ext/lightbox) - An extension that uses the [GLightbox](https://biati-digital.github.io/glightbox/) JavaScript library to add lightbox styling and behavior to images (*HTML-based format only*).
 - [lordicon](https://github.com/jmgirard/lordicon) - This extension provides support for
 [Lordicon](https://lordicon.com/) icons library (*HTML-based format only*).
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
