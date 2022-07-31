@@ -2,15 +2,12 @@ name: lint
 on: 
   pull_request:
   push:
-    branches:
-      - main
+    branches: main
 
 jobs:
   awesome-lint:
     strategy:
       fail-fast: false
-      matrix:
-        files: "README.md"
     runs-on: ubuntu-latest
     steps:
       - name: "checkout repo"
@@ -19,8 +16,8 @@ jobs:
           fetch-depth: 0
       - name: asdf_install
         uses: asdf-vm/actions/install@v1
-      - name: "linting: ${{ matrix.files }}"
-        run: npx -y awesome-lint ${{ matrix.files }}
+      - name: "linting: README.md"
+        run: npx -y awesome-lint README.md
   awesome-bot:
     strategy:
       fail-fast: false
@@ -39,5 +36,5 @@ jobs:
           bundler-cache: true
       - name: "install awesome-bot"
         run: gem install awesome_bot
-      - name: "linting: ${{ matrix.files }}"
-        run: awesome_bot --allow-redirect ${{ matrix.files }}
+      - name: "linting: README.md"
+        run: awesome_bot --allow-redirect README.md
