@@ -41,7 +41,7 @@
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
-  - [Contributing[^1]](#contributing1)
+- [Contributing[^1]](#contributing1)
 
 <!--lint enable awesome-list-item-->
 
@@ -159,7 +159,7 @@
 
 *Who else should we be following!?*
 
-### Contributing[^1]
+## Contributing[^1]
 
 [Thanks goes to these contributors!](https://github.com/mcanouil/awesome-quarto/graphs/contributors)
 
