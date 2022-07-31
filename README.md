@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 ## Contents <!-- omit in toc --> 
 
 - [Featured (new releases)](#featured-new-releases)
@@ -41,8 +39,6 @@
   - [Official](#official)
   - [Community](#community)
 - [Contributing](#contributing)
-
-<!--lint enable awesome-list-item no-dead-urls double-link-->
 
 ## Featured (new releases)
 
