@@ -29,17 +29,17 @@
 - [Supported editors/software](#supported-editorssoftware)
 - [Extensions](#extensions)
 - [Templates](#templates)
-    - [Journals](#journals)
-    - [Presentations](#presentations)
+  - [Journals](#journals)
+  - [Presentations](#presentations)
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Real life examples](#real-life-examples)
-    - [Presentations formats](#presentations-formats)
-    - [Websites formats](#websites-formats)
-    - [Book formats](#book-formats)
+  - [Presentations formats](#presentations-formats)
+  - [Websites formats](#websites-formats)
+  - [Book formats](#book-formats)
 - [Follow](#follow)
-    - [Official](#official)
-    - [Community](#community)
+  - [Official](#official)
+  - [Community](#community)
 - [Contributing](#contributing)
 
 ---
@@ -144,11 +144,11 @@
 - [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
 - [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
 - [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
-- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto's core team.
-- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto's core team.
-- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto's core team.
-- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto's core team.
-- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto's core team.
+- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team.
+- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team.
+- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team.
+- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team.
+- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team.
 
 ### Community
 
