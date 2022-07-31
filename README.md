@@ -20,6 +20,8 @@
 
 ---
 
+<!--lint disable awesome-list-item-->
+
 ## Contents <!-- omit in toc --> 
 
 - [Featured (new releases)](#featured-new-releases)
@@ -40,6 +42,8 @@
   - [Official](#official)
   - [Community](#community)
   - [Contributing[^1]](#contributing1)
+
+<!--lint enable awesome-list-item-->
 
 ---
 
