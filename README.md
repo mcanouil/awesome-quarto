@@ -12,14 +12,12 @@
 
 > [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
 >
-> • Create dynamic content with [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [Observable](https://quarto.org/docs/computations/ojs.html).
-> • Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.
-> • Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
+> • Create dynamic content with [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [Observable](https://quarto.org/docs/computations/ojs.html).  
+> • Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.  
+> • Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.  
 > • Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
 
 </div>
-
-<!--lint disable awesome-list-item-->
 
 ---
 
@@ -46,7 +44,6 @@
 
 ---
 
-<!--lint enable awesome-list-item-->
 ## Featured (new releases)
 
 ## Official documentation & quickstarts
@@ -137,8 +134,6 @@
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 
 <!-- ### Other formats -->
-
-<!--lint disable awesome-list-item-->
 
 ## Follow
 
