@@ -113,7 +113,7 @@
 
 ## Talks and videos
 
-- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (https://live.juliacon.org/talk/KKBXAZ)
+- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (source: <https://live.juliacon.org/talk/KKBXAZ>).
 
 ## Real life examples
 
