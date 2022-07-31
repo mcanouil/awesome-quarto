@@ -163,4 +163,4 @@
 
 [Thanks goes to these contributors!](https://github.com/mcanouil/awesome-quarto/graphs/contributors)
 
-[Contributions of any kind welcome, just follow the guidelines!](contributing.md)
+[Contributions of any kind welcome, just follow the guidelines!](CONTRIBUTING.md)
