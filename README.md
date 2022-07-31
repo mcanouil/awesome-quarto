@@ -27,6 +27,7 @@
 - [Official documentation & quickstarts](#official-documentation--quickstarts)
 - [Turorials & workshops](#turorials--workshops)
 - [Supported editors/software](#supported-editorssoftware)
+- [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Templates](#templates)
   - [Journals](#journals)
@@ -68,6 +69,10 @@
 - [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+
+## Continuous integration / Continuous deployment
+
+- [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) - Official Quarto GitHub Actions allowing to setup, render, and deploy Quarto projects via GitHub Actions.
 
 ## Extensions
 
