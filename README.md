@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--lint disable awesome-list-item-->
+<!--lint ignore awesome-list-item no-dead-urls-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
@@ -11,12 +11,15 @@
 </a>
 
 > [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
+>
 > - Create dynamic content with [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [Observable](https://quarto.org/docs/computations/ojs.html).
 > - Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.
 > - Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
 > - Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
 
 </div>
+
+<!--lint enable awesome-list-item-->
 
 ---
 ## Contents <!-- omit in toc --> 
@@ -38,11 +41,9 @@
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
-- [Contributing[^1]](#contributing1)
+- [Contributing](#contributing)
 
 ---
-
-<!--lint enable awesome-list-item-->
 
 ## Featured (new releases)
 
@@ -157,8 +158,8 @@
 
 *Who else should we be following!?*
 
-## Contributing[^1]
+## Contributing
 
 [Thanks goes to these contributors!](https://github.com/mcanouil/awesome-quarto/graphs/contributors)
 
-[^1]: [Contributions of any kind welcome, just follow the guidelines!](contributing.md)
+[Contributions of any kind welcome, just follow the guidelines!](contributing.md)
