@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--lint ignore awesome-list-item no-dead-urls-->
+<!--lint ignore awesome-list-item no-dead-urls lint-double-link-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
