@@ -38,6 +38,7 @@
   - [Presentations formats](#presentations-formats)
   - [Websites formats](#websites-formats)
   - [Book formats](#book-formats)
+  - [Other formats](#other-formats)
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
@@ -116,7 +117,6 @@
 
 ### Presentations formats
 
-<!-- - []() - See slides [here](). -->
 - [Advanced Introduction to R (French)](https://m.canouil.fr/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced).
 - [Streamlining with R](https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd) - See slides [here](https://meghan.rbind.io/slides/neair/neair.html).
 - [An educator's perspective of the tidyverse](https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd) - See slides [here](https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html).
@@ -138,7 +138,7 @@
 - [R Packages, 2E](https://github.com/hadley/r-pkgs/) - "R Packages" book second edition (see <https://r-pkgs.org/>).
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 
-<!-- ### Other formats -->
+### Other formats
 
 ## Follow
 
@@ -163,4 +163,4 @@
 
 [Thanks goes to these contributors!](https://github.com/mcanouil/awesome-quarto/graphs/contributors)
 
-[Contributions of any kind welcome, just follow the guidelines!](CONTRIBUTING.md)
+[Contributions of any kind welcome, just follow the guidelines!](.github/CONTRIBUTING.md)
