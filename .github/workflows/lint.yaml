@@ -21,8 +21,6 @@ jobs:
   awesome-bot:
     strategy:
       fail-fast: false
-      matrix:
-        files: "README.md"
     runs-on: ubuntu-latest
     steps:
       - name: "checkout repo"
