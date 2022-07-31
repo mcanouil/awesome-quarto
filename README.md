@@ -104,7 +104,7 @@
 
 - [quarto-revealjs-storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
 - [quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
-- [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - R-Ladies (@rladies) template for Quarto `revealjs` format.
+- [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` format.
 - [onyxia-quarto](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` format.
 
 ## Blog posts
