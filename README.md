@@ -19,7 +19,7 @@
 
 </div>
 
-## Contents <!-- omit in toc --> 
+## Contents <!-- omit in toc -->
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official documentation & quickstarts](#official-documentation--quickstarts)
@@ -27,17 +27,10 @@
 - [Supported editors/software](#supported-editorssoftware)
 - [Extensions](#extensions)
 - [Templates](#templates)
-  - [Journals](#journals)
-  - [Presentations](#presentations)
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Real life examples](#real-life-examples)
-  - [Presentations formats](#presentations-formats)
-  - [Websites formats](#websites-formats)
-  - [Book formats](#book-formats)
 - [Follow](#follow)
-  - [Official](#official)
-  - [Community](#community)
 - [Contributing](#contributing)
 
 ## Featured (new releases)
