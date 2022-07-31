@@ -112,7 +112,7 @@
 ### Presentations formats
 
 <!-- - []() - See slides [here](). -->
-- [Advanced Introduction to R (French)](https://m.canouil.fr/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced)).
+- [Advanced Introduction to R (French)](https://m.canouil.fr/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced).
 - [Streamlining with R](https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd) - See slides [here](https://meghan.rbind.io/slides/neair/neair.html).
 - [An educator's perspective of the tidyverse](https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd) - See slides [here](https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html).
 - [An anthology of experimental designs](https://github.com/emitanaka/talks/tree/master/Toronto2022) - See slides [here](https://emitanaka.org/slides/toronto2022/).
