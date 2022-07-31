@@ -1,10 +1,10 @@
 <div align="center">
 
-<!--lint disable awesome-list-item no-dead-urls double-link-->
+<!--lint ignore no-dead-urls-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
-## The most up to date list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer. <!-- omit in toc --> 
+*The most up to date list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
