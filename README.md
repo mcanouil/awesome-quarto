@@ -1,22 +1,14 @@
 <div align="center">
 
-<!-- title -->
-
 <!--lint ignore no-dead-urls-->
 
 # Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
 
-<!-- subtitle -->
-
 ## The most up to date list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer. <!-- omit in toc --> 
-
-<!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
 </a>
-
-<!-- description -->
 
 > [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
 > - Create dynamic content with [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [Observable](https://quarto.org/docs/computations/ojs.html).
@@ -27,8 +19,6 @@
 </div>
 
 ---
-
-<!-- TOC -->
 
 ## Contents <!-- omit in toc --> 
 
@@ -43,17 +33,15 @@
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Real life examples](#real-life-examples)
-  - [Presentations](#presentations-1)
-  - [Websites](#websites)
-  - [Book](#book)
+  - [Presentations formats](#presentations-formats)
+  - [Websites formats](#websites-formats)
+  - [Book formats](#book-formats)
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
   - [Contributing[^1]](#contributing1)
 
 ---
-
-<!-- CONTENT -->
 
 ## Featured (new releases)
 
@@ -80,10 +68,8 @@
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
 
-
 ## Extensions
 
-<!-- - [Apple](https://apple.com) - Apple as a placeholder. -->
 - [code-filename](https://github.com/quarto-ext/code-filename) - An extension that enables you to add a `filename` attribute to code blocks, which is useful if you are documenting the contents of a file and want to be especially clear about the name of the file the code is associated with.
 - [fancy-text](https://github.com/quarto-ext/fancy-text) - A very simple shortcode extension that adds shortcodes for outputing nicely formatted versions of fancy strings (such as LaTeX and BibTeX).
 - [fontawesome](https://github.com/quarto-ext/fontawesome) - This extension provides support including free icons provided by [Font Awesome](https://fontawesome.com).
@@ -99,7 +85,6 @@
 
 ### Journals
 
-<!-- - [Microsoft](https://www.microsoft.com/) - Microsoft as an example. -->
 - [acm](https://github.com/quarto-journals/acm) - Template for *Association of Computing Machinery*.
 - [acs](https://github.com/quarto-journals/acs) - Template for *American Chemical Society*.
 - [biophysical-journal](https://github.com/quarto-journals/biophysical-journal) - Template for *Biophysical journal*.
@@ -110,7 +95,6 @@
 
 ### Presentations
 
-<!-- - [Microsoft](https://www.microsoft.com/) - Microsoft as an example. -->
 - [quarto-revealjs-storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
 - [quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
 - [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - R-Ladies (@rladies) template for Quarto `revealjs` format.
@@ -124,7 +108,7 @@
 
 ## Real life examples
 
-### Presentations
+### Presentations formats
 
 <!-- - []() - See slides [here](). -->
 - [Advanced Introduction to R (French)](https://m.canouil.fr/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced)).
@@ -135,15 +119,14 @@
 - [Outrageously efficient EDA](https://github.com/jthomasmock/arrow-dplyr) - See slides [here](https://jthomasmock.github.io/arrow-dplyr/).
 - [Improvements in textrecipes](https://github.com/emilhvitfeldt/useR2022-textrecipes/) - See slides [here](https://emilhvitfeldt.github.io/useR2022-textrecipes/).
 
-### Websites
+### Websites formats
 
 - [quarto.org](https://github.com/quarto-dev/quarto-web) - The Quarto documentation website.
 - [rlille.fr](https://github.com/RLille/rlille.fr) - The R Lille (R User Group) website using Quarto.
 - [R-Manuals](https://github.com/rstudio/r-manuals) - R Manuals rewritten with Quarto.
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
-- [Making shareable docs with Quarto](https://github.com/openscapes/quarto-website-tutorial) - A tutorial to make website with Quarto (see <https://openscapes.github.io/quarto-website-tutorial/>).
 
-### Book
+### Book formats
 
 - [R for Data Science, 2E](https://github.com/hadley/r4ds/) - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
 - [R Packages, 2E](https://github.com/hadley/r-pkgs/) - "R Packages" book second edition (see <https://r-pkgs.org/>).
