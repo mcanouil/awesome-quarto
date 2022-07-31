@@ -19,9 +19,10 @@
 
 </div>
 
-<!--lint enable awesome-list-item-->
+<!--lint disable awesome-list-item-->
 
 ---
+
 ## Contents <!-- omit in toc --> 
 
 - [Featured (new releases)](#featured-new-releases)
@@ -44,6 +45,8 @@
 - [Contributing](#contributing)
 
 ---
+
+<!--lint enable awesome-list-item-->
 
 ## Featured (new releases)
 
