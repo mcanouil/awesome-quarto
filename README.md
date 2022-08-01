@@ -2,7 +2,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
+# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml) <!-- omit in toc -->
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
@@ -65,8 +65,10 @@
 
 ## Talks and videos
 
-- [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
-- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
+- [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel  
+  (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
+- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire  
+  (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
 - [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://www.openscapes.org/) Community Talk: Hello Quarto!
 
 ## Supported editors/software
@@ -96,6 +98,7 @@
 [Lordicon](https://lordicon.com/) icons library (*HTML-based format only*).
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
+- [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 
 ## Templates
 
@@ -166,4 +169,7 @@
 
 Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
 
-Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md)!
+Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
+
+- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml).
+- Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
