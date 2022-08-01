@@ -54,10 +54,9 @@
 ## Turorials & workshops
 
 - [Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
-- [From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
-- [Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf 2022.
+- [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
+- [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf 2022.
 - [hello-quarto](https://mine.quarto.pub/hello-quarto/#/hello-quarto-title) - "Hello, Quarto!" keynote at rstudio::conf(2022).
-- [Quarto: create beautiful documents with R, Python, Julia and Observable](https://runapp2022.talks.jamesgoldie.dev/) - Runapp 2022 tutorial presentation on Quarto.
 
 
 ## Blog posts
