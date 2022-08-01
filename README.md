@@ -2,11 +2,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yaml) <!-- omit in toc -->
+# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml) <!-- omit in toc -->
 
-*The most up to date list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
+*The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
   <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
 </a>
 
@@ -19,30 +19,27 @@
 
 </div>
 
----
-
 ## Contents <!-- omit in toc -->
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official documentation & quickstarts](#official-documentation--quickstarts)
-- [Turorials & workshops](#turorials--workshops)
+- [Tutorials & workshops](#tutorials--workshops)
+- [Blog posts](#blog-posts)
+- [Talks and videos](#talks-and-videos)
 - [Supported editors/software](#supported-editorssoftware)
+- [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Templates](#templates)
   - [Journals](#journals)
   - [Presentations](#presentations)
-- [Blog posts](#blog-posts)
-- [Talks and videos](#talks-and-videos)
 - [Real life examples](#real-life-examples)
   - [Presentations formats](#presentations-formats)
   - [Websites formats](#websites-formats)
   - [Book formats](#book-formats)
+  - [Other formats](#other-formats)
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
-- [Contributing](#contributing)
-
----
 
 ## Featured (new releases)
 
@@ -54,9 +51,27 @@
 - [Tutorial: Computations](https://quarto.org/docs/get-started/computations/) - Official "Computations" tutorial.
 - [Tutorial: Authoring](https://quarto.org/docs/get-started/authoring/) - Official "Authoring" tutorial.
 
-## Turorials & workshops
+## Tutorials & workshops
 
 - [Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
+- [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
+- [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf(2022).
+
+## Blog posts
+
+- [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
+- [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
+- [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
+- [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) - An in-depth guide on how to start blogging with Quarto.
+
+## Talks and videos
+
+- [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel  
+  (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
+- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire  
+  (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
+- [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://www.openscapes.org/) Community Talk: Hello Quarto!
+- [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.d64a7aea07f498a65ad4243b835fb9dc96568a33
 
 ## Supported editors/software
 
@@ -68,6 +83,10 @@
 - [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+
+## Continuous integration / Continuous deployment
+
+- [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) - Official Quarto GitHub Actions allowing to setup, render, and deploy Quarto projects via GitHub Actions.
 
 ## Extensions
 
@@ -81,6 +100,7 @@
 [Lordicon](https://lordicon.com/) icons library (*HTML-based format only*).
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
+- [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 
 ## Templates
 
@@ -98,20 +118,13 @@
 
 - [quarto-revealjs-storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
 - [quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
-- [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - R-Ladies (@rladies) template for Quarto `revealjs` format.
+- [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` format.
 - [onyxia-quarto](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` format.
-
-## Blog posts
-
-- [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
-
-## Talks and videos
 
 ## Real life examples
 
 ### Presentations formats
 
-<!-- - []() - See slides [here](). -->
 - [Advanced Introduction to R (French)](https://m.canouil.fr/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced).
 - [Streamlining with R](https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd) - See slides [here](https://meghan.rbind.io/slides/neair/neair.html).
 - [An educator's perspective of the tidyverse](https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd) - See slides [here](https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html).
@@ -134,7 +147,7 @@
 - [R Packages, 2E](https://github.com/hadley/r-pkgs/) - "R Packages" book second edition (see <https://r-pkgs.org/>).
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 
-<!-- ### Other formats -->
+### Other formats
 
 ## Follow
 
@@ -155,8 +168,11 @@
 
 *Who else should we be following!?*
 
-## Contributing
+## Contributing <!-- omit in toc -->
 
-[Thanks goes to these contributors!](https://github.com/mcanouil/awesome-quarto/graphs/contributors)
+Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
 
-[Contributions of any kind welcome, just follow the guidelines!](contributing.md)
+Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
+
+- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml).
+- Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
