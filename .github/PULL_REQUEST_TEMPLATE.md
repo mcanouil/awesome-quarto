@@ -14,9 +14,8 @@ List your suggestions here and why they are useful to the community.
       - The description starts with an uppercase character and ends with a period.
       - Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
 - [ ] Doesn't use [hard-wrapping](https://stackoverflow.com/questions/319925/difference-between-hard-wrap-and-soft-wrap).
-- [ ] Your item fit into an existing sections.  
-  [Open a suggestion](https://github.com/mcanouil/awesome-quarto/issues/new) to start as discussion about any new sections.
-- [ ] Add a your new item to the bottom of the list in a section.
+- [ ] Your item(s) fit into an existing sections. (if you think a new section is needed, please [open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) first).
+- [ ] Add your new item to the bottom of the list in a section.
 - [ ] If a duplicate item exists, discuss why the new item should replace it.
 - [ ] Check your spelling & grammar.
 - [ ] The item must follow this format:
