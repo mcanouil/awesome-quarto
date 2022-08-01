@@ -68,7 +68,7 @@
   (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
 - [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire  
   (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
-- [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.
+- [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.d64a7aea07f498a65ad4243b835fb9dc96568a33
 
 ## Supported editors/software
 
