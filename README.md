@@ -93,6 +93,7 @@
 [Lordicon](https://lordicon.com/) icons library (*HTML-based format only*).
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
+- [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 
 ## Templates
 
