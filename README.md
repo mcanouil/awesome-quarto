@@ -40,7 +40,6 @@
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
-- [Contributing](#contributing)
 
 ## Featured (new releases)
 
@@ -159,7 +158,7 @@
 
 *Who else should we be following!?*
 
-## Contributing
+## Contributing <!-- omit in toc -->
 
 Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
 
