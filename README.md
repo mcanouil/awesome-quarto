@@ -59,6 +59,9 @@
 - [Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf 2022 
 - [hello-quarto](https://mine.quarto.pub/hello-quarto/#/hello-quarto-title) - "Hello, Quarto!" keynote at rstudio::conf(2022)
 - [Quarto: create beautiful documents with R, Python, Julia and Observable](https://runapp2022.talks.jamesgoldie.dev/) - Runapp 2022 talk 
+- [2022 Toronto Workshop on Reproducibility](https://youtu.be/6p4vOKS6Xls) - By Mine Çetinkaya-Rundel
+- [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - Openscapes Community Call: Hello Quarto!
+
 
 ## Supported editors/software
 
