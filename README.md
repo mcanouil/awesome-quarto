@@ -6,7 +6,7 @@
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
   <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
 </a>
 
