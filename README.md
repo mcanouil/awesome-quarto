@@ -116,6 +116,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [jasa](https://github.com/quarto-journals/jasa) - Template for *American Statistical Association Journals*.
 - [jss](https://github.com/quarto-journals/jss) - Template for *Journal of Statistical Software*.
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
+- [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
 
 ### Presentations
 
