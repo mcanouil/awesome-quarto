@@ -168,5 +168,5 @@ Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/g
 
 Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
-- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yaml).
+- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
