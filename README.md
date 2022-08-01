@@ -6,8 +6,11 @@
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
   <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
+</a> -->
+<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
+  <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text "awesome" and then the Quarto logo in blue and grey blue as per Quarto's logo."/>
 </a>
 
 > [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
@@ -18,6 +21,11 @@
 > • Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
 
 </div>
+
+Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
+
+- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
+- Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
 ## Contents <!-- omit in toc -->
 
@@ -53,7 +61,7 @@
 
 ## Tutorials & workshops
 
-- [Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
+- [Tutorial: Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
 - [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
 - [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf(2022).
 
@@ -113,6 +121,7 @@
 - [jasa](https://github.com/quarto-journals/jasa) - Template for *American Statistical Association Journals*.
 - [jss](https://github.com/quarto-journals/jss) - Template for *Journal of Statistical Software*.
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
+- [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
 
 ### Presentations
 
@@ -171,8 +180,3 @@
 ## Contributing <!-- omit in toc -->
 
 Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
-
-Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
-
-- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml).
-- Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
