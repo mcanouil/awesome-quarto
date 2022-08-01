@@ -3,6 +3,7 @@ on:
   pull_request:
   push:
     branches: main
+    paths: README.md
 
 jobs:
   awesome-lint:
