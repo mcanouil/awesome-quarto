@@ -54,12 +54,11 @@
 ## Turorials & workshops
 
 - [Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
-- [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
-- [Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf 2022 
-- [hello-quarto](https://mine.quarto.pub/hello-quarto/#/hello-quarto-title) - "Hello, Quarto!" keynote at rstudio::conf(2022)
-- [Quarto: create beautiful documents with R, Python, Julia and Observable](https://runapp2022.talks.jamesgoldie.dev/) - Runapp 2022 talk 
-- [2022 Toronto Workshop on Reproducibility](https://youtu.be/6p4vOKS6Xls) - By Mine Çetinkaya-Rundel
-- [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - Openscapes Community Call: Hello Quarto!
+- [From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
+- [Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf 2022.
+- [hello-quarto](https://mine.quarto.pub/hello-quarto/#/hello-quarto-title) - "Hello, Quarto!" keynote at rstudio::conf(2022).
+- [Quarto: create beautiful documents with R, Python, Julia and Observable](https://runapp2022.talks.jamesgoldie.dev/) - Runapp 2022 tutorial presentation on Quarto.
+
 
 ## Blog posts
 
@@ -71,6 +70,7 @@
 
 - [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
 - [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
+- [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - Openscapes Community Talk: Hello Quarto!
 
 ## Supported editors/software
 
