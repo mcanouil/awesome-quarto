@@ -29,6 +29,7 @@ body:
     validations:
       required: true
   - type: checkboxes
+    id: Checklist
     attributes:
       label: Checklist
       description: |
