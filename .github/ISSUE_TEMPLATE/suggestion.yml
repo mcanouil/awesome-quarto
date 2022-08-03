@@ -1,8 +1,7 @@
 name: Suggestion
 description: Help us improve with suggestions
 label: [suggestion]
-assignees:
-  - @mcanouil
+assignees: mcanouil
 body:
   - type: markdown
     attributes:
