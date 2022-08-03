@@ -17,7 +17,7 @@ body:
     id: section
     attributes:
       label: Targeted section
-      description: Please name the main section you whish your suggestion to appear in.
+      description: Please name the main section you wish your suggestion to appear in.
     validations:
       required: true
   - type: textarea
