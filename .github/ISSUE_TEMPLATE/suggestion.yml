@@ -36,7 +36,8 @@ body:
         When filing a _suggestion_, please check the boxes below to confirm that you have:
       options:
         - label: checked if your suggestion is not already listed in __Awesome Quarto__ list.
-        - label: checked if it can fit in an existed section or [open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) to suggest any new sections.
+          required: true
+        - label: checked if it can fit in an existed section or [open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) to suggest any new sections..
+          required: true
         - label: checked when it's a repository if it's maintained (archived repository will be rejected).
-    validations:
-      required: true
+          required: true
