@@ -13,11 +13,18 @@ body:
       placeholder: https://...
     validations:
       required: true
+  - type: input
+    id: section
+    attributes:
+      label: Targeted section
+      description: Please name the main section you whish your suggestion to appear in ...
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
       label: Describe your suggestion
       description: How and why is your suggestion useful to this community?
-      placeholder: I wish to see tool <xyz> here because it is used for...
+      placeholder: I wish to see tool <xyz> here because it is used for ...
     validations:
       required: true
