@@ -17,7 +17,7 @@ body:
     id: section
     attributes:
       label: Targeted section
-      description: Please name the main section you whish your suggestion to appear in ...
+      description: Please name the main section you whish your suggestion to appear in.
     validations:
       required: true
   - type: textarea
@@ -28,3 +28,12 @@ body:
       placeholder: I wish to see tool <xyz> here because it is used for ...
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: |
+        When filing a _suggestion_, please check the boxes below to confirm that you have:
+      options:
+        - label: checked if your suggestion is not already listed in __Awesome Quarto__ list.
+        - label: checked if it can fit in an existed section or [open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) to suggest any new sections.
+        - label: checked when it's a repository if it's maintained (archived repository will be rejected).
