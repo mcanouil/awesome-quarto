@@ -1,6 +1,6 @@
 name: Suggestion
 description: Help us improve with suggestions
-label: [suggestion]
+labels: [suggestion]
 assignees: mcanouil
 body:
   - type: markdown
