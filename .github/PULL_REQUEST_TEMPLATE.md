@@ -22,4 +22,4 @@ List your suggestions here and why they are useful to the community.
   ```
   - [item name](https link) - Description beginning with capital, ending in period.
   ```
-- [ ] Be sure to have read the [contributing guidelines](../CONTRIBUTING.md).
+- [ ] Be sure to have read the [contributing guidelines](CONTRIBUTING.md).
