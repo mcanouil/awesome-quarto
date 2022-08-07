@@ -97,6 +97,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
 - [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
 - [Simulate colorblindeness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
+- [quartostamp](https://github.com/matt-dray/quartostamp) - An R package An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` format document.
 
 ## Continuous integration / Continuous deployment
 
