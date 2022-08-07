@@ -34,7 +34,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Tutorials & workshops](#tutorials--workshops)
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
-- [Supported editors/software](#supported-editorssoftware)
+- [Supported editors](#supported-editors)
+- [Libraries/Packages/Scripts](#librariespackagesscripts)
 - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Templates](#templates)
@@ -58,6 +59,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Tutorial: Hello, Quarto](https://quarto.org/docs/get-started/hello/) - Official "Hello, Quarto" tutorial.
 - [Tutorial: Computations](https://quarto.org/docs/get-started/computations/) - Official "Computations" tutorial.
 - [Tutorial: Authoring](https://quarto.org/docs/get-started/authoring/) - Official "Authoring" tutorial.
+- [Service: Quarto Pub](https://quartopub.com/) - Create documents, websites, presentations, books, and blogs in Quarto, then securely publish them to the web with the Quarto CLI, the easiest way to publish and share on the web.
 
 ## Tutorials & workshops
 
@@ -71,6 +73,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
 - [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) - An in-depth guide on how to start blogging with Quarto.
+- [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/) - A blog post introducing a new Quarto blog and the steps to create your own blog with Quarto.
 
 ## Talks and videos
 
@@ -79,16 +82,22 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://www.openscapes.org/) Community Talk: Hello Quarto!
 - [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.
 
-## Supported editors/software
+## Supported editors
 
 - [Emacs](https://github.com/quarto-dev/quarto-emacs) - [Emacs](https://www.gnu.org/software/emacs/) mode for Quarto.
-- [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
 - [Neovim](https://github.com/quarto-dev/quarto-nvim) - [Neovim](https://neovim.io/) tools to work with Quarto.
-- [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
-- [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
 - [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+
+## Libraries/Packages/Scripts
+
+- [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
+- [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+- [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
+- [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
+- [Simulate colorblindeness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
+- [quartostamp](https://github.com/matt-dray/quartostamp) - An R package An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` format document.
 
 ## Continuous integration / Continuous deployment
 
@@ -107,6 +116,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
 - [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
+- [abstract-section](https://github.com/tarleb/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
 
 ## Templates
 
@@ -123,10 +133,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Presentations
 
-- [quarto-revealjs-storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
-- [quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
-- [quarto-rladies-theme](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` format.
-- [onyxia-quarto](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` format.
+- [Storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
+- [Xoeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
+- [R-Ladies](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` format.
+- [Onyxia](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` format.
+- [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `revealjs` format.
+- [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `revealjs` format.
 
 ## Real life examples
 
@@ -146,6 +158,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [rlille.fr](https://github.com/RLille/rlille.fr) - The R Lille (R User Group) website using Quarto.
 - [R-Manuals](https://github.com/rstudio/r-manuals) - R Manuals rewritten with Quarto.
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
+- [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 
 ### Book formats
 
