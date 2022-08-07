@@ -93,6 +93,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
 - [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
 - [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
+- [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
 
 ## Continuous integration / Continuous deployment
 
