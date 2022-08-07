@@ -97,7 +97,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
 - [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
 - [Simulate colorblindeness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
-- [quartostamp](https://github.com/matt-dray/quartostamp) - An R package An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` format document.
+- [quartostamp](https://github.com/matt-dray/quartostamp) - An R package An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `reveal.js` document.
 
 ## Continuous integration / Continuous deployment
 
@@ -117,7 +117,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
 - [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 - [abstract-section](https://github.com/tarleb/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
-- [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `revealjs` format presentations.
+- [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.
 
 ## Templates
 
@@ -134,12 +134,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Presentations
 
-- [Storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` format.
-- [Xoeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` format.
-- [R-Ladies](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` format.
-- [Onyxia](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` format.
-- [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `revealjs` format.
-- [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `revealjs` format.
+- [Storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `reveal.js` presentation.
+- [Xoeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `reveal.js` presentation.
+- [R-Ladies](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `reveal.js` presentation.
+- [Onyxia](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `reveal.js` presentation.
+- [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `reveal.js` presentation.
+- [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `reveal.js` presentation.
 
 ## Real life examples
 
