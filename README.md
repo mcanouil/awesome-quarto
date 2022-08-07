@@ -35,7 +35,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Supported editors](#supported-editors)
-- [Libraries/Packages](#librariespackages)
+- [Libraries/Packages/Scripts](#librariespackagesscripts)
 - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Templates](#templates)
@@ -88,12 +88,13 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
 
-## Libraries/Packages
+## Libraries/Packages/Scripts
 
 - [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
 - [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
 - [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
 - [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
+- [Simulate colorblindeness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
 
 ## Continuous integration / Continuous deployment
 
