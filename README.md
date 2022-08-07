@@ -59,6 +59,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Tutorial: Hello, Quarto](https://quarto.org/docs/get-started/hello/) - Official "Hello, Quarto" tutorial.
 - [Tutorial: Computations](https://quarto.org/docs/get-started/computations/) - Official "Computations" tutorial.
 - [Tutorial: Authoring](https://quarto.org/docs/get-started/authoring/) - Official "Authoring" tutorial.
+- [Service: Quarto Pub](https://quartopub.com/) - Create documents, websites, presentations, books, and blogs in Quarto, then securely publish them to the web with the Quarto CLI, the easiest way to publish and share on the web.
 
 ## Tutorials & workshops
 
