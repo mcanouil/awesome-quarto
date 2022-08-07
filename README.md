@@ -151,6 +151,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [rlille.fr](https://github.com/RLille/rlille.fr) - The R Lille (R User Group) website using Quarto.
 - [R-Manuals](https://github.com/rstudio/r-manuals) - R Manuals rewritten with Quarto.
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
+- [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 
 ### Book formats
 
