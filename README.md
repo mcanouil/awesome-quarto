@@ -51,7 +51,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Official](#official)
   - [Community](#community)
 
+<!--lint disable awesome-list-item-->
+
 ## Featured (new releases)
+
+<!--lint enable awesome-list-item-->
 
 ## Official documentation & quickstarts
 
