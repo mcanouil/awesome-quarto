@@ -37,4 +37,4 @@ jobs:
       - name: "install awesome-bot"
         run: gem install awesome_bot
       - name: "linting: README.md"
-        run: awesome_bot --allow-redirect --white-list quarto.org,https://github.com/quarto-dev README.md
+        run: awesome_bot --allow-redirect --allow-dupe --white-list quarto.org,https://github.com/quarto-dev README.md
