@@ -57,6 +57,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Featured (new releases)
 
 - [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
+- [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
+- [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
 
 <!--lint enable awesome-list-item-->
 
@@ -170,6 +172,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
 - [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 - [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
+- [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
 
 ### Book formats
 
