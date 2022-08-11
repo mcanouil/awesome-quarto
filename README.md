@@ -1,15 +1,13 @@
+<!--lint disable double-link-->
+
 <div align="center">
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml) --><!-- omit in toc -->
+# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<!-- <a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
-</a> -->
 <a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
   <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text "awesome" and then the Quarto logo in blue and grey blue as per Quarto's logo."/>
 </a>
@@ -28,32 +26,34 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
-## Contents <!-- omit in toc -->
+<!--lint enable double-link-->
 
-- [Awesome Quarto](#awesome-quarto)
-  - [Featured (new releases)](#featured-new-releases)
-  - [Official documentation & quickstarts](#official-documentation--quickstarts)
-  - [Tutorials & workshops](#tutorials--workshops)
-  - [Blog posts](#blog-posts)
-  - [Talks and videos](#talks-and-videos)
-  - [Supported editors](#supported-editors)
-  - [Libraries/Packages/Scripts](#librariespackagesscripts)
-  - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
-  - [Extensions](#extensions)
-  - [Templates](#templates)
-    - [Journals](#journals)
-    - [Presentations](#presentations)
-    - [HTML Documents](#html-documents)
-  - [Real life examples](#real-life-examples)
-    - [Presentations formats](#presentations-formats)
-    - [Websites formats](#websites-formats)
-    - [Book formats](#book-formats)
-    - [Other formats](#other-formats)
-  - [Follow](#follow)
-    - [Official](#official)
-    - [Community](#community)
+## Contents
+
+- [Featured (new releases)](#featured-new-releases)
+- [Official documentation & quickstarts](#official-documentation--quickstarts)
+- [Tutorials & workshops](#tutorials--workshops)
+- [Blog posts](#blog-posts)
+- [Talks and videos](#talks-and-videos)
+- [Supported editors](#supported-editors)
+- [Libraries/Packages/Scripts](#librariespackagesscripts)
+- [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
+- [Extensions](#extensions)
+- [Templates](#templates)
+  - [Journals](#journals)
+  - [Presentations](#presentations)
+  - [HTML Documents](#html-documents)
+- [Real life examples](#real-life-examples)
+  - [Presentations formats](#presentations-formats)
+  - [Websites formats](#websites-formats)
+  - [Book formats](#book-formats)
+  - [Other formats](#other-formats)
+- [Follow](#follow)
+  - [Official](#official)
+  - [Community](#community)
 
 <!--lint disable awesome-list-item-->
+<!--lint disable double-link-->
 
 ## Featured (new releases)
 
@@ -76,6 +76,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Tutorials & workshops
 
+- [Tutorial: The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) - An in-depth guide on how to start blogging with Quarto.
+- [Tutorial: Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/) - A blog post introducing a new Quarto blog and the steps to create your own blog with Quarto.
 - [Tutorial: Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
 - [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
 - [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf(2022).
@@ -85,16 +87,14 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
-- [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) - An in-depth guide on how to start blogging with Quarto.
-- [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/) - A blog post introducing a new Quarto blog and the steps to create your own blog with Quarto.
 
 ## Talks and videos
 
 - [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
 - [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
 - [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://www.openscapes.org/) Community Talk: Hello Quarto!
-- [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.
-- [Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
+- [Tutorial: How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.
+- [Workshop: Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
 
 ## Supported editors
 
@@ -209,6 +209,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 *Who else should we be following!?*
 
-## Contributing <!-- omit in toc -->
+## Contributing
 
 Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
