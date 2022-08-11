@@ -2,7 +2,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto
+# Awesome Quarto <!-- omit in toc -->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml) --><!-- omit in toc -->
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
@@ -30,28 +30,27 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Contents <!-- omit in toc -->
 
-- [Awesome Quarto](#awesome-quarto)
-  - [Featured (new releases)](#featured-new-releases)
-  - [Official documentation & quickstarts](#official-documentation--quickstarts)
-  - [Tutorials & workshops](#tutorials--workshops)
-  - [Blog posts](#blog-posts)
-  - [Talks and videos](#talks-and-videos)
-  - [Supported editors](#supported-editors)
-  - [Libraries/Packages/Scripts](#librariespackagesscripts)
-  - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
-  - [Extensions](#extensions)
-  - [Templates](#templates)
-    - [Journals](#journals)
-    - [Presentations](#presentations)
-    - [HTML Documents](#html-documents)
-  - [Real life examples](#real-life-examples)
-    - [Presentations formats](#presentations-formats)
-    - [Websites formats](#websites-formats)
-    - [Book formats](#book-formats)
-    - [Other formats](#other-formats)
-  - [Follow](#follow)
-    - [Official](#official)
-    - [Community](#community)
+- [Featured (new releases)](#featured-new-releases)
+- [Official documentation & quickstarts](#official-documentation--quickstarts)
+- [Tutorials & workshops](#tutorials--workshops)
+- [Blog posts](#blog-posts)
+- [Talks and videos](#talks-and-videos)
+- [Supported editors](#supported-editors)
+- [Libraries/Packages/Scripts](#librariespackagesscripts)
+- [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
+- [Extensions](#extensions)
+- [Templates](#templates)
+  - [Journals](#journals)
+  - [Presentations](#presentations)
+  - [HTML Documents](#html-documents)
+- [Real life examples](#real-life-examples)
+  - [Presentations formats](#presentations-formats)
+  - [Websites formats](#websites-formats)
+  - [Book formats](#book-formats)
+  - [Other formats](#other-formats)
+- [Follow](#follow)
+  - [Official](#official)
+  - [Community](#community)
 
 <!--lint disable awesome-list-item-->
 
