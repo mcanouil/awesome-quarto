@@ -60,6 +60,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
 - [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
 - [YouTube embed](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
+- [Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
 
 <!--lint enable awesome-list-item-->
 
@@ -92,6 +93,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
 - [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://www.openscapes.org/) Community Talk: Hello Quarto!
 - [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS.
+- [Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
 
 ## Supported editors
 
