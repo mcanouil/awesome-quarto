@@ -43,6 +43,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Templates](#templates)
     - [Journals](#journals)
     - [Presentations](#presentations)
+    - [HTML Documents](#html-documents)
   - [Real life examples](#real-life-examples)
     - [Presentations formats](#presentations-formats)
     - [Websites formats](#websites-formats)
@@ -154,6 +155,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Onyxia](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `reveal.js` presentation.
 - [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `reveal.js` presentation.
 - [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `reveal.js` presentation.
+
+### HTML Documents
+
 - [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
 
 ## Real life examples
