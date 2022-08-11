@@ -1,15 +1,13 @@
+<!--lint disable double-link-->
+
 <div align="center">
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto <!-- omit in toc -->
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- [![lint](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml/badge.svg)](https://github.com/mcanouil/awesome-quarto/actions/workflows/lint.yml) --><!-- omit in toc -->
+# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<!-- <a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://quarto.org/quarto.png" alt-text="Quarto logo with text, which is a filled circle splitted in four with quarto as text on the right in lower case and the trademark symbol in superscrit at the end."/>
-</a> -->
 <a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
   <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text "awesome" and then the Quarto logo in blue and grey blue as per Quarto's logo."/>
 </a>
@@ -28,7 +26,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
-## Contents <!-- omit in toc -->
+<!--lint enable double-link-->
+
+## Contents
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official documentation & quickstarts](#official-documentation--quickstarts)
@@ -53,6 +53,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Community](#community)
 
 <!--lint disable awesome-list-item-->
+<!--lint disable double-link-->
 
 ## Featured (new releases)
 
@@ -208,6 +209,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 *Who else should we be following!?*
 
-## Contributing <!-- omit in toc -->
+## Contributing
 
 Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
