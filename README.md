@@ -60,6 +60,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
 - [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
 - [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
+<!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
 - [Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
 
@@ -132,6 +133,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 - [abstract-section](https://github.com/tarleb/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
 - [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.
+<!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
 
 ## Templates
