@@ -1,5 +1,4 @@
 <!--lint disable double-link-->
-<!--lint disable awesome-git-repo-age-->
 
 <div align="center">
 
