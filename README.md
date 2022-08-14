@@ -58,6 +58,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Featured (new releases)
 
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -132,6 +133,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 <!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 
 ## Templates
 
