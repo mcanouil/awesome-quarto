@@ -24,6 +24,7 @@ body:
       description: Please select the section you wish your suggestion to appear in.
       multiple: false
       options:
+        - Require a new section (please describe below)
         - Official documentation & quickstarts
         - Tutorials & workshops
         - Blog posts
