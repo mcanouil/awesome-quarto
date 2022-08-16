@@ -24,23 +24,23 @@ body:
       description: Please select the section you wish your suggestion to appear in.
       multiple: false
       options:
-        - label: Official documentation & quickstarts
-        - label: Tutorials & workshops
-        - label: Blog posts
-        - label: Talks and videos
-        - label: Supported editors
-        - label: Libraries/Packages/Scripts
-        - label: Continuous integration / Continuous deployment
-        - label: Extensions
-        - label: Templates/Journals
-        - label: Templates/Presentations
-        - label: Templates/HTML Documents
-        - label: Real life examples/Presentations formats
-        - label: Real life examples/Websites formats
-        - label: Real life examples/Book formats
-        - label: Real life examples/Other formats
-        - label: Follow/Official
-        - label: Follow/Community
+        - Official documentation & quickstarts
+        - Tutorials & workshops
+        - Blog posts
+        - Talks and videos
+        - Supported editors
+        - Libraries/Packages/Scripts
+        - Continuous integration / Continuous deployment
+        - Extensions
+        - Templates/Journals
+        - Templates/Presentations
+        - Templates/HTML Documents
+        - Real life examples/Presentations formats
+        - Real life examples/Websites formats
+        - Real life examples/Book formats
+        - Real life examples/Other formats
+        - Follow/Official
+        - Follow/Community
   - type: textarea
     id: description
     attributes:
