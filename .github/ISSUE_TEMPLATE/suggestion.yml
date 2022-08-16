@@ -17,9 +17,9 @@ body:
       required: true
   - type: dropdown
     id: section
-    attributes:
-      validations:
+    validations:
       required: true
+    attributes:
       label: Targeted section
       description: Please select the section you wish your suggestion to appear in.
       multiple: false
