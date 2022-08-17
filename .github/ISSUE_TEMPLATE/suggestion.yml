@@ -15,13 +15,33 @@ body:
       placeholder: https://...
     validations:
       required: true
-  - type: input
+  - type: dropdown
     id: section
-    attributes:
-      label: Targeted section
-      description: Please name the main section you wish your suggestion to appear in.
     validations:
       required: true
+    attributes:
+      label: Targeted section
+      description: Please select the section you wish your suggestion to appear in.
+      multiple: false
+      options:
+        - Require a new section (please describe below)
+        - Official documentation & quickstarts
+        - Tutorials & workshops
+        - Blog posts
+        - Talks and videos
+        - Supported editors
+        - Libraries/Packages/Scripts
+        - Continuous integration / Continuous deployment
+        - Extensions
+        - Templates/Journals
+        - Templates/Presentations
+        - Templates/HTML Documents
+        - Real life examples/Presentations formats
+        - Real life examples/Websites formats
+        - Real life examples/Book formats
+        - Real life examples/Other formats
+        - Follow/Official
+        - Follow/Community
   - type: textarea
     id: description
     attributes:
