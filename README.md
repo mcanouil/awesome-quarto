@@ -57,14 +57,15 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
-- [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
-- [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
-<!--lint ignore awesome-spell-check-->
-- [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
-- [Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - Getting Started with Quarto in a 2-hour workshop led by Tom Mock, RStudio (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
+- [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
+- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
+- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
+- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 
 <!--lint enable awesome-list-item-->
+<!--lint enable double-link-->
 
 ## Official documentation & quickstarts
 
@@ -88,6 +89,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 
 ## Talks and videos
 
@@ -132,9 +134,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
 - [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
 - [abstract-section](https://github.com/tarleb/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
-- [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.
-<!--lint ignore awesome-spell-check-->
+- [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.<!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
+- [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
+- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
+- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 
 ## Templates
 
@@ -148,6 +153,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [jss](https://github.com/quarto-journals/jss) - Template for *Journal of Statistical Software*.
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
 - [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
+- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
 
 ### Presentations
 
@@ -183,6 +189,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 - [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
 - [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
+- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 
 ### Book formats
 
@@ -191,6 +198,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 
 ### Other formats
+
+<!--lint disable awesome-list-item-->
+<!--lint disable double-link-->
 
 ## Follow
 
