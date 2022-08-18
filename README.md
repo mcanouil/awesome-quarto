@@ -61,6 +61,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 - [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
+- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -150,6 +151,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [jss](https://github.com/quarto-journals/jss) - Template for *Journal of Statistical Software*.
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
 - [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
+- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
 
 ### Presentations
 
