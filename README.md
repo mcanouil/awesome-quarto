@@ -209,13 +209,16 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
 - [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
 - [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
-- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team.
-- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team.
-- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team.
-- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team.
-- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team.
+- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team (twitter: [\@fly_upside_down](https://twitter.com/fly_upside_down)).
+- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (twitter: [\@chrisderv](https://twitter.com/chrisderv)).
+- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (twitter: [\@scheidegger](https://twitter.com/scheidegger)).
+- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team (twitter: [\@dragonstyle](https://twitter.com/dragonstyle)).
+- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team (twitter: [\@xieyihui](https://twitter.com/xieyihui)).
+- [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager (twitter: [\@thomas_mock](https://twitter.com/thomas_mock)).
 
 ### Community
+
+- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil)).
 
 *Who else should we be following!?*
 
