@@ -26,8 +26,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
-<!--lint enable double-link-->
-
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
