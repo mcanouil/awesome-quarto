@@ -60,6 +60,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
 - [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 - [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -86,6 +87,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 
 ## Talks and videos
 
