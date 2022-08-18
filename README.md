@@ -60,8 +60,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
 - [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 - [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
-- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 - [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
+- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -88,7 +89,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
-- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
+- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 
 ## Talks and videos
 
@@ -138,6 +139,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
 - [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
 - [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
+- [R for Social Scientists workshop](https://pittmethods.github.io/r4ss/) - https://github.com/pittmethods/r4ss
 
 ## Templates
 
@@ -187,6 +189,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 - [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
 - [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
+- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 
 ### Book formats
 
