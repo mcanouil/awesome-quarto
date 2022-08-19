@@ -56,8 +56,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Featured (new releases)
 
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
-- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
-- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTML-based documents.
+- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTML-based documents on various social media platforms.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 - [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
 - [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
@@ -135,9 +135,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.<!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
-- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTM-based documents.
-- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTM-based documents on various social media platforms.
-- [nutshell](https://github.com/schochastics/quarto-nutshell) - This extension provides a filter to embed [Nutshell](https://github.com/ncase/nutshell) in HTM-based documents.
+- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTML-based documents.
+- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTML-based documents on various social media platforms.
+- [nutshell](https://github.com/schochastics/quarto-nutshell) - This extension provides a filter to embed [Nutshell](https://github.com/ncase/nutshell) in HTML-based documents.
 
 ## Templates
 
