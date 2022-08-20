@@ -113,6 +113,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation into a Quarto website.
 - [Simulate colorblindeness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
 - [quartostamp](https://github.com/matt-dray/quartostamp) - An R package An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `reveal.js` document.
+- [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 
 ## Continuous integration / Continuous deployment
 
