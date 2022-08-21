@@ -41,6 +41,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Journals](#journals)
   - [Presentations](#presentations)
   - [HTML Documents](#html-documents)
+  - [PDF Documents](#pdf-documents)
 - [Real life examples](#real-life-examples)
   - [Presentations formats](#presentations-formats)
   - [Websites formats](#websites-formats)
@@ -167,7 +168,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### HTML Documents
 
-- [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents.
+- [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for Quarto to create sketchy looking HTML documents.
+
+### PDF Documents
+
+- [letter](https://github.com/mcanouil/quarto-letter) - A template for Quarto to create letter PDF documents.
 
 ## Real life examples
 
@@ -197,7 +202,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [R for Data Science, 2E](https://github.com/hadley/r4ds/) - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
 - [R Packages, 2E](https://github.com/hadley/r-pkgs/) - "R Packages" book second edition (see <https://r-pkgs.org/>).
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
-- [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a quarto book format.
+- [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
 
 ### Other formats
 
