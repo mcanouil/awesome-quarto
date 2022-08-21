@@ -1,7 +1,8 @@
 ## What does this PR do?
 
-List your suggestions here and why they are useful to the community.
-<!-- - <Link> - <description>-->
+<!-- List your suggestions here and why they are useful to the community. -->
+
+<!-- - <Link> - <description> -->
 
 ## Requirements for your Awesome item list
 
