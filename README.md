@@ -88,7 +88,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
-- [Heads up! Quarto is here to stay](https://www.ds-econ.com/quarto/)
+- [Heads up! Quarto is here to stay](https://www.ds-econ.com/quarto/) - A post providing an overview of quarto, focussing on weaving together R and Python. Also provides help for M1 Mac users that run into trouble.
 
 ## Talks and videos
 
