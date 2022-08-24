@@ -122,6 +122,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Continuous integration / Continuous deployment
 
 - [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) - Official Quarto GitHub Actions allowing to setup, render, and deploy Quarto projects via GitHub Actions.
+- [Quarto Website with GitHub Actions](https://tarleb.com/posts/quarto-with-gh-pages/) - Publih a Quarto website automatically every time it is updated via GitHub Actions.
 
 ## Extensions
 
