@@ -78,6 +78,7 @@ jobs:
             "#RStats @rstats_tweets #Python #ObservableHQ @observablehq #JuliaLang @JuliaLanguage",
             sep = "\n"
           )
+          message(tweet_body)
           library(rtweet)
           auth <- rtweet_bot(
             api_key = Sys.getenv("TWITTER_API_KEY"),
