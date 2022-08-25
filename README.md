@@ -150,7 +150,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [academicons](https://github.com/schochastics/academicons) - This extension provides support for
 [academicons](https://jpswalsh.github.io/academicons/) icons library (*HTML-based format only*).
 - [molstar](https://github.com/jmbuhr/quarto-molstar) - This extension provides shortcodes for [molstar](https://github.com/molstar/molstar), a tool to display macro-molecules such as proteins as well as molecular dynamics trajectories in an interactive viewer.
-- [abstract-section](https://github.com/tarleb/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
+- [abstract-section](https://github.com/pandoc-ext/abstract-section) - This extension allows to write an abstract anywhere in the main text and moves it to the metadata.
 - [reveal-auto-agenda](https://github.com/andrie/reveal-auto-agenda) - This extension automatically creates agenda/outline slides for your Quarto `reveal.js` presentations.<!--lint ignore awesome-spell-check-->
 - [youtube](https://github.com/sellorm/quarto-youtube-embed) - This extension provides shortcodes to embed YouTube videos.
 - [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
