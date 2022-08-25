@@ -151,7 +151,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTML-based documents on various social media platforms.
 - [nutshell](https://github.com/schochastics/quarto-nutshell) - This extension provides a filter to embed [Nutshell](https://github.com/ncase/nutshell) in HTML-based documents.
 - [section-bibliographies](https://github.com/pandoc-ext/section-bibliographies) - This extension provides a filter to create a separate bibliography for each section or chapter.
-- [video](https://github.com/allenmanning/video) - This extension provides shortcodes to embed videos in HTML-based documents.
+- [video](https://github.com/quarto-ext/video) - This extension provides shortcodes to embed videos in HTML-based documents.
 
 ## Templates
 
