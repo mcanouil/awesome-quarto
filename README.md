@@ -56,12 +56,19 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [iconify](https://github.com/mcanouil/quarto-iconify) - This extension provides shortcodes to [Iconify](https://icon-sets.iconify.design/) icons library (*HTML-based format only*).
-- [twitter](https://github.com/sellorm/quarto-twitter-embed) - This extension provides shortcodes to embed tweets in HTML-based documents.
-- [social-share](https://github.com/schochastics/quarto-social-share) - This extension allows to add buttons to share HTML-based documents on various social media platforms.
-- [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
-- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
-- [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
+- [Heads up! Quarto is here to stay](https://www.ds-econ.com/quarto/) - A post providing an overview of Quarto, focussing on weaving together R and Python. Also provides help for Apple Silicon Mac users that run into trouble.
+- [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/) - A blog post about "The art of putting together slides that are functional and aesthetically pleasing" using Quarto presentation format by Emil Hvitfeldt.
+- [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
+- [Quartize](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
+- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
+- [Quarto Website with GitHub Actions](https://tarleb.com/posts/quarto-with-gh-pages/) - Publih a Quarto website automatically every time it is updated via GitHub Actions.
+- [nutshell](https://github.com/schochastics/quarto-nutshell) - This extension provides a filter to embed [Nutshell](https://github.com/ncase/nutshell) in HTM-based documents.
+- [section-bibliographies](https://github.com/pandoc-ext/section-bibliographies) - This extension provides a filter to create a separate bibliography for each section or chapter.
+- [video](https://github.com/quarto-ext/video) - This extension provides shortcodes to embed videos in HTML-based documents.
+- [letter](https://github.com/mcanouil/quarto-letter) - A template for Quarto to create letter PDF documents.
+- [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a quarto book format.
+- [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager (twitter: [\@thomas_mock](https://twitter.com/thomas_mock)).
+- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil)).
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
