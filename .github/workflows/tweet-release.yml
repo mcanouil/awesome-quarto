@@ -49,5 +49,5 @@ jobs:
               "https://github.com/mcanouil/awesome-quarto#featured-new-releases",
               Sys.getenv("RELEASE_URL")
             ),
-            token = RELEASE_URL
+            token = rbot_token
           )
