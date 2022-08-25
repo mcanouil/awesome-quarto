@@ -46,10 +46,11 @@ jobs:
               "What's new in #QuartoPub (@quarto_pub)? let's find out!",
               "Release: %s",
               "New additions: %s",
+              "#RStats #Python #ObservableHQ #Julia",
               sep = "\n"
             ),
             release_url,
-            "https://github.com/", Sys.getenv("GITHUB_REPOSITORY"), "#featured-new-releases",
+            "https://github.com/", Sys.getenv("GITHUB_REPOSITORY"), "#featured-new-releases"
           )
           library(rtweet)
           auth <- rtweet_bot(
@@ -79,10 +80,11 @@ jobs:
               "What's new in #QuartoPub (@quarto_pub)? let's find out!",
               "Release: %s",
               "New additions: %s",
+              "#RStats #Python #ObservableHQ #Julia",
               sep = "\n"
             ),
             release_url,
-            "https://github.com/", Sys.getenv("GITHUB_REPOSITORY"), "#featured-new-releases",
+            "https://github.com/", Sys.getenv("GITHUB_REPOSITORY"), "#featured-new-releases"
           )
           library(rtweet)
           auth <- rtweet_bot(
