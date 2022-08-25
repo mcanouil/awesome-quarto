@@ -29,14 +29,8 @@ jobs:
       - name: Post Tweet
         shell: Rscript {0}
         run: |
-          rbot_token <- rtweet::create_token(
-            app = "AwesomeQuarto",
-            consumer_key = Sys.getenv("RBOT_TWITTER_CLIENT_API_KEY"),
-            consumer_secret = Sys.getenv("RBOT_TWITTER_CLIENT_API_SECRET"),
-            access_token = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN"),
-            access_secret = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN_SECRET"),
-            set_renv = FALSE
-          )
+          token <- rtweet::rtweet_user(api_key = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN"), api_secret = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN_SECRET"))
+          # rtweet::auth_as(token)
           rtweet::post_tweet(
             status = sprintf(
               paste(
@@ -49,5 +43,5 @@ jobs:
               "https://github.com/mcanouil/awesome-quarto#featured-new-releases",
               Sys.getenv("RELEASE_URL")
             ),
-            token = rbot_token
+            token = token
           )
