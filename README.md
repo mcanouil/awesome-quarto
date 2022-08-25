@@ -90,6 +90,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 - [Heads up! Quarto is here to stay](https://www.ds-econ.com/quarto/) - A post providing an overview of Quarto, focussing on weaving together R and Python. Also provides help for Apple Silicon Mac users that run into trouble.
+- [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/) - A blog post about "The art of putting together slides that are functional and aesthetically pleasing" using Quarto presentation format by Emil Hvitfeldt.
 
 ## Talks and videos
 
