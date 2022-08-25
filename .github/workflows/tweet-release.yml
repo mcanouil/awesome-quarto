@@ -1,0 +1,53 @@
+
+name: Tweet Release
+
+on:
+  release:
+    types: [published]
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  tweet-release:
+    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+    env:
+      RBOT_TWITTER_CONSUMER_API_KEY: ${{ secrets.RBOT_TWITTER_CONSUMER_API_KEY }}
+      RBOT_TWITTER_CONSUMER_API_SECRET: ${{ secrets.RBOT_TWITTER_CONSUMER_API_SECRET }}
+      RBOT_TWITTER_ACCESS_TOKEN: ${{ secrets.RBOT_TWITTER_ACCESS_TOKEN }}
+      RBOT_TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.RBOT_TWITTER_ACCESS_TOKEN_SECRET }}
+      RELEASE_URL: ${{ github.event.release.html_url }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: any::rtweet
+      - name: Post Tweet
+        shell: Rscript {0}
+        run: |
+          rbot_token <- rtweet::create_token(
+            app = "AwesomeQuarto",
+            consumer_key = Sys.getenv("RBOT_TWITTER_CLIENT_API_KEY"),
+            consumer_secret = Sys.getenv("RBOT_TWITTER_CLIENT_API_SECRET"),
+            access_token = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN"),
+            access_secret = Sys.getenv("RBOT_TWITTER_ACCESS_TOKEN_SECRET"),
+            set_renv = FALSE
+          )
+          rtweet::post_tweet(
+            status = sprintf(
+              paste(
+                "New #AwesomeQuarto release!",
+                "What's new in #QuartoPub (@quarto_pub)? let's find out!",
+                "New additions: %s",
+                "Release: %s",
+                sep = "\n"
+              ),
+              "https://github.com/mcanouil/awesome-quarto#featured-new-releases",
+              Sys.getenv("RELEASE_URL")
+            ),
+            token = RELEASE_URL
+          )
