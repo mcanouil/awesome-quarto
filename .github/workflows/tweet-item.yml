@@ -1,0 +1,78 @@
+
+name: Tweet Item
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  tweet-item:
+    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+    env:
+      TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+      TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+      TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: any::rtweet, any::httpuv
+      - name: Post Tweet
+        shell: Rscript {0}
+        run: |
+          readme <- readLines("README.md")
+          readme <- readme[readme != ""]
+          readme <- readme[-grep("^###", readme)]
+          readme <- readme[-seq_len(grep("^## ", readme)[1] - 1)]
+          items <- sapply(
+            X = split(
+              x = readme,
+              f = cut(
+                x = seq_along(readme),
+                breaks = c(grep("^## ", readme) - 1, length(readme)),
+                include.lowest = TRUE
+              )
+            ),
+            cat = categories <- c(
+              "## Tutorials & workshops",
+              "## Blog posts",
+              "## Talks and videos",
+              "## Continuous integration / Continuous deployment",
+              "## Extensions",
+              "## Templates"
+            ),
+            FUN = function(x, cat) {
+              if (!x[[1]] %in% cat) return(NULL)
+              out <- x[grep("^- ", x)]
+              out <- sub("^- \\[([^]]*)\\]", "'\\1' ", out)
+              out <- gsub("\\[([^]]+)\\]\\([^)]+\\)", "\\1", out)
+              out <- gsub(" \\(materials: [^)]+\\)| \\(slides: [^)]+\\)", "", out)
+              out <- gsub("\\*", "", out)
+              out <- sub(" - ", "\n", out)
+              out <- sub("(\\@rladies) ", "", out, fixed = TRUE)
+              out
+            }
+          )
+          items <- unlist(items[!sapply(items, is.null)], use.names = FALSE)
+          library(rtweet)
+          auth <- rtweet_bot(
+            api_key = Sys.getenv("TWITTER_API_KEY"),
+            api_secret = Sys.getenv("TWITTER_API_KEY_SECRET"),
+            access_token = Sys.getenv("TWITTER_ACCESS_TOKEN"),
+            access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
+          )
+          auth_as(auth)
+          post_tweet(status = paste(
+            paste("From #AwesomeQuarto:", sample(items, 1)),
+            "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang @JuliaLanguage",
+            sep = "\n"
+          ))
