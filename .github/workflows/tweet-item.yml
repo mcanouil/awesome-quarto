@@ -13,7 +13,6 @@ concurrency:
 jobs:
   tweet-item:
     runs-on: macos-latest
-    if: ${{ false }}
     strategy:
       fail-fast: false
     env:
