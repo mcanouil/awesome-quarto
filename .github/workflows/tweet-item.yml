@@ -62,7 +62,27 @@ jobs:
               out
             }
           )
-          items <- unlist(items[!sapply(items, is.null)], use.names = FALSE)
+          items <- c(
+            paste(
+              paste("From #AwesomeQuarto:", unlist(items[!sapply(items, is.null)], use.names = FALSE)),
+              "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang",
+              sep = "\n"
+            ),
+            paste(
+              "Any #QuartoPub (@quarto_pub) questions/issues/ideas? There is only one place!",
+              "Take a look at the Issues and Discussions, it’s a gold mine of tips, tricks, hacks, solutions, and more.",
+              "https://github.com/quarto-dev/quarto-cli",
+              "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang #AwesomeQuarto",
+              sep = "\n"
+            ),
+            paste(
+              "You saw or you made something related to #QuartoPub (@quarto_pub) either with #RStats, #Python, #ObservableHQ, or #JuliaLang?"
+              "You want it to be seen/shared?"
+              "Please submit a suggestion issue to #AwesomeQuarto https://github.com/mcanouil/awesome-quarto"
+              "PS: if you like this list, star it and share it 😉",
+              sep = "\n"
+            )
+          )
           library(rtweet)
           auth <- rtweet_bot(
             api_key = Sys.getenv("TWITTER_API_KEY"),
@@ -71,8 +91,4 @@ jobs:
             access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
           )
           auth_as(auth)
-          post_tweet(status = paste(
-            paste("From #AwesomeQuarto:", sample(items, 1)),
-            "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang @JuliaLanguage",
-            sep = "\n"
-          ))
+          post_tweet(status = sample(items, 1))
