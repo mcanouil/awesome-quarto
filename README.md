@@ -190,6 +190,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### PDF Documents
 
 - [letter](https://github.com/mcanouil/quarto-letter) - A template for Quarto to create letter PDF documents.
+- [hikmah](https://github.com/andrewheiss/hikmah-academic-quarto) - An opinionated template for Quarto to create PDF documents with support to `biblatex-chicago` and more.
 
 ## Real life examples
 
