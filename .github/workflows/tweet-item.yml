@@ -76,9 +76,9 @@ jobs:
               sep = "\n"
             ),
             paste(
-              "You saw or you made something related to #QuartoPub (@quarto_pub) either with #RStats, #Python, #ObservableHQ, or #JuliaLang?"
-              "You want it to be seen/shared?"
-              "Please submit a suggestion issue to #AwesomeQuarto https://github.com/mcanouil/awesome-quarto"
+              "You saw or you made something related to #QuartoPub (@quarto_pub) either with #RStats, #Python, #ObservableHQ, or #JuliaLang?",
+              "You want it to be seen/shared?",
+              "Please submit a suggestion issue to #AwesomeQuarto https://github.com/mcanouil/awesome-quarto",
               "PS: if you like this list, star it and share it 😉",
               sep = "\n"
             )
