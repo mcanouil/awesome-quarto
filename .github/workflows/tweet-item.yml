@@ -42,7 +42,7 @@ jobs:
                 include.lowest = TRUE
               )
             ),
-            cat = categories <- c(
+            cat = c(
               "## Tutorials & workshops",
               "## Blog posts",
               "## Talks and videos",
@@ -59,6 +59,7 @@ jobs:
               out <- gsub("\\*", "", out)
               out <- sub(" - ", "\n", out)
               out <- sub("(\\@rladies) ", "", out, fixed = TRUE)
+              out <- sub("twitter: \\", "twitter: ", out, fixed = TRUE)
               out
             }
           )
