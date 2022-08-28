@@ -4,7 +4,7 @@ name: Tweet Item
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 */12 * * *"
 
 concurrency:
   group: ${{ github.workflow }}
@@ -71,7 +71,7 @@ jobs:
             ),
             paste(
               "Any #QuartoPub (@quarto_pub) questions/issues/ideas? There is only one place!",
-              "Take a look at the Issues and Discussions, it’s a gold mine of tips, tricks, hacks, solutions, and more.",
+              "Take a look at the Issues and Discussions, it's a gold mine of tips, tricks, hacks, solutions, and more.",
               "https://github.com/quarto-dev/quarto-cli",
               "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang #AwesomeQuarto",
               sep = "\n"
