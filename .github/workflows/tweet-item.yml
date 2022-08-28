@@ -94,4 +94,5 @@ jobs:
             access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
           )
           auth_as(auth)
-          post_tweet(status = item)
+          i <- 0
+          while(inherits(try(post_tweet(status = item), silent = TRUE), "try-error") & i < 3) i <- i +1
