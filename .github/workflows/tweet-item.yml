@@ -84,6 +84,8 @@ jobs:
               sep = "\n"
             )
           )
+          item <- sample(items, 1)
+          message(item)
           library(rtweet)
           auth <- rtweet_bot(
             api_key = Sys.getenv("TWITTER_API_KEY"),
@@ -92,4 +94,4 @@ jobs:
             access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
           )
           auth_as(auth)
-          post_tweet(status = sample(items, 1))
+          post_tweet(status = item)
