@@ -59,6 +59,7 @@ jobs:
               out <- gsub("\\*", "", out)
               out <- sub(" - ", "\n", out)
               out <- sub("(\\@rladies) ", "", out, fixed = TRUE)
+              out <- sub("twitter: \\", "twitter: ", out, fixed = TRUE)
               out
             }
           )
