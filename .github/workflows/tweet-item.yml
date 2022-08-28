@@ -42,7 +42,7 @@ jobs:
                 include.lowest = TRUE
               )
             ),
-            cat = categories <- c(
+            cat = c(
               "## Tutorials & workshops",
               "## Blog posts",
               "## Talks and videos",
