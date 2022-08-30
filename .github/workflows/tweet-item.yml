@@ -84,6 +84,8 @@ jobs:
               sep = "\n"
             )
           )
+          items <- items[grepl("quarto-journals", items)]
+          set.seed(as.numeric(Sys.time()))
           item <- sample(items, 1)
           message(item)
           library(rtweet)
