@@ -97,4 +97,4 @@ jobs:
           )
           auth_as(auth)
           i <- 0
-          while(inherits(try(post_tweet(status = item), silent = TRUE), "try-error") & i < 3) i <- i +1
+          while(inherits(try(post_tweet(status = paste("🤖", item)), silent = TRUE), "try-error") & i < 3) i <- i +1
