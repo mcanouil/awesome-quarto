@@ -109,8 +109,8 @@ jobs:
             access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
           )
           auth_as(auth)
-          post_tweet(status = tweet_body)
+          post_tweet(status = paste("🤖", tweet_body))
           reply_id <- get_my_timeline()[["id_str"]][1]
           for (item in items) {
-            post_tweet(item, in_reply_to_status_id = reply_id)
+            post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id)
           }
