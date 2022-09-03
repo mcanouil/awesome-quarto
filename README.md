@@ -220,6 +220,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [R Packages, 2E](https://github.com/hadley/r-pkgs/) - "R Packages" book second edition (see <https://r-pkgs.org/>).
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`ml3r`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 - [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
+- [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) - "Python for Data Analysis" book thrid edition (see <https://wesmckinney.com/book/>).
 
 ### Other formats
 
