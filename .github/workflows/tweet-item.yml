@@ -67,14 +67,13 @@ jobs:
           items <- c(
             paste(
               paste("From #AwesomeQuarto:", unlist(items[!sapply(items, is.null)], use.names = FALSE)),
-              "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang",
+              "#QuartoPub",
               sep = "\n"
             ),
             paste(
               "Any #QuartoPub (@quarto_pub) questions/issues/ideas? There is only one place!",
               "Take a look at the Issues and Discussions, it's a gold mine of tips, tricks, hacks, solutions, and more.",
               "https://github.com/quarto-dev/quarto-cli",
-              "#QuartoPub #RStats #Python #ObservableHQ #JuliaLang #AwesomeQuarto",
               sep = "\n"
             ),
             paste(
