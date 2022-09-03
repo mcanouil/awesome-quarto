@@ -172,6 +172,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
 - [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
 - [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
+- [sportrxiv](https://github.com/smnnlt/sportrxiv) - Template for SportRxiv preprints.
 
 ### Presentations
 
