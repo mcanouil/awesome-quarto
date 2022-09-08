@@ -171,7 +171,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### Presentations
 
 - [Storybook](https://github.com/mcanouil/quarto-revealjs-storybook) - A medieval like template for Quarto `revealjs` presentation.
-- [Xoeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` presentation.
+- [Coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - A dark grey / white based template for Quarto `revealjs` presentation.
 - [R-Ladies](https://github.com/beatrizmilz/quarto-rladies-theme) - [R-Ladies](https://rladies.org/) ([\@rladies](https://github.com/rladies)) template for Quarto `revealjs` presentation.
 - [Onyxia](https://github.com/RLesur/onyxia-quarto) - [Onyxia](https://github.com/InseeFrLab/onyxia) template for Quarto `revealjs` presentation.
 - [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `revealjs` presentation.
