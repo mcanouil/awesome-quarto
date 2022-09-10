@@ -77,17 +77,25 @@ jobs:
               sep = "\n"
             ),
             paste(
-              "You saw or you made something related to #QuartoPub (@quarto_pub) either with #RStats, #Python, #ObservableHQ, or #JuliaLang?",
+              "You saw or you made something related to #QuartoPub (@quarto_pub)?",
               "You want it to be seen/shared?",
-              "Please submit a suggestion issue to #AwesomeQuarto https://github.com/mcanouil/awesome-quarto",
+              "Please submit a suggestion issue to #AwesomeQuarto (https://github.com/mcanouil/awesome-quarto)",
               "PS: if you like this list, star it and share it 😉",
               sep = "\n"
             )
           )
           items <- items[!grepl("quarto-journals", items)]
-          set.seed(as.numeric(Sys.time()))
+          over_char <- nchar(
+            gsub("\\(https://[^)]*\\)", paste(rep("_", 25), collapse = ""), items)
+          ) - 278
+          items[which(over_char > 0)] <- mapply(
+            FUN = function(x, y) {
+              sub(x, "...\n#QuartoPub", y)
+            },
+            x = sprintf(".{%s}\n#QuartoPub$", over_char[which(over_char > 0)] + 4),
+            y = items[which(over_char > 0)]
+          )
           item <- sample(items, 1)
-          message(item)
           library(rtweet)
           auth <- rtweet_bot(
             api_key = Sys.getenv("TWITTER_API_KEY"),
@@ -97,4 +105,8 @@ jobs:
           )
           auth_as(auth)
           i <- 0
-          while(inherits(try(post_tweet(status = paste("🤖", item)), silent = TRUE), "try-error") & i < 3) i <- i +1
+          while(inherits(try(post_tweet(status = paste("🤖", item)), silent = TRUE), "try-error") & i < 3) {
+            message(sprintf("Try: %s", i))
+            i <- i +1
+          }
+          message(item)
