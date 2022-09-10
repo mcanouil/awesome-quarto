@@ -186,6 +186,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 - [letter](https://github.com/mcanouil/quarto-letter) - A template for Quarto to create letter PDF documents.
 - [hikmah](https://github.com/andrewheiss/hikmah-academic-quarto) - An opinionated template for Quarto to create PDF documents with support to `biblatex-chicago` and more.
+- [titlepage](https://github.com/nmfs-opensci/quarto_titlepages) - This extension template brings several title pages for your PDF documents from one yaml option.
 
 ## Real life examples
 
