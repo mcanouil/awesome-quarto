@@ -27,4 +27,4 @@ jobs:
         with:
           packages: any::rtweet, any::httpuv
       - name: Post Tweet
-        run: Rscript tweet-item.R
+        run: Rscript .github/assets/tweet-item.R
