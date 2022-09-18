@@ -151,6 +151,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [video](https://github.com/quarto-ext/video) - This extension provides shortcodes to embed videos in HTML-based documents.
 - [qrcode](https://github.com/jmbuhr/quarto-qrcode) - This extension provides a shortcode to support QR codes via [QRCode.js](https://davidshimjs.github.io/qrcodejs/) (*HTML-based format only*).
 - [animate](https://github.com/mcanouil/quarto-animate) - This extension provides support and shortcode to [animate.css](https://animate.style/) (*HTML-based format only*).
+- [elevator](https://github.com/mcanouil/quarto-elevator) - This extension provides support and shortcode to Elevator.js.
 
 ## Templates
 
