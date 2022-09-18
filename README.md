@@ -57,9 +57,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [animate](https://github.com/mcanouil/quarto-animate) - This extension provides support and shortcode to [animate.css](https://animate.style/) (*HTML-based format only*).
-- [titlepage](https://github.com/nmfs-opensci/quarto_titlepages) - This extension template brings several title pages for your PDF documents from one yaml option.
-- [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (HTML and PDF-based).
+- [Workshop: Quarto, a library to run them all?](https://warwickcim.github.io/quarto-workshop/slides/slides.html) - Workshop at [RSECon'22](https://rsecon2022.society-rse.org/), led by Carlos Cámara, James Tripp and Cagatay Turkay (materials: <https://github.com/WarwickCIM/quarto-workshop>).
+- [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
+- [roughnotation](https://github.com/EmilHvitfeldt/quarto-roughnotation) - An extension that uses the [roughnotation](https://roughnotation.com/) JavaScript library to add animated annotations to `revealjs` documents.
+- [code-visibility](https://github.com/jjallaire/code-visibility) - This extension implements some directives for filtering code and stream output included within a document.
+- [elevator](https://github.com/mcanouil/quarto-elevator) - This extension provides support and shortcode to Elevator.js.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
