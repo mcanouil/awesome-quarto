@@ -82,6 +82,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Tutorial: Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
 - [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
 - [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf(2022).
+- [Workshop: Quarto, a library to run them all?](https://warwickcim.github.io/quarto-workshop/slides/slides.html) - Workshop at [RSECon'22](https://rsecon2022.society-rse.org/), led by Carlos Cámara, James Tripp and Cagatay Turkay (materials: <https://github.com/WarwickCIM/quarto-workshop>).
 
 ## Blog posts
 
@@ -113,6 +114,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+- [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
 
 ## Libraries/Packages/Scripts
 
@@ -153,6 +155,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [video](https://github.com/quarto-ext/video) - This extension provides shortcodes to embed videos in HTML-based documents.
 - [qrcode](https://github.com/jmbuhr/quarto-qrcode) - This extension provides a shortcode to support QR codes via [QRCode.js](https://davidshimjs.github.io/qrcodejs/) (*HTML-based format only*).
 - [animate](https://github.com/mcanouil/quarto-animate) - This extension provides support and shortcode to [animate.css](https://animate.style/) (*HTML-based format only*).
+- [elevator](https://github.com/mcanouil/quarto-elevator) - This extension provides support and shortcode to Elevator.js.
+- [code-visibility](https://github.com/jjallaire/code-visibility) - This extension implements some directives for filtering code and stream output included within a document.
+- [roughnotation](https://github.com/EmilHvitfeldt/quarto-roughnotation) - An extension that uses the [roughnotation](https://roughnotation.com/) JavaScript library to add animated annotations to `revealjs` documents.
 
 ## Templates
 
