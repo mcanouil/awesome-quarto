@@ -15,9 +15,9 @@ items <- sapply(
     "## Tutorials & workshops",
     "## Blog posts",
     "## Talks and videos",
-    "## Continuous integration / Continuous deployment",
-    "## Extensions",
-    "## Templates"
+    "## Continuous integration / Continuous deployment"#,
+    # "## Extensions",
+    # "## Templates"
   ),
   FUN = function(x, cat) {
     if (!x[[1]] %in% cat) return(NULL)
