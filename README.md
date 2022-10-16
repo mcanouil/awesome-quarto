@@ -60,6 +60,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Tutorial: Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/) - A step-by-step guide for setting up a personal website using Quarto by Samantha Csik.
 - [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
 - [attribution](https://github.com/quarto-ext/attribution) - A Quarto extension that brings Reveal.js plugin for displaying attribution text sideways along the right edge of the viewport.
+- [shinylive](https://github.com/quarto-ext/shinylive) - This extension lets you embed [Shinylive](https://shiny.rstudio.com/py/docs/shinylive.html) ([Shiny for Python](https://shiny.rstudio.com/py/)) applications in a Quarto document.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -157,6 +158,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [code-visibility](https://github.com/jjallaire/code-visibility) - This extension implements some directives for filtering code and stream output included within a document.
 - [roughnotation](https://github.com/EmilHvitfeldt/quarto-roughnotation) - An extension that uses the [roughnotation](https://roughnotation.com/) JavaScript library to add animated annotations to `revealjs` documents.
 - [attribution](https://github.com/quarto-ext/attribution) - A Quarto extension that brings Reveal.js plugin for displaying attribution text sideways along the right edge of the viewport.
+- [shinylive](https://github.com/quarto-ext/shinylive) - This extension lets you embed [Shinylive](https://shiny.rstudio.com/py/docs/shinylive.html) ([Shiny for Python](https://shiny.rstudio.com/py/)) applications in a Quarto document.
 
 ## Templates
 
