@@ -90,6 +90,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Heads up! Quarto is here to stay](https://www.ds-econ.com/quarto/) - A post providing an overview of Quarto, focussing on weaving together R and Python. Also provides help for Apple Silicon Mac users that run into trouble.
 - [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/) - A blog post about "The art of putting together slides that are functional and aesthetically pleasing" using Quarto presentation format by Emil Hvitfeldt.
 - [Making Slides in Quarto with Reveal.js](https://meghan.rbind.io/blog/quarto-slides/) - A blog post about making slides in Quarto with Reveal.js and how to use emojis or customise the slides by Meghan Hall.
+- [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
 
 ## Talks and videos
 
