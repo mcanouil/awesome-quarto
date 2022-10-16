@@ -64,6 +64,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [pointer](https://github.com/quarto-ext/pointer) - A Quarto extension that brings a very simple Reveal.js plugin that adds support for switching the cursor to a 'pointer' style element while presenting.
 - [social-embeds](https://github.com/sellorm/quarto-social-embeds) - A Quarto extension that provides shortcodes to embed content from across the web into HTML-based documents.
 - [Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS](https://ucsb-meds.github.io/customizing-quarto-websites/) - Slides by Samantha Csik about using SASS and CSS to customise HTM Quarto website (materials: <https://github.com/UCSB-MEDS/customizing-quarto-websites>)
+- [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -134,6 +135,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 - [Quartize](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
 - [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
+- [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 
 ## Continuous integration / Continuous deployment
 
