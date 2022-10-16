@@ -61,7 +61,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
 - [attribution](https://github.com/quarto-ext/attribution) - A Quarto extension that brings Reveal.js plugin for displaying attribution text sideways along the right edge of the viewport.
 - [shinylive](https://github.com/quarto-ext/shinylive) - This extension lets you embed [Shinylive](https://shiny.rstudio.com/py/docs/shinylive.html) ([Shiny for Python](https://shiny.rstudio.com/py/)) applications in a Quarto document.
-- [pointer](https://github.com/quarto-ext/pointer) - A Quarto extension that brings a very simple Reveal.js plugin that adds support for switching the cursor to a 'pointer' style element while presenting.
+- [pointer](https://github.com/quarto-ext/pointer) - A Quarto extension that brings a very simple Reveal.js plugin that adds support for switching the cursor to a 'pointer' style element while presenting.- [social-embeds](https://github.com/sellorm/quarto-social-embeds) - A Quarto extension that provides shortcodes to embed content from across the web into HTML-based documents.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -161,6 +161,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [attribution](https://github.com/quarto-ext/attribution) - A Quarto extension that brings Reveal.js plugin for displaying attribution text sideways along the right edge of the viewport.
 - [shinylive](https://github.com/quarto-ext/shinylive) - This extension lets you embed [Shinylive](https://shiny.rstudio.com/py/docs/shinylive.html) ([Shiny for Python](https://shiny.rstudio.com/py/)) applications in a Quarto document.
 - [pointer](https://github.com/quarto-ext/pointer) - A Quarto extension that brings a very simple Reveal.js plugin that adds support for switching the cursor to a 'pointer' style element while presenting.
+- [social-embeds](https://github.com/sellorm/quarto-social-embeds) - A Quarto extension that provides shortcodes to embed content from across the web into HTML-based documents.
 
 ## Templates
 
