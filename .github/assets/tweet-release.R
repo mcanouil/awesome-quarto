@@ -47,5 +47,5 @@ auth_as(auth)
 post_tweet(status = paste("🤖", tweet_body))
 reply_id <- get_my_timeline()[["id_str"]][1]
 for (item in items) {
-  post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id)
+  try(post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id), silent = TRUE)
 }
