@@ -37,6 +37,7 @@ body:
         - Templates/Presentations
         - Templates/HTML Documents
         - Templates/PDF Documents
+        - Templates/Docx Documents
         - Real life examples/Presentations formats
         - Real life examples/Websites formats
         - Real life examples/Book formats
