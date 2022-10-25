@@ -183,8 +183,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [jss](https://github.com/quarto-journals/jss) - Template for *Journal of Statistical Software*.
 - [plos](https://github.com/quarto-journals/plos) - Template for *Public Library of Science*.
 - [arXiv](https://github.com/mikemahoney218/quarto-arxiv) - Template for arXiv-style preprints.
-- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for Taylor and Francis.
-- [sportrxiv](https://github.com/smnnlt/sportrxiv) - Template for SportRxiv preprints.
+- [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for *Taylor and Francis*.
+- [sportrxiv](https://github.com/smnnlt/sportrxiv) - Template for *SportRxiv* preprints.
+- [Computo](https://github.com/computorg/computo-quarto-extension) - Template for *Computo* journal.
 
 ### Presentations
 
