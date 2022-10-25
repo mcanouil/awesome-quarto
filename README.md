@@ -197,6 +197,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Organization Boilerplate Template](https://github.com/hrbrmstr/quarto-organization-template) - Organisation Boilerplate Template to be cloned and modified to fit your needs for Quarto `revealjs` presentation.
 - [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `revealjs` presentation.
 - [nes](https://github.com/EmilHvitfeldt/quarto-nes-theme) - A Nes template for Quarto `revealjs` presentation.
+- [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
 
 ### HTML Documents
 
