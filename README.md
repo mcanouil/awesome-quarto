@@ -103,6 +103,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
 - [Six Productivity Hacks for Quarto](https://www.rstudio.com/blog/6-productivity-hacks-for-quarto/) - A blog post showing six tips from the re-use content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
 - [Let's make maps with `bertin.js` in Quarto](https://neocarto.github.io/bertin/examples/quarto.html) - A HTML document showing how to draw maps with bertin.js in Quarto.
+- [How to add some personality to your Quarto Blog](https://www.ddanieltan.com/posts/blogtips/) - A blog post sharing some of the added features and tweaks users can make on top of the standard blog templates to inject some personality into their blog.
 
 ## Talks and videos
 
