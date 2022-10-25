@@ -44,6 +44,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [PDF Documents](#pdf-documents)
   - [Docx Documents](#docx-documents)
   - [Multiple formats](#multiple-formats)
+  - [Repository templates](#repository-templates)
 - [Real life examples](#real-life-examples)
   - [Presentations formats](#presentations-formats)
   - [Websites formats](#websites-formats)
@@ -212,6 +213,10 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### Multiple formats
 
 - [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (HTML and PDF-based).
+
+### Repository templates
+
+- [NOAA Quarto Simple Website](https://github.com/nmfs-opensci/NOAA-quarto-simple) - NOAA simple is a repository template for a simple Quarto website that looks like a "book".
 
 ## Real life examples
 
