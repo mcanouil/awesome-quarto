@@ -11,7 +11,7 @@ Thank you!
 ## Adding an new Item
 
 - Try to fit your item into an existing sections.  
-  [Open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) to start as discussion about any new sections.
+  Or suggest a new section and explain why your item does not fit into an existing one and what would be the interest of your new section.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.

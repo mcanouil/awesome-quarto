@@ -62,7 +62,7 @@ body:
       options:
         - label: checked if your suggestion is not already listed in __Awesome Quarto__ list.
           required: true
-        - label: checked if it can fit in an existed section or [open a discussion](https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas) to suggest any new sections..
+        - label: checked if it can fit in an existed section or suggest a new section and explain why your item does not fit into one and what would be the interest of your new section.
           required: true
         - label: checked when it's a repository if it's maintained (archived repository will be rejected).
           required: true
