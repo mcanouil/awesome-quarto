@@ -217,6 +217,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Docx Documents
 
+- [lettre-gouv](https://github.com/spyrales/quarto-gouv) - A Quarto extension template for French governmental documents.
+
 ### Multiple formats
 
 - [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (HTML and PDF-based).
