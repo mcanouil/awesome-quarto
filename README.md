@@ -282,7 +282,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Community
 
-- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (Twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil)).
+- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (Twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil); Mastodon: <a rel="nofollow me" href="https://fosstodon.org/@MickaelCanouil">\@MickaelCanouil\@fosstodon.org</a>).
 
 *Who else should we be following!?*
 
