@@ -56,5 +56,5 @@ for (item in items) {
 rtoot::post_toot(status = paste("🤖", tweet_body))
 reply_id <- rtoot::get_account_statuses(rtoot::search_accounts(Sys.getenv("RTOOT_USER"))[["id"]])[[1, "id"]]
 for (item in items) {
-  try(rtoot::post_toot(paste("🤖", item), in_reply_to_status_id = reply_id))
+  try(rtoot::post_toot(paste("🤖", item), in_reply_to_id = reply_id))
 }
