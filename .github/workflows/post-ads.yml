@@ -1,17 +1,17 @@
 
-name: Tweet Release
+name: Post Ads
 
 on:
   workflow_dispatch:
-  release:
-    types: [published]
+  schedule:
+    - cron: "00 14 1 * *"
 
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
 
 jobs:
-  tweet-release:
+  post-ads:
     runs-on: macos-latest
     strategy:
       fail-fast: false
@@ -20,17 +20,13 @@ jobs:
       TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
       TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
       TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-      RELEASE_TAG: ${{ github.event.release.tag_name }}
+      RTOOT_USER: ${{ secrets.RTOOT_USER }}
+      RTOOT_DEFAULT_TOKEN: ${{ secrets.RTOOT_DEFAULT_TOKEN }}
     steps:
       - uses: actions/checkout@v3
       - uses: r-lib/actions/setup-r@v2
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          packages: any::rtweet, any::httpuv
-      - name: Test Post Tweet
-        if: github.event_name == 'workflow_dispatch'
-        run: Rscript .github/assets/tweet-release-test.R
-      - name: Post Release Tweet thread
-        if: github.event_name == 'release'
-        run: Rscript .github/assets/tweet-release.R
-          
+          packages: any::rtweet, any::httpuv, github::schochastics/rtoot
+      - name: Post Tweet/Toot
+        run: Rscript .github/assets/post-ads.R
