@@ -59,15 +59,16 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [Six Productivity Hacks for Quarto](https://www.rstudio.com/blog/6-productivity-hacks-for-quarto/) - A blog post showing six tips from the re-use content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
-- [Let's make maps with `bertin.js` in Quarto](https://neocarto.github.io/bertin/examples/quarto.html) - A HTML document showing how to draw maps with bertin.js in Quarto.
-- [How to add some personality to your Quarto Blog](https://www.ddanieltan.com/posts/blogtips/) - A blog post sharing some of the added features and tweaks users can make on top of the standard blog templates to inject some personality into their blog.
-- [bsicons](https://github.com/shafayetShafee/bsicons) - This extension provides shortcodes to [Bootstrap](https://icons.getbootstrap.com/) icons library (*HTML-based format only*).
-- [collapse-callout](https://github.com/shafayetShafee/collapse-callout) - A filter that provides global options to make the [Callout Blocks](https://quarto.org/docs/authoring/callouts.html) collapsible (*HTML-based format only*).
-- [Computo](https://github.com/computorg/computo-quarto-extension) - Template for *Computo* journal.
-- [simple-article](https://github.com/cmarquardt/quarto-simple-article) - This is a Quarto template that assists you in creating a simple, journal article-like document.
-- [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
-- [NOAA Quarto Simple Website](https://github.com/nmfs-opensci/NOAA-quarto-simple) - NOAA simple is a repository template for a simple Quarto website that looks like a "book".
+- [Workshop: Quartaki — 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/) - Using R and RStudio by [Athanasia Mo Mowinckel](https://github.com/drmowinckels) covering basic markdown, html reports, citation & cross-refs, pdf and journal templates and Reveal.js presentations.
+- [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
+- [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - A blog post about opinionated best practices for Quarto documents.
+- [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - R-Ladies St. Louis: Introduction to Quarto by Isabella Velásquez (materials: <https://github.com/ivelasq/2022-10-27_intro-to-quarto>).
+- [Quarto YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg) - A YouTube playlist of videos about Quarto and Pandoc by Eli Holmes.
+- [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
+- [designmode](https://github.com/EmilHvitfeldt/quarto-designmode) - A quarto extension, adding a toggle for [designMode](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) in `html` and `revealjs` formats.
+- [lettre-gouv](https://github.com/spyrales/quarto-gouv) - A Quarto extension template for French governmental documents.
+- [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
+- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See slides [here](https://runapp2022.talks.jamesgoldie.dev/).
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -245,7 +246,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [The untold story of palmerpenguins](https://github.com/apreshill/palmerpenguins-useR-2022) - See slides [here](https://apreshill.github.io/palmerpenguins-useR-2022/).
 - [Outrageously efficient EDA](https://github.com/jthomasmock/arrow-dplyr) - See slides [here](https://jthomasmock.github.io/arrow-dplyr/).
 - [Improvements in textrecipes](https://github.com/emilhvitfeldt/useR2022-textrecipes/) - See slides [here](https://emilhvitfeldt.github.io/useR2022-textrecipes/).
-- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See clides [here](https://runapp2022.talks.jamesgoldie.dev/).
+- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See slides [here](https://runapp2022.talks.jamesgoldie.dev/).
 
 ### Websites formats
 
@@ -290,7 +291,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Community
 
-- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (Twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil); Mastodon: <a rel="nofollow me" href="https://fosstodon.org/@MickaelCanouil">\@MickaelCanouil\@fosstodon.org</a>).
+- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (Twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil)Mastodon: [\@MickaelCanouil\@fosstodon.org](https://fosstodon.org/@MickaelCanouil)).
 
 *Who else should we be following!?*
 
