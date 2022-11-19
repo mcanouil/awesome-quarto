@@ -177,6 +177,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [bsicons](https://github.com/shafayetShafee/bsicons) - This extension provides shortcodes to [Bootstrap](https://icons.getbootstrap.com/) icons library (*HTML-based format only*).
 - [collapse-callout](https://github.com/shafayetShafee/collapse-callout) - A filter that provides global options to make the [Callout Blocks](https://quarto.org/docs/authoring/callouts.html) collapsible (*HTML-based format only*).
 - [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
+- [designmode](https://github.com/EmilHvitfeldt/quarto-designmode) - A quarto extension, adding a toggle for [designMode](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) in `html` and `revealjs` formats.
 
 ## Templates
 
