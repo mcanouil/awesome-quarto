@@ -176,6 +176,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [social-embeds](https://github.com/sellorm/quarto-social-embeds) - A Quarto extension that provides shortcodes to embed content from across the web into HTML-based documents.
 - [bsicons](https://github.com/shafayetShafee/bsicons) - This extension provides shortcodes to [Bootstrap](https://icons.getbootstrap.com/) icons library (*HTML-based format only*).
 - [collapse-callout](https://github.com/shafayetShafee/collapse-callout) - A filter that provides global options to make the [Callout Blocks](https://quarto.org/docs/authoring/callouts.html) collapsible (*HTML-based format only*).
+- [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
 
 ## Templates
 
