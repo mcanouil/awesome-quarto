@@ -61,7 +61,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 - [Workshop: Quartaki — 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/) - Using R and RStudio by [Athanasia Mo Mowinckel](https://github.com/drmowinckels) covering basic markdown, html reports, citation & cross-refs, pdf and journal templates and Reveal.js presentations.
 - [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
-- [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - A blog post about opinionated best practices for Quarto documents.
+- [Quarto Document Best Practices](https://isaac-flath.tech/posts/other/quartodocumentsbestpractices) - A blog post about opinionated best practices for Quarto documents.
 - [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - R-Ladies St. Louis: Introduction to Quarto by Isabella Velásquez (materials: <https://github.com/ivelasq/2022-10-27_intro-to-quarto>).
 - [Quarto YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg) - A YouTube playlist of videos about Quarto and Pandoc by Eli Holmes.
 - [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
@@ -108,7 +108,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Let's make maps with `bertin.js` in Quarto](https://neocarto.github.io/bertin/examples/quarto.html) - A HTML document showing how to draw maps with bertin.js in Quarto.
 - [How to add some personality to your Quarto Blog](https://www.ddanieltan.com/posts/blogtips/) - A blog post sharing some of the added features and tweaks users can make on top of the standard blog templates to inject some personality into their blog.
 - [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
-- [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - A blog post about opinionated best practices for Quarto documents.
+- [Quarto Document Best Practices](https://isaac-flath.tech/posts/other/quartodocumentsbestpractices) - A blog post about opinionated best practices for Quarto documents.
 
 ## Talks and videos
 
