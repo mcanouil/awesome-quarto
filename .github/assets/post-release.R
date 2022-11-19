@@ -9,7 +9,7 @@ release_url <- paste0(
 )
 tweet_body <- paste(
   "New #AwesomeQuarto release!",
-  "What's new in #QuartoPub (@quarto_pub)? let's find out!",
+  "What's new in #QuartoPub? let's find out!",
   paste("Release:", release_url),
   paste0("New additions: ", "https://github.com/", Sys.getenv("GITHUB_REPOSITORY"), "#featured-new-releases"),
   sep = "\n"
@@ -37,15 +37,24 @@ items <- paste(
 )
 
 library(rtweet)
-auth <- rtweet_bot(
+library(rtoot)
+# rtoot_token <- rtoot:::get_token_from_envvar()
+auth <- rtweet::rtweet_bot(
   api_key = Sys.getenv("TWITTER_API_KEY"),
   api_secret = Sys.getenv("TWITTER_API_KEY_SECRET"),
   access_token = Sys.getenv("TWITTER_ACCESS_TOKEN"),
   access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
 )
-auth_as(auth)
-post_tweet(status = paste("🤖", tweet_body))
-reply_id <- get_my_timeline()[["id_str"]][1]
+rtweet::auth_as(auth)
+
+rtweet::post_tweet(status = paste("🤖", tweet_body))
+reply_id <- rtweet::get_my_timeline()[["id_str"]][1]
 for (item in items) {
-  try(post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id), silent = TRUE)
+  try(rtweet::post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id))
+}
+
+rtoot::post_toot(status = paste("🤖", tweet_body))
+reply_id <- rtoot::get_account_statuses(rtoot::search_accounts(Sys.getenv("RTOOT_USER"))[["id"]])[[1, "id"]]
+for (item in items) {
+  try(rtoot::post_toot(paste("🤖", item), in_reply_to_status_id = reply_id))
 }
