@@ -205,6 +205,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Blackboard](https://github.com/schochastics/quarto-blackboard-theme) - A blackboard like template for Quarto `revealjs` presentation.
 - [nes](https://github.com/EmilHvitfeldt/quarto-nes-theme) - A Nes template for Quarto `revealjs` presentation.
 - [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
+- [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 
 ### HTML Documents
 
