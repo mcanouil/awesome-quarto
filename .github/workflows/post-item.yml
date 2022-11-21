@@ -29,4 +29,4 @@ jobs:
         with:
           packages: any::rtweet, any::httpuv, github::schochastics/rtoot
       - name: Post Tweet/Toot
-        run: Rscript .github/assets/tweet-item.R
+        run: Rscript .github/assets/post-item.R
