@@ -199,6 +199,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) - Template for *Taylor and Francis*.
 - [sportrxiv](https://github.com/smnnlt/sportrxiv) - Template for *SportRxiv* preprints.
 - [Computo](https://github.com/computorg/computo-quarto-extension) - Template for *Computo* journal.
+- [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
 
 ### Presentations
 
