@@ -183,7 +183,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [collapse-callout](https://github.com/shafayetShafee/collapse-callout) - A filter that provides global options to make the [Callout Blocks](https://quarto.org/docs/authoring/callouts.html) collapsible (_HTML-based format only_).
 - [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
 - [designmode](https://github.com/EmilHvitfeldt/quarto-designmode) - A quarto extension, adding a toggle for [designMode](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) in `html` and `revealjs` formats.
-- [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a Javascript library to send some confetti in your revealjs presentation.
+- [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a JavaScript library to send some confetti in your revealjs presentation.
 
 ## Templates
 
