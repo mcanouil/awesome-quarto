@@ -55,7 +55,6 @@ set.seed(as.numeric(format(Sys.Date(), "%Y%m%d")))
 item <- sample(items, 1)
 
 library(rtweet)
-library(rtoot)
 auth <- rtweet::rtweet_bot(
   api_key = Sys.getenv("TWITTER_API_KEY"),
   api_secret = Sys.getenv("TWITTER_API_KEY_SECRET"),
@@ -63,8 +62,6 @@ auth <- rtweet::rtweet_bot(
   access_secret = Sys.getenv("TWITTER_ACCESS_SECRET")
 )
 rtweet::auth_as(auth)
-# rtoot_token <- rtoot:::get_token_from_envvar()
-
 
 i <- 0
 while(inherits(try(rtweet::post_tweet(status = paste("🤖", item))), "try-error") & i < 3) {
@@ -72,9 +69,13 @@ while(inherits(try(rtweet::post_tweet(status = paste("🤖", item))), "try-error
   i <- i + 1
 }
 
-i <- 0
-while(inherits(try(rtoot::post_toot(status = paste("🤖", item))), "try-error") & i < 3) {
-  message(sprintf("Try: %s", i))
-  i <- i + 1
-}
-message(item)
+
+# library(rtoot)
+# rtoot_token <- rtoot:::get_token_from_envvar()
+
+# i <- 0
+# while(inherits(try(rtoot::post_toot(status = paste("🤖", item))), "try-error") & i < 3) {
+#   message(sprintf("Try: %s", i))
+#   i <- i + 1
+# }
+# message(item)

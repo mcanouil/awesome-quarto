@@ -15,7 +15,7 @@ items <- c(
 )
 
 library(rtweet)
-library(rtoot)
+# library(rtoot)
 auth <- rtweet::rtweet_bot(
   api_key = Sys.getenv("TWITTER_API_KEY"),
   api_secret = Sys.getenv("TWITTER_API_KEY_SECRET"),
@@ -31,11 +31,11 @@ for (item in items) {
     i <- i + 1
   }
 
-  i <- 0
-  # rtoot_token <- rtoot:::get_token_from_envvar()
-  while(inherits(try(rtoot::post_toot(status = paste("🤖", item))), "try-error") & i < 3) {
-    message(sprintf("Try: %s", i))
-    i <- i + 1
-  }
+  # i <- 0
+  # # rtoot_token <- rtoot:::get_token_from_envvar()
+  # while(inherits(try(rtoot::post_toot(status = paste("🤖", item))), "try-error") & i < 3) {
+  #   message(sprintf("Try: %s", i))
+  #   i <- i + 1
+  # }
   message(item)
 }
