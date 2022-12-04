@@ -251,6 +251,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Outrageously efficient EDA](https://github.com/jthomasmock/arrow-dplyr) - See slides [here](https://jthomasmock.github.io/arrow-dplyr/).
 - [Improvements in textrecipes](https://github.com/emilhvitfeldt/useR2022-textrecipes/) - See slides [here](https://emilhvitfeldt.github.io/useR2022-textrecipes/).
 - [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See slides [here](https://runapp2022.talks.jamesgoldie.dev/).
+- [Iframes Gallery](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - A gallery of iframes that could be used in Quarto `revealjs` format.
 
 ### Websites formats
 
