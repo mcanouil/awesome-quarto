@@ -185,6 +185,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [designmode](https://github.com/EmilHvitfeldt/quarto-designmode) - A quarto extension, adding a toggle for [designMode](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) in `html` and `revealjs` formats.
 - [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a JavaScript library to send some confetti in your `revealjs` presentation.
 - [code-insertion](https://github.com/feynlee/code-insertion) - This extension enables code insertion immediately before and/or after a post/page for website and blog projects.
+- [snow](https://github.com/EmilHvitfeldt/quarto-snow) - This extension adds falling snowflakes in `html` and `revealjs` formats.
 
 ## Templates
 
