@@ -59,16 +59,14 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [Workshop: Quartaki — 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/) - Using R and RStudio by [Athanasia Mo Mowinckel](https://github.com/drmowinckels) covering basic markdown, html reports, citation & cross-refs, pdf and journal templates and Reveal.js presentations.
-- [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
-- [Quarto Document Best Practices](https://isaac-flath.tech/posts/other/quartodocumentsbestpractices) - A blog post about opinionated best practices for Quarto documents.
-- [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - R-Ladies St. Louis: Introduction to Quarto by Isabella Velásquez (materials: <https://github.com/ivelasq/2022-10-27_intro-to-quarto>).
-- [Quarto YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg) - A YouTube playlist of videos about Quarto and Pandoc by Eli Holmes.
-- [include-code-files](https://github.com/SamEdwardes/include-code-files) - Include code from files using code cells option/attribute.
-- [designmode](https://github.com/EmilHvitfeldt/quarto-designmode) - A quarto extension, adding a toggle for [designMode](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) in `html` and `revealjs` formats.
-- [lettre-gouv](https://github.com/spyrales/quarto-gouv) - A Quarto extension template for French governmental documents.
-- [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
-- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See slides [here](https://runapp2022.talks.jamesgoldie.dev/).
+- [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a JavaScript library to send some confetti in your `revealjs` presentation.
+- [code-insertion](https://github.com/feynlee/code-insertion) - This extension enables code insertion immediately before and/or after a post/page for website and blog projects.
+- [snow](https://github.com/EmilHvitfeldt/quarto-snow) - This extension adds falling snowflakes in `html` and `revealjs` formats.
+- [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
+- [Quantum Jitter](https://github.com/cgoo4/quantumjitter) - A Quarto website / blog with a custom theme (adapted from flatly / darkly), day / night landing page and a novel 404 page.
+- [Iframes Gallery](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - A gallery of iframes that could be used in Quarto `revealjs` format.
+- [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) - Andrew Heiss's website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
+- [Ella Kaye's website](https://github.com/EllaKaye/ellakaye.co.uk) - Ella Kaye's website with Boostrap Grid card home page layout, CSS animatation in navigation bar, and light/dark mode.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
