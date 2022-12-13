@@ -184,6 +184,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a JavaScript library to send some confetti in your `revealjs` presentation.
 - [code-insertion](https://github.com/feynlee/code-insertion) - This extension enables code insertion immediately before and/or after a post/page for website and blog projects.
 - [snow](https://github.com/EmilHvitfeldt/quarto-snow) - This extension adds falling snowflakes in `html` and `revealjs` formats.
+- [swissbiopics](https://github.com/zachcp/quarto-swissbiopics) - This extension adds shortcodes that embed [swissbiopics](https://www.swissbiopics.org/) in your document. See examples [here](https://zachcp.github.io/quarto-swissbiopics/).
 
 ## Templates
 
