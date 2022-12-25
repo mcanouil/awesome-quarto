@@ -1,4 +1,4 @@
-name: Awesome Linter
+name: Awesome BOT
 
 on: 
   pull_request:
@@ -12,18 +12,21 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  awesome-lint:
+  awesome-bot:
     strategy:
       fail-fast: false
     runs-on: ubuntu-latest
-    env:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: "checkout repo"
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: asdf_install
-        uses: asdf-vm/actions/install@v1
+      - name: "setup ruby"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.1
+          bundler-cache: true
+      - name: "install awesome-bot"
+        run: gem install awesome_bot
       - name: "linting: README.md"
-        run: npx -y awesome-lint README.md
+        run: awesome_bot --allow-redirect --allow-dupe --white-list quarto.org,https://github.com/quarto-dev README.md
