@@ -15,8 +15,8 @@ items <- sapply(
     "## Tutorials & workshops",
     "## Blog posts",
     "## Talks and videos",
-    "## Continuous integration / Continuous deployment"#,
-    # "## Extensions",
+    "## Continuous integration / Continuous deployment",
+    "## Extensions"#,
     # "## Templates"
   ),
   FUN = function(x, cat) {
