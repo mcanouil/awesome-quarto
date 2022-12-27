@@ -231,7 +231,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Multiple formats
 
-- [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (HTML and PDF-based).
+- [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (`html` and `pdf`).
+- [tufte](https://github.com/fredguth/tufte-quarto) - A Quarto extension template for Tufte-style book (`html` and `pdf`).
 
 ### Repository templates
 
