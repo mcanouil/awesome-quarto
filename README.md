@@ -108,6 +108,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
 - [Quarto Document Best Practices](https://isaac-flath.tech/posts/other/quartodocumentsbestpractices) - A blog post about opinionated best practices for Quarto documents.
 - [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
+- [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
 
 ## Talks and videos
 
