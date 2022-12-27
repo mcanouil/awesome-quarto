@@ -185,6 +185,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [code-insertion](https://github.com/feynlee/code-insertion) - This extension enables code insertion immediately before and/or after a post/page for website and blog projects.
 - [snow](https://github.com/EmilHvitfeldt/quarto-snow) - This extension adds falling snowflakes in `html` and `revealjs` formats.
 - [swissbiopics](https://github.com/zachcp/quarto-swissbiopics) - This extension adds shortcode to embed [SwissBioPics](https://www.swissbiopics.org/) library of interactive biological images in `html` and `revealjs` formats.
+- [chord-sheet](https://github.com/dfalbel/chord-sheet) - This extension provides support for rendering chord sheets in `html` and `revealjs` formats.
+- [inadsense](https://github.com/jskherman/inadsense) - This extension provides shortcode for inserting Google Adsense ads in `html` and `revealjs` formats.
+- [forms](https://github.com/jlgraves-ubc/forms) - This extension provides shortcode for rendering forms in `html` and `revealjs` formats.
+- [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
+- [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
+- [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
 
 ## Templates
 
@@ -202,6 +208,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [sportrxiv](https://github.com/smnnlt/sportrxiv) - Template for *SportRxiv* preprints.
 - [Computo](https://github.com/computorg/computo-quarto-extension) - Template for *Computo* journal.
 - [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
+- [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
 
 ### Presentations
 
@@ -214,6 +221,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [nes](https://github.com/EmilHvitfeldt/quarto-nes-theme) - A Nes template for Quarto `revealjs` presentation.
 - [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
+- [letterbox](https://github.com/EmilHvitfeldt/quarto-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 
 ### HTML Documents
 
@@ -221,10 +229,19 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### PDF Documents
 
-- [letter](https://github.com/mcanouil/quarto-letter) - A template for Quarto to create letter PDF documents.
-- [hikmah](https://github.com/andrewheiss/hikmah-academic-quarto) - An opinionated template for Quarto to create PDF documents with support to `biblatex-chicago` and more.
+- [letter](https://github.com/mcanouil/quarto-letter) - An opinionated template to create letter PDF documents.
+- [hikmah](https://github.com/andrewheiss/hikmah-academic-quarto) - An opinionated template to create PDF documents with support to `biblatex-chicago` and more.
 - [titlepage](https://github.com/nmfs-opensci/quarto_titlepages) - This extension template brings several title pages for your PDF documents from one yaml option.
 - [simple-article](https://github.com/cmarquardt/quarto-simple-article) - This is a Quarto template that assists you in creating a simple, journal article-like document.
+- [qletter](https://github.com/juliantao/qletter) - An opinionated template to create letter PDF documents.
+- [nastatement](https://github.com/nareal/nastatement) - A template for creating a statement PDF letter.
+- [naletter](https://github.com/nareal/naletter) - An opinionated template to create letter PDF documents.
+- [nanotes](https://github.com/nareal/nanotes) - A template for creating handout PDF notes.
+- [Monash letter](https://github.com/numbats/monash-quarto-letter) - A Monash University template to create letter PDF documents.
+- [Monash memo](https://github.com/numbats/monash-quarto-memo) - A Monash University template to create memo PDF documents.
+- [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
+- [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
+- [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
 
 ### Docx Documents
 
