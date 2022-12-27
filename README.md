@@ -59,14 +59,29 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [confetti](https://github.com/ArthurData/quarto-confetti) - This extension uses [canvas-confetti](https://github.com/catdad/canvas-confetti) a JavaScript library to send some confetti in your `revealjs` presentation.
-- [code-insertion](https://github.com/feynlee/code-insertion) - This extension enables code insertion immediately before and/or after a post/page for website and blog projects.
-- [snow](https://github.com/EmilHvitfeldt/quarto-snow) - This extension adds falling snowflakes in `html` and `revealjs` formats.
-- [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
-- [Quantum Jitter](https://github.com/cgoo4/quantumjitter) - A Quarto website / blog with a custom theme (adapted from flatly / darkly), day / night landing page and a novel 404 page.
-- [Iframes Gallery](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - A gallery of iframes that could be used in Quarto `revealjs` format.
-- [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) - Andrew Heiss's website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
-- [Ella Kaye's website](https://github.com/EllaKaye/ellakaye.co.uk) - Ella Kaye's website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.
+- [Workshop: Mi primer blog con Quarto](https://perezp44.github.io/taller.primer.blog/) - A workshop in Spanish by Pedro J. Pérez to create a blog with Quarto (materials: <https://github.com/perezp44/taller.primer.blog>).
+- [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
+- [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
+- [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
+- [swissbiopics](https://github.com/zachcp/quarto-swissbiopics) - This extension adds shortcode to embed [SwissBioPics](https://www.swissbiopics.org/) library of interactive biological images in `html` and `revealjs` formats.
+- [chord-sheet](https://github.com/dfalbel/chord-sheet) - This extension provides support for rendering chord sheets in `html` and `revealjs` formats.
+- [inadsense](https://github.com/jskherman/inadsense) - This extension provides shortcode for inserting Google Adsense ads in `html` and `revealjs` formats.
+- [forms](https://github.com/jlgraves-ubc/forms) - This extension provides shortcode for rendering forms in `html` and `revealjs` formats.
+- [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
+- [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
+- [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
+- [tufte](https://github.com/fredguth/tufte-quarto) - A Quarto extension template for Tufte-style book (`html` and `pdf`).
+- [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
+- [qletter](https://github.com/juliantao/qletter) - An opinionated template to create letter PDF documents.
+- [nastatement](https://github.com/nareal/nastatement) - A template for creating a statement PDF letter.
+- [naletter](https://github.com/nareal/naletter) - An opinionated template to create letter PDF documents.
+- [nanotes](https://github.com/nareal/nanotes) - A template for creating handout PDF notes.
+- [letterbox](https://github.com/EmilHvitfeldt/quarto-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
+- [Monash letter](https://github.com/numbats/monash-quarto-letter) - A Monash University template to create letter PDF documents.
+- [Monash memo](https://github.com/numbats/monash-quarto-memo) - A Monash University template to create memo PDF documents.
+- [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
+- [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
+- [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
