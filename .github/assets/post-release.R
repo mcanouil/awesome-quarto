@@ -46,10 +46,10 @@ auth <- rtweet::rtweet_bot(
 rtweet::auth_as(auth)
 
 rtweet::post_tweet(status = paste("🤖", tweet_body))
-reply_id <- rtweet::get_my_timeline()[["id_str"]][1]
-for (item in items) {
-  try(rtweet::post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id))
-}
+# reply_id <- rtweet::get_my_timeline()[["id_str"]][1]
+# for (item in items) {
+#   try(rtweet::post_tweet(paste("🤖", item), in_reply_to_status_id = reply_id))
+# }
 
 # library(rtoot)
 # rtoot_token <- rtoot:::get_token_from_envvar()
