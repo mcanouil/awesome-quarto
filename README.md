@@ -76,7 +76,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [nastatement](https://github.com/nareal/nastatement) - A template for creating a statement PDF letter.
 - [naletter](https://github.com/nareal/naletter) - An opinionated template to create letter PDF documents.
 - [nanotes](https://github.com/nareal/nanotes) - A template for creating handout PDF notes.
-- [letterbox](https://github.com/EmilHvitfeldt/quarto-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
+- [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 - [Monash letter](https://github.com/numbats/monash-quarto-letter) - A Monash University template to create letter PDF documents.
 - [Monash memo](https://github.com/numbats/monash-quarto-memo) - A Monash University template to create memo PDF documents.
 - [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
@@ -239,7 +239,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [nes](https://github.com/EmilHvitfeldt/quarto-nes-theme) - A Nes template for Quarto `revealjs` presentation.
 - [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
-- [letterbox](https://github.com/EmilHvitfeldt/quarto-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
+- [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 
 ### HTML Documents
 
