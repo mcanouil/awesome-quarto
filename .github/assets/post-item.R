@@ -62,7 +62,7 @@ auth <- rtweet::rtweet_bot(
 )
 rtweet::auth_as(auth)
 
-past_tweet <- sub(".*: '(.*)' \\(.*", "\\1", unique(grep(
+past_tweet <- sub(".*From #AwesomeQuarto: '(.*)' \\(.*", "\\1", unique(grep(
   "From #AwesomeQuarto",
   get_timeline(user = Sys.getenv("TWITTER_USER"), n = 200)[["full_text"]],
   value = TRUE
@@ -70,8 +70,9 @@ past_tweet <- sub(".*: '(.*)' \\(.*", "\\1", unique(grep(
 
 item <- sample(
   items[
-    !sub(".*: '(.*)' \\(.*", "\\1", items) %in% past_tweet
-  ]
+    !sub(".*From #AwesomeQuarto: '(.*)' \\(.*", "\\1", items) %in% past_tweet
+  ],
+  1
 )
 
 i <- 0
