@@ -64,7 +64,7 @@ rtweet::auth_as(auth)
 
 past_tweet <- sub(".*: '(.*)' \\(.*", "\\1", unique(grep(
   "From #AwesomeQuarto",
-  get_timeline(user = rtweet:::api_screen_name(), n = 200)[["full_text"]],
+  get_timeline(user = Sys.getenv("TWITTER_USER"), n = 200)[["full_text"]],
   value = TRUE
 )))
 
