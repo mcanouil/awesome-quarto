@@ -16,8 +16,8 @@ items <- sapply(
     "## Blog posts",
     "## Talks and videos",
     "## Continuous integration / Continuous deployment",
-    "## Extensions"#,
-    # "## Templates"
+    "## Extensions",
+    "## Templates"
   ),
   FUN = function(x, cat) {
     if (!x[[1]] %in% cat) return(NULL)
@@ -35,7 +35,7 @@ items <- sapply(
 )
 items <- c(
   paste(
-    paste("From #AwesomeQuarto:", unlist(items[!sapply(items, is.null)], use.names = FALSE)),
+    paste("🤖 From #AwesomeQuarto:", unlist(items[!sapply(items, is.null)], use.names = FALSE)),
     "#QuartoPub",
     sep = "\n"
   )
@@ -51,10 +51,9 @@ items[which(over_char > 0)] <- mapply(
   x = sprintf(".{%s}\n#QuartoPub$", over_char[which(over_char > 0)] + 4),
   y = items[which(over_char > 0)]
 )
-set.seed(as.numeric(format(Sys.Date(), "%Y%m%d")))
-item <- sample(items, 1)
 
 library(rtweet)
+# auth_setup_default()
 auth <- rtweet::rtweet_bot(
   api_key = Sys.getenv("TWITTER_API_KEY"),
   api_secret = Sys.getenv("TWITTER_API_KEY_SECRET"),
@@ -63,18 +62,29 @@ auth <- rtweet::rtweet_bot(
 )
 rtweet::auth_as(auth)
 
+past_tweet <- sub(".*: '(.*)' \\(.*", "\\1", unique(grep(
+  "From #AwesomeQuarto",
+  get_timeline(user = rtweet:::api_screen_name(), n = 200)[["full_text"]],
+  value = TRUE
+)))
+
+item <- sample(
+  items[
+    !sub(".*: '(.*)' \\(.*", "\\1", items) %in% past_tweet
+  ]
+)
+
 i <- 0
-while(inherits(try(rtweet::post_tweet(status = paste("🤖", item))), "try-error") & i < 3) {
+while(inherits(try(rtweet::post_tweet(status = item)), "try-error") & i < 3) {
   message(sprintf("Try: %s", i))
   i <- i + 1
 }
-
 
 # library(rtoot)
 # rtoot_token <- rtoot:::get_token_from_envvar()
 
 # i <- 0
-# while(inherits(try(rtoot::post_toot(status = paste("🤖", item))), "try-error") & i < 3) {
+# while(inherits(try(rtoot::post_toot(status = item)), "try-error") & i < 3) {
 #   message(sprintf("Try: %s", i))
 #   i <- i + 1
 # }
