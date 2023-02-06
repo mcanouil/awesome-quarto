@@ -213,6 +213,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [authors-block](https://github.com/kapsner/authors-block) - This extension brings the capability to add an author-related header block when rendering `docx` documents with Quarto.
 - [line-highlight](https://github.com/shafayetShafee/line-highlight) - Quarto Extension to implement source code line highlighting and output line highlighting for `html` documents.
 - [hedgedoc-slides](https://github.com/sokotim/hedgedoc-slides) - A LUA filter to convert `revealjs` presentations to [HedgeDoc](https://hedgedoc.org/) presentations.
+- [Sverto](https://360-info.github.io/sverto/) - Sverto is an extension for Quarto that lets you seamlessly write and include [Svelte](https://svelte.dev/) components, like charts and other visuals, in your Quarto website.
 
 ## Templates
 
