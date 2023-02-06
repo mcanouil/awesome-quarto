@@ -71,7 +71,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [lcars](https://github.com/mccarthy-m-g/quarto-lcars-theme) - An LCARS template for Quarto `html` documents.
 - [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
-- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - The is an example of how to create a `revealjs` theme with multiple styles.
+- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -241,7 +241,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
-- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - The is an example of how to create a `revealjs` theme with multiple styles.
+- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
 
 ### HTML Documents
 
