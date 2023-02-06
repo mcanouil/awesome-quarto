@@ -209,7 +209,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
 - [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
 - [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
-- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
+- [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html).
 
 ## Templates
 
@@ -241,6 +241,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
+- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 
 ### HTML Documents
 
