@@ -209,6 +209,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
 - [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
 - [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
+- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 
 ## Templates
 
