@@ -210,6 +210,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
 - [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
 - [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html).
+- [authors-block](https://github.com/kapsner/authors-block) - This extension brings the capability to add an author-related header block when rendering `docx` documents with Quarto.
 
 ## Templates
 
