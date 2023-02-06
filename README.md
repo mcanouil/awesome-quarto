@@ -59,29 +59,19 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [Workshop: Mi primer blog con Quarto](https://perezp44.github.io/taller.primer.blog/) - A workshop in Spanish by Pedro J. Pérez to create a blog with Quarto (materials: <https://github.com/perezp44/taller.primer.blog>).
-- [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
-- [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
-- [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
-- [swissbiopics](https://github.com/zachcp/quarto-swissbiopics) - This extension adds shortcode to embed [SwissBioPics](https://www.swissbiopics.org/) library of interactive biological images in `html` and `revealjs` formats.
-- [chord-sheet](https://github.com/dfalbel/chord-sheet) - This extension provides support for rendering chord sheets in `html` and `revealjs` formats.
-- [inadsense](https://github.com/jskherman/inadsense) - This extension provides shortcode for inserting Google Adsense ads in `html` and `revealjs` formats.
-- [forms](https://github.com/jlgraves-ubc/forms) - This extension provides shortcode for rendering forms in `html` and `revealjs` formats.
-- [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
-- [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
-- [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
-- [tufte](https://github.com/fredguth/tufte-quarto) - A Quarto extension template for Tufte-style book (`html` and `pdf`).
-- [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
-- [qletter](https://github.com/juliantao/qletter) - An opinionated template to create letter PDF documents.
-- [nastatement](https://github.com/nareal/nastatement) - A template for creating a statement PDF letter.
-- [naletter](https://github.com/nareal/naletter) - An opinionated template to create letter PDF documents.
-- [nanotes](https://github.com/nareal/nanotes) - A template for creating handout PDF notes.
-- [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
-- [Monash letter](https://github.com/numbats/monash-quarto-letter) - A Monash University template to create letter PDF documents.
-- [Monash memo](https://github.com/numbats/monash-quarto-memo) - A Monash University template to create memo PDF documents.
-- [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
-- [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
-- [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
+- [Create your Data Science Portfolio with Quarto](https://www.youtube.com/watch?v=xtSFXtDf4cM) - In this video by Deepsha Menghani, learn how you can easily create a Data Science Portfolio website and deploy it instantly with the help of Quarto (materials: <https://deepshamenghani.quarto.pub/portfolio-with-quarto-workshop/#/title-slide>).
+- [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html).
+- [authors-block](https://github.com/kapsner/authors-block) - This extension brings the capability to add an author-related header block when rendering `docx` documents with Quarto.
+- [line-highlight](https://github.com/shafayetShafee/line-highlight) - Quarto Extension to implement source code line highlighting and output line highlighting for `html` documents.
+- [hedgedoc-slides](https://github.com/sokotim/hedgedoc-slides) - A LUA filter to convert `revealjs` presentations to [HedgeDoc](https://hedgedoc.org/) presentations.
+- [Sverto](https://360-info.github.io/sverto/) - Sverto is an extension for Quarto that lets you seamlessly write and include [Svelte](https://svelte.dev/) components, like charts and other visuals, in your Quarto website.
+- [collapse-social-embeds](https://github.com/shafayetShafee/collapse-social-embeds) - Quarto extension to provide collapsible option to [social-embeds](https://github.com/sellorm/quarto-social-embeds) extension.
+- [reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto extension to add a header to `revealjs` slides as the footer.
+- [downloadthis](https://github.com/shafayetShafee/downloadthis) - This extension shortcode provides support for adding download buttons to download image/pdf/txt/csv files.
+- [lcars](https://github.com/mccarthy-m-g/quarto-lcars-theme) - An LCARS template for Quarto `html` documents.
+- [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
+- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
+- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - The is an example of how to create a `revealjs` theme with multiple styles.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
