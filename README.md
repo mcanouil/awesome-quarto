@@ -231,6 +231,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Computo](https://github.com/computorg/computo-quarto-extension) - Template for *Computo* journal.
 - [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
 - [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
+- [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
 
 ### Presentations
 
