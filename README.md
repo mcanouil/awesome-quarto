@@ -248,6 +248,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### HTML Documents
 
 - [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for Quarto to create sketchy looking HTML documents.
+- [lcars](https://github.com/mccarthy-m-g/quarto-lcars-theme) - An LCARS template for Quarto `html` documents.
 
 ### PDF Documents
 
