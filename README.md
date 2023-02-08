@@ -72,6 +72,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 - [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
+- [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
