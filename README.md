@@ -240,8 +240,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [insper](https://github.com/padsInsper/quarto-insper-theme) - A "insper" template for Quarto `revealjs` presentation.
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
-- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
-- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
 - [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
 
 ### HTML Documents
@@ -277,6 +275,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### Repository templates
 
 - [NOAA Quarto Simple Website](https://github.com/nmfs-opensci/NOAA-quarto-simple) - NOAA simple is a repository template for a simple Quarto website that looks like a "book".
+- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
+- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
 
 ## Real life examples
 
