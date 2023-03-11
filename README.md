@@ -268,6 +268,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
 - [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
 - [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
+- [compact](https://github.com/arcruz0/quarto-compact) - A template to create compact PDF documents such as short reports, homework assignments, *etc.*
 
 ### Docx Documents
 
