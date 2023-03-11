@@ -59,20 +59,14 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Featured (new releases)
 
-- [Create your Data Science Portfolio with Quarto](https://www.youtube.com/watch?v=xtSFXtDf4cM) - In this video by Deepsha Menghani, learn how you can easily create a Data Science Portfolio website and deploy it instantly with the help of Quarto (materials: <https://deepshamenghani.quarto.pub/portfolio-with-quarto-workshop/#/title-slide>).
-- [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html).
-- [authors-block](https://github.com/kapsner/authors-block) - This extension brings the capability to add an author-related header block when rendering `docx` documents with Quarto.
-- [line-highlight](https://github.com/shafayetShafee/line-highlight) - Quarto Extension to implement source code line highlighting and output line highlighting for `html` documents.
-- [hedgedoc-slides](https://github.com/sokotim/hedgedoc-slides) - A LUA filter to convert `revealjs` presentations to [HedgeDoc](https://hedgedoc.org/) presentations.
-- [Sverto](https://360-info.github.io/sverto/) - Sverto is an extension for Quarto that lets you seamlessly write and include [Svelte](https://svelte.dev/) components, like charts and other visuals, in your Quarto website.
-- [collapse-social-embeds](https://github.com/shafayetShafee/collapse-social-embeds) - Quarto extension to provide collapsible option to [social-embeds](https://github.com/sellorm/quarto-social-embeds) extension.
-- [reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto extension to add a header to `revealjs` slides as the footer.
-- [downloadthis](https://github.com/shafayetShafee/downloadthis) - This extension shortcode provides support for adding download buttons to download image/pdf/txt/csv files.
-- [lcars](https://github.com/mccarthy-m-g/quarto-lcars-theme) - An LCARS template for Quarto `html` documents.
-- [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
-- [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
-- [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
-- [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
+- [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
+- [add-code-files](https://github.com/shafayetShafee/add-code-files) - This extension filter provides alternative syntax for adding contents from external files and works with [`code-fold`](https://quarto.org/docs/output-formats/html-code.html#folding-code).
+- [hide-comment](https://github.com/shafayetShafee/hide-comment) - This extension filter provides comment-directive to hide comment from code chunk in the rendered document.
+- [nameref](https://github.com/shafayetShafee/nameref) - This extension filter allows to use name (section name, fig-name or table-name) for cross-referencing the document sections, tables, figures instead of number.
+- [material-icons](https://github.com/shafayetShafee/material-icons) - This extension provides a shortcode to use Google's [Material Design Icons](https://fonts.google.com/?icon.set=Material+Icons&icon.query=chart) for `html` and `revealjs` formats.
+- [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
+- [bookup](https://github.com/juba/bookup-html) - A Quarto extension template providing light and dark themes to be used for `html` documents, books and websites.
+- [compact](https://github.com/arcruz0/quarto-compact) - A template to create compact PDF documents such as short reports, homework assignments, *etc.*
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
