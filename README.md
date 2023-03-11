@@ -251,7 +251,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### PDF Documents
 
 - [letter](https://github.com/mcanouil/quarto-letter) - An opinionated template to create letter PDF documents.
-- [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant letters.
 - [hikmah](https://github.com/andrewheiss/hikmah-academic-quarto) - An opinionated template to create PDF documents with support to `biblatex-chicago` and more.
 - [titlepage](https://github.com/nmfs-opensci/quarto_titlepages) - This extension template brings several title pages for your PDF documents from one yaml option.
 - [simple-article](https://github.com/cmarquardt/quarto-simple-article) - This is a Quarto template that assists you in creating a simple, journal article-like document.
@@ -264,6 +263,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
 - [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
 - [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
+- [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
 
 ### Docx Documents
 
