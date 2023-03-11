@@ -250,6 +250,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 - [Sketchy HTML](https://github.com/schochastics/quarto-sketchy-html) - A template for Quarto to create sketchy looking HTML documents.
 - [lcars](https://github.com/mccarthy-m-g/quarto-lcars-theme) - An LCARS template for Quarto `html` documents.
+- [bookup](https://github.com/juba/bookup-html) - A Quarto extension template providing light and dark themes to be used for `html` documents, books and websites.
 
 ### PDF Documents
 
