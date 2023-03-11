@@ -266,6 +266,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Monash wp](https://github.com/numbats/monash-quarto-workingpaper) - A Monash University template to create working paper PDF documents.
 - [Monash report](https://github.com/numbats/monash-quarto-report) - A Monash University template to create report PDF documents.
 - [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
+- [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
 
 ### Docx Documents
 
