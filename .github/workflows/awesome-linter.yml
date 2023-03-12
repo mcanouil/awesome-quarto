@@ -24,4 +24,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: "linting: README.md"
-        run: npx awesome-lint
+        run: npx -y awesome-lint
