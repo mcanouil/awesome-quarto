@@ -23,7 +23,5 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: asdf_install
-        uses: asdf-vm/actions/install@v1
       - name: "linting: README.md"
-        run: npx -y awesome-lint README.md
+        run: npx awesome-lint
