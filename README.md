@@ -21,7 +21,7 @@
 
 </div>
 
-Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
+Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
@@ -45,7 +45,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Docx Documents](#docx-documents)
   - [Multiple formats](#multiple-formats)
   - [Repository templates](#repository-templates)
-- [Real life examples](#real-life-examples)
+- [Real-life examples](#real-life-examples)
   - [Presentations formats](#presentations-formats)
   - [Websites formats](#websites-formats)
   - [Book formats](#book-formats)
@@ -280,7 +280,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 - [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
 
-## Real life examples
+## Real-life examples
 
 ### Presentations formats
 
