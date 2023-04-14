@@ -59,14 +59,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Featured (new releases)
 
-- [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
-- [add-code-files](https://github.com/shafayetShafee/add-code-files) - This extension filter provides alternative syntax for adding contents from external files and works with [`code-fold`](https://quarto.org/docs/output-formats/html-code.html#folding-code).
-- [hide-comment](https://github.com/shafayetShafee/hide-comment) - This extension filter provides comment-directive to hide comment from code chunk in the rendered document.
-- [nameref](https://github.com/shafayetShafee/nameref) - This extension filter allows to use name (section name, fig-name or table-name) for cross-referencing the document sections, tables, figures instead of number.
-- [material-icons](https://github.com/shafayetShafee/material-icons) - This extension provides a shortcode to use Google's [Material Design Icons](https://fonts.google.com/?icon.set=Material+Icons&icon.query=chart) for `html` and `revealjs` formats.
-- [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
-- [bookup](https://github.com/juba/bookup-html) - A Quarto extension template providing light and dark themes to be used for `html` documents, books and websites.
-- [compact](https://github.com/arcruz0/quarto-compact) - A template to create compact PDF documents such as short reports, homework assignments, *etc.*
+- [A Coffee with Quarto and Neovim](https://youtube.com/playlist?list=PLabWm-zCaD1axcMGvf7wFxJz8FZmyHSJ7) - A YouTube playlist showing you how to use Quarto in Neovim by [Jannik Buhr](https://jmbuhr.de/).
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
