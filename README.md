@@ -4,19 +4,29 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." align="right" height="140" />
+<h1>
+<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
+  <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/>
+</a>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</h1>
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
-
 
 [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
 
 </div>
 
+---
+
 Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
+
+---
 
 ## Contents
 
