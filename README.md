@@ -4,14 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-<h1>
-<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
-  <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/>
-</a>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-</h1>
+# <a href="https://quarto.org" target="_blank" rel="noopener noreferrer"><img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/></a></br>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
