@@ -62,7 +62,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [webr](https://github.com/coatless/quarto-webr) - This extension enables the [webR](https://docs.r-wasm.org/webr/latest/) code cell in a Quarto `html`-based formats.
 - [black-formatter](https://github.com/shafayetShafee/black-formatter) - A Quarto filter to format Python code using [black](https://black.readthedocs.io/en/stable/index.html) formatter.
 - [embedpdf](https://github.com/jmgirard/embedpdf) - This extension provides shortcode to embed PDF files in `html`-based formats.
-- [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and crossreferenced.
+- [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and cross-referenced.
 - [interactive-sql](https://github.com/shafayetShafee/interactive-sql) - This extension provides shortcode to embed interactive SQL queries in `html`-based formats.
 - [clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
 - [quarto-cv](https://github.com/mps9506/quarto-cv) - A template to create an academic Curriculum Vitae PDF document.
@@ -215,7 +215,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [webr](https://github.com/coatless/quarto-webr) - This extension enables the [webR](https://docs.r-wasm.org/webr/latest/) code cell in a Quarto `html`-based formats.
 - [black-formatter](https://github.com/shafayetShafee/black-formatter) - A Quarto filter to format Python code using [black](https://black.readthedocs.io/en/stable/index.html) formatter.
 - [embedpdf](https://github.com/jmgirard/embedpdf) - This extension provides shortcode to embed PDF files in `html`-based formats.
-- [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and crossreferenced.
+- [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and cross-referenced.
 - [interactive-sql](https://github.com/shafayetShafee/interactive-sql) - This extension provides shortcode to embed interactive SQL queries in `html`-based formats.
 
 ## Templates
