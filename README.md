@@ -204,6 +204,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [nameref](https://github.com/shafayetShafee/nameref) - This extension filter allows to use name (section name, fig-name or table-name) for cross-referencing the document sections, tables, figures instead of number.
 - [material-icons](https://github.com/shafayetShafee/material-icons) - This extension provides a shortcode to use Google's [Material Design Icons](https://fonts.google.com/?icon.set=Material+Icons&icon.query=chart) for `html` and `revealjs` formats.
 - [webr](https://github.com/coatless/quarto-webr) - This extension enables the [webR](https://docs.r-wasm.org/webr/latest/) code cell in a Quarto `html`-based formats.
+- [black-formatter](https://github.com/shafayetShafee/black-formatter) - A Quarto filter to format Python code using [black](https://black.readthedocs.io/en/stable/index.html) formatter.
 
 ## Templates
 
