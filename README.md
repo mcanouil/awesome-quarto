@@ -264,6 +264,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
 - [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
 - [compact](https://github.com/arcruz0/quarto-compact) - A template to create compact PDF documents such as short reports, homework assignments, *etc.*
+- [quarto-cv](https://github.com/mps9506/quarto-cv) - A template to create an academic Curriculum Vitae PDF document.
 
 ### Docx Documents
 
