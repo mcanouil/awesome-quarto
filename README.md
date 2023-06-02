@@ -275,6 +275,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [NOAA Quarto Simple Website](https://github.com/nmfs-opensci/NOAA-quarto-simple) - NOAA simple is a repository template for a simple Quarto website that looks like a "book".
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 - [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
+- [quarto-template-for-university-courses](https://github.com/jonjoncardoso/quarto-template-for-university-courses) - A quarto-based GitHub repository template for designing university course websites.
 
 ## Real-life examples
 
