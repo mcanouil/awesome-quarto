@@ -4,27 +4,22 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quarto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# <a href="https://quarto.org" target="_blank" rel="noopener noreferrer"><img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/></a></br>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
-<a href="https://quarto.org" target="_blank" rel="noopener noreferrer">
-  <img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text "awesome" and then the Quarto logo in blue and grey blue as per Quarto's logo."/>
-</a>
-
-> [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
->
-> • Create dynamic content with [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [Observable](https://quarto.org/docs/computations/ojs.html).  
-> • Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.  
-> • Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.  
-> • Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
+[Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]([Pandoc](https://pandoc.org/)).
 
 </div>
+
+---
 
 Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
+
+---
 
 ## Contents
 
@@ -102,6 +97,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
 - [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
 - [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
+- [How to publish your Quarto document/book/website as a Docker container?](https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/) - A blog post describing how to publish your Quarto document/book/website as a Docker container by Mickaël Canouil.
+- [How to have images for both light and dark theme?](https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/) - A blog post describing how to have images for both light and dark theme by Mickaël Canouil.
 
 ## Talks and videos
 
@@ -189,11 +186,11 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [rev-history](https://github.com/smutch/quarto-rev-history) - This extension provides a shortcode for rendering revision history table with content pulled from git tags.
 - [verticator](https://github.com/Martinomagnifico/quarto-verticator) - This extension provides indicators to show the amount of slides in a vertical stack in `revealjs` formats.
 - [multibib](https://github.com/pandoc-ext/multibib) - This extension provides support for multiple bibliographies.
-- [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html).
+- [stata-facade](https://github.com/CenterOnBudget/quarto-stata-facade) - A Quarto extension that hides the evidence of faking Stata dynamic content with Python code blocks and [Stata cell magic](https://www.stata.com/python/).
 - [authors-block](https://github.com/kapsner/authors-block) - This extension brings the capability to add an author-related header block when rendering `docx` documents with Quarto.
 - [line-highlight](https://github.com/shafayetShafee/line-highlight) - Quarto Extension to implement source code line highlighting and output line highlighting for `html` documents.
 - [hedgedoc-slides](https://github.com/sokotim/hedgedoc-slides) - A LUA filter to convert `revealjs` presentations to [HedgeDoc](https://hedgedoc.org/) presentations.
-- [Sverto](https://360-info.github.io/sverto/) - Sverto is an extension for Quarto that lets you seamlessly write and include [Svelte](https://svelte.dev/) components, like charts and other visuals, in your Quarto website.
+- [Sverto](https://sverto.jamesgoldie.dev) - Sverto is an extension for Quarto that lets you seamlessly write and include [Svelte](https://svelte.dev/) components, like charts and other visuals, in your Quarto website.
 - [collapse-social-embeds](https://github.com/shafayetShafee/collapse-social-embeds) - Quarto extension to provide collapsible option to [social-embeds](https://github.com/sellorm/quarto-social-embeds) extension.
 - [reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto extension to add a header to `revealjs` slides as the footer.
 - [downloadthis](https://github.com/shafayetShafee/downloadthis) - This extension shortcode provides support for adding download buttons to download image/pdf/txt/csv files.
@@ -201,6 +198,11 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [hide-comment](https://github.com/shafayetShafee/hide-comment) - This extension filter provides comment-directive to hide comment from code chunk in the rendered document.
 - [nameref](https://github.com/shafayetShafee/nameref) - This extension filter allows to use name (section name, fig-name or table-name) for cross-referencing the document sections, tables, figures instead of number.
 - [material-icons](https://github.com/shafayetShafee/material-icons) - This extension provides a shortcode to use Google's [Material Design Icons](https://fonts.google.com/?icon.set=Material+Icons&icon.query=chart) for `html` and `revealjs` formats.
+- [webr](https://github.com/coatless/quarto-webr) - This extension enables the [webR](https://docs.r-wasm.org/webr/latest/) code cell in a Quarto `html`-based formats.
+- [black-formatter](https://github.com/shafayetShafee/black-formatter) - A Quarto filter to format Python code using [black](https://black.readthedocs.io/en/stable/index.html) formatter.
+- [embedpdf](https://github.com/jmgirard/embedpdf) - This extension provides shortcode to embed PDF files in `html`-based formats.
+- [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and crossreferenced.
+- [interactive-sql](https://github.com/shafayetShafee/interactive-sql) - This extension provides shortcode to embed interactive SQL queries in `html`-based formats.
 
 ## Templates
 
@@ -234,6 +236,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 - [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
+- [clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
 
 ### HTML Documents
 
@@ -258,6 +261,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Monash thesis](https://github.com/numbats/monash-quarto-thesis) - A Monash University template to create thesis PDF documents.
 - [brief](https://github.com/mavam/quarto-brief) - A KOMA-script based template to create German DIN 5008 compliant PDF letters.
 - [compact](https://github.com/arcruz0/quarto-compact) - A template to create compact PDF documents such as short reports, homework assignments, *etc.*
+- [quarto-cv](https://github.com/mps9506/quarto-cv) - A template to create an academic Curriculum Vitae PDF document.
 
 ### Docx Documents
 
@@ -273,6 +277,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [NOAA Quarto Simple Website](https://github.com/nmfs-opensci/NOAA-quarto-simple) - NOAA simple is a repository template for a simple Quarto website that looks like a "book".
 - [quarto-revealjs-inverse](https://github.com/EmilHvitfeldt/quarto-revealjs-inverse) - The goal of this repository is to provide an example of how to create a inverse class to use in `revealjs` slides.
 - [quarto-revealjs-seasons](https://github.com/EmilHvitfeldt/quarto-revealjs-seasons) - This is an example of how to create a `revealjs` theme with multiple styles.
+- [quarto-template-for-university-courses](https://github.com/jonjoncardoso/quarto-template-for-university-courses) - A quarto-based GitHub repository template for designing university course websites.
 
 ## Real-life examples
 
