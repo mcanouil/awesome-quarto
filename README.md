@@ -236,6 +236,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [metropolis-theme](https://codeberg.org/pat-s/quarto-metropolis) - Opinionated port of the Metropolis template for Quarto `revealjs` presentation.
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 - [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
+- [clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
 
 ### HTML Documents
 
