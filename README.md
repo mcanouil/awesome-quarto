@@ -55,6 +55,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ## Featured (new releases)
 
 - [Quering with PRQL](https://github.com/eitsupi/querying-with-prql) - Docusaurus website using computations via `Jupyter` and `knitr` and multiple languages (PRQL, SQL, R, Python, *etc.*).
+- [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -99,6 +100,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
 - [How to publish your Quarto document/book/website as a Docker container?](https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/) - A blog post describing how to publish your Quarto document/book/website as a Docker container by Mickaël Canouil.
 - [How to have images for both light and dark theme?](https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/) - A blog post describing how to have images for both light and dark theme by Mickaël Canouil.
+- [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
 
 ## Talks and videos
 
