@@ -63,6 +63,14 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
 - [JOAS](https://github.com/espinielli/joas-template) - Quarto journal template for *Journal of Open Aviation Science* (JOAS).
+- [version-badge](https://github.com/mcanouil/quarto-version-badge) - An extension for Quarto to provide a shortcode to display software version.
+- [preview-colour](https://github.com/mcanouil/quarto-preview-colour) - An extension to add preview colour as a coloured symbol next to colour code.
+- [lua-env](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
+- [spotlight](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
+- [cinco-de-mayo](https://github.com/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) - Cinco de Mayo Quarto `Reveal.js` theme.
+- [PNAS](https://github.com/christopherkenny/pnas) - Quarto template for *PNAS*.
+- [APSR](https://github.com/christopherkenny/apsr) - Quarto template for *American Political Science Review* (APSR).
+- [rvalhub](https://github.com/pharmaR/rvalhub-quarto) - R Validation Hub `Reveal.js` theme.
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -218,6 +226,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [embedpdf](https://github.com/jmgirard/embedpdf) - This extension provides shortcode to embed PDF files in `html`-based formats.
 - [custom-numbered-blocks](https://github.com/ute/custom-numbered-blocks) - This extension provides support for user defined blocks (div classes / latex environments) that can be numbered and cross-referenced.
 - [interactive-sql](https://github.com/shafayetShafee/interactive-sql) - This extension provides shortcode to embed interactive SQL queries in `html`-based formats.
+- [version-badge](https://github.com/mcanouil/quarto-version-badge) - An extension for Quarto to provide a shortcode to display software version.
+- [preview-colour](https://github.com/mcanouil/quarto-preview-colour) - An extension to add preview colour as a coloured symbol next to colour code.
+- [lua-env](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
+- [spotlight](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
 
 ## Templates
 
@@ -238,6 +250,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
 - [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
 - [JOAS](https://github.com/espinielli/joas-template) - Quarto journal template for *Journal of Open Aviation Science* (JOAS).
+- [PNAS](https://github.com/christopherkenny/pnas) - Quarto template for *PNAS*.
+- [APSR](https://github.com/christopherkenny/apsr) - Quarto template for *American Political Science Review* (APSR).
 
 ### Presentations
 
@@ -253,6 +267,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto extension for authoring letterbox styled presentations using `revealjs` formats.
 - [kakashi](https://github.com/malcolmbarrett/kakashi-quarto-theme) - The `kakashi` template extension for Quarto `revealjs` slides is a theme with clean look and a colour-blind friendly palette.
 - [clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
+- [cinco-de-mayo](https://github.com/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) - Cinco de Mayo Quarto `Reveal.js` theme.
+- [rvalhub](https://github.com/pharmaR/rvalhub-quarto) - R Validation Hub `Reveal.js` theme.
 
 ### HTML Documents
 
