@@ -62,6 +62,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for éVictorian Biodiversity Conference 2023" (See slides [here](https://shandiya.quarto.pub/vicbiocon2023/)).
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
+- [JOAS](https://github.com/espinielli/joas-template) - Quarto journal template for *Journal of Open Aviation Science* (JOAS).
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
@@ -236,6 +237,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [asm](https://github.com/kelly-sovacool/asm-msystems) - Template for the *American Society for Microbiology*, based on the *mSystems* LaTeX template.
 - [asce](https://github.com/juliantao/quarto-asce) - Template for *American Society of Civil Engineers* journals and conference proceedings.
 - [iop](https://github.com/sebdunnett/quarto-iop) - Template for *Institute of Physics* journal.
+- [JOAS](https://github.com/espinielli/joas-template) - Quarto journal template for *Journal of Open Aviation Science* (JOAS).
 
 ### Presentations
 
