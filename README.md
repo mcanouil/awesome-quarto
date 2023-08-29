@@ -230,6 +230,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [preview-colour](https://github.com/mcanouil/quarto-preview-colour) - An extension to add preview colour as a coloured symbol next to colour code.
 - [lua-env](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
 - [spotlight](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
+- [glossary](https://github.com/andrewpbray/glossary) - Collect blocks of content across many documents and write them into a glossary.
 
 ## Templates
 
