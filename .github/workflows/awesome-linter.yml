@@ -20,7 +20,7 @@ jobs:
       github_token: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: "checkout repo"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: "linting: README.md"
