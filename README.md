@@ -271,6 +271,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
 - [cinco-de-mayo](https://github.com/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) - Cinco de Mayo Quarto `Reveal.js` theme.
 - [rvalhub](https://github.com/pharmaR/rvalhub-quarto) - R Validation Hub `Reveal.js` theme.
+- [quakr](https://github.com/ThinkR-open/quakr) - Quakr `Reveal.js` theme by [ThinkR](https://thinkr.fr/).
 
 ### HTML Documents
 
