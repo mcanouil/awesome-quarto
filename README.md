@@ -54,23 +54,19 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Featured (new releases)
 
-- [Quering with PRQL](https://github.com/eitsupi/querying-with-prql) - Docusaurus website using computations via `Jupyter` and `knitr` and multiple languages (PRQL, SQL, R, Python, *etc.*).
-- [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
-- [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html).
-- [Real World Data Science](https://realworlddatascience.net/) - The Royal Statistical Society website, built with Quarto, features a custom design (based on the Lux Bootswatch theme), with a customised navbar and homepage layout.
-- [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
-- [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for éVictorian Biodiversity Conference 2023" (See slides [here](https://shandiya.quarto.pub/vicbiocon2023/)).
-- [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
-- [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
-- [JOAS](https://github.com/espinielli/joas-template) - Quarto journal template for *Journal of Open Aviation Science* (JOAS).
-- [version-badge](https://github.com/mcanouil/quarto-version-badge) - An extension for Quarto to provide a shortcode to display software version.
-- [preview-colour](https://github.com/mcanouil/quarto-preview-colour) - An extension to add preview colour as a coloured symbol next to colour code.
-- [lua-env](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
-- [spotlight](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
-- [cinco-de-mayo](https://github.com/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) - Cinco de Mayo Quarto `Reveal.js` theme.
-- [PNAS](https://github.com/christopherkenny/pnas) - Quarto template for *PNAS*.
-- [APSR](https://github.com/christopherkenny/apsr) - Quarto template for *American Political Science Review* (APSR).
-- [rvalhub](https://github.com/pharmaR/rvalhub-quarto) - R Validation Hub `Reveal.js` theme.
+- [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
+- [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
+- [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
+- [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
+- [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
+- [glossary](https://github.com/andrewpbray/glossary) - Collect blocks of content across many documents and write them into a glossary.
+- [codewindow](https://github.com/EmilHvitfeldt/quarto-revealjs-codewindow) - A Quarto extension to give a graphical upgrade to codeblocks, with file names and icons.
+- [highlightword](https://github.com/EmilHvitfeldt/quarto-revealjs-highlightword) - A Quarto extension to highlight words in codeblocks, using fragments for `revealjs` format.
+- [acronyms](https://github.com/rchaput/acronyms) - A Quarto extension to provide support for acronyms in `html` format.
+- [quakr](https://github.com/ThinkR-open/quakr) - Quakr `Reveal.js` theme by [ThinkR](https://thinkr.fr/).
+- [apaquarto](https://github.com/wjschne/apaquarto) - A Quarto extension template for APA-style document (`html`, `pdf`, and `docx`).
+- [Silvia Canelón's website](https://silviacanelon.com) - Silvia Canelón's website customized to match the style of the Hugo Apéro blogdown theme.
+
 
 <!--lint enable awesome-list-item-->
 <!--lint enable double-link-->
