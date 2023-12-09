@@ -99,6 +99,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
 - [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
+- [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 
 ## Blog posts
 
@@ -234,6 +235,9 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [lua-env](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
 - [spotlight](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
 - [glossary](https://github.com/andrewpbray/glossary) - Collect blocks of content across many documents and write them into a glossary.
+- [codewindow](https://github.com/EmilHvitfeldt/quarto-revealjs-codewindow) - A Quarto extension to give a graphical upgrade to codeblocks, with file names and icons for `revealjs` format.
+- [highlightword](https://github.com/EmilHvitfeldt/quarto-revealjs-highlightword) - A Quarto extension to highlight words in codeblocks, using fragments for `revealjs` format.
+- [acronyms](https://github.com/rchaput/acronyms) - A Quarto extension to provide support for acronyms in `html` format.
 
 ## Templates
 
@@ -308,6 +312,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [inrae](https://github.com/davidcarayon/quarto-inrae-extension) - [INRAE](https://www.inrae.fr/) extension template with several formats (`html` and `pdf`).
 - [tufte](https://github.com/fredguth/tufte-quarto) - A Quarto extension template for Tufte-style book (`html` and `pdf`).
+- [apaquarto](https://github.com/wjschne/apaquarto) - A Quarto extension template for APA-style document (`html`, `pdf`, and `docx`).
 
 ### Repository templates
 
