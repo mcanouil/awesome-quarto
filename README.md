@@ -143,6 +143,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [A Coffee with Quarto and Neovim](https://youtube.com/playlist?list=PLabWm-zCaD1axcMGvf7wFxJz8FZmyHSJ7) - A YouTube playlist showing you how to use Quarto in Neovim by [Jannik Buhr](https://jmbuhr.de/).
 - [How to style your Quarto blog without knowing a lot of HTML/CSS?](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS by Albert Rapp.
 - [Quarto for Academics](https://www.youtube.com/watch?v=EbAAmrB0luA) - This video highlights some of Quarto's features that are especially useful for academics, as educators and as researchers by Mine Çetinkaya-Rundel.
+- [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
 
 ## Supported editors
 
