@@ -165,6 +165,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
 - [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
+- [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 
 ## Continuous integration / Continuous deployment
 
