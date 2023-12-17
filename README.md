@@ -140,6 +140,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [How to style your Quarto blog without knowing a lot of HTML/CSS?](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS by Albert Rapp.
 - [Quarto for Academics](https://www.youtube.com/watch?v=EbAAmrB0luA) - This video highlights some of Quarto's features that are especially useful for academics, as educators and as researchers by Mine Çetinkaya-Rundel.
 - [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
+- [Parameterized Quarto reports improve understanding of soil health](https://www.youtube.com/watch?v=lbE5uOqfT70) - posit::conf(2023) talk by Jadey Ryan provides an example workflow of creating parameterized reports with HTML and MS Word outputs (materials: <https://jadeynryan.github.io/2023_posit-parameterized-quarto/>).
 
 ## Supported editors
 
