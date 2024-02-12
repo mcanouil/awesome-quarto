@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# <a href="https://quarto.org" target="_blank" rel="noopener noreferrer"><img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/></a></br>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://quarto.org" target="_blank" rel="noopener noreferrer"><img src="media/media.png" alt-text="Awesome list logo with the Quarto logo with text, which is a pair of sunglasses with below the text 'awesome' and then the Quarto logo in blue and grey blue as per Quarto's logo." width="75%"/></a></br>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, tools, examples & articles the internet has to offer.*
 
@@ -20,8 +20,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
 ---
-
-## Contents
+Contents
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official documentation \& quickstarts](#official-documentation--quickstarts)
