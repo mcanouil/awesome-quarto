@@ -236,6 +236,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [codewindow](https://github.com/EmilHvitfeldt/quarto-revealjs-codewindow) - A Quarto extension to give a graphical upgrade to codeblocks, with file names and icons for `revealjs` format.
 - [highlightword](https://github.com/EmilHvitfeldt/quarto-revealjs-highlightword) - A Quarto extension to highlight words in codeblocks, using fragments for `revealjs` format.
 - [acronyms](https://github.com/rchaput/acronyms) - A Quarto extension to provide support for acronyms in `html` format.
+- [share-post](https://github.com/dragonstyle/share-post) - A Quarto extension to embed social media posts in documents and pages.
 
 ## Templates
 
