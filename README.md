@@ -46,18 +46,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Featured (new releases)
 
-- [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
-- [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
-- [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
-- [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
-- [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
-- [glossary](https://github.com/andrewpbray/glossary) - Collect blocks of content across many documents and write them into a glossary.
-- [codewindow](https://github.com/EmilHvitfeldt/quarto-revealjs-codewindow) - A Quarto extension to give a graphical upgrade to codeblocks, with file names and icons.
-- [highlightword](https://github.com/EmilHvitfeldt/quarto-revealjs-highlightword) - A Quarto extension to highlight words in codeblocks, using fragments for `revealjs` format.
-- [acronyms](https://github.com/rchaput/acronyms) - A Quarto extension to provide support for acronyms in `html` format.
-- [quakr](https://github.com/ThinkR-open/quakr) - Quakr `Reveal.js` theme by [ThinkR](https://thinkr.fr/).
-- [apaquarto](https://github.com/wjschne/apaquarto) - A Quarto extension template for APA-style document (`html`, `pdf`, and `docx`).
-- [Silvia Canelón's website](https://silviacanelon.com) - Silvia Canelón's website customized to match the style of the Hugo Apéro blogdown theme.
+- [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
 
 
 <!--lint enable awesome-list-item-->
