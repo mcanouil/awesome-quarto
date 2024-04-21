@@ -47,6 +47,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ## Featured (new releases)
 
 - [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
+- [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
 
 
 <!--lint enable awesome-list-item-->
