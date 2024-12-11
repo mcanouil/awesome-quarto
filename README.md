@@ -134,6 +134,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
 - [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
 - [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
+- [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC.
 
 ## Libraries/Packages/Scripts
 
