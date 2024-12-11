@@ -79,6 +79,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
 - [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
+- [Turorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short videos tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
 
 ## Blog posts
 
