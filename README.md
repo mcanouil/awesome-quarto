@@ -23,7 +23,6 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
 - [Official documentation \& quickstarts](#official-documentation--quickstarts)
 - [Tutorials \& workshops](#tutorials--workshops)
 - [Blog posts](#blog-posts)
@@ -40,18 +39,6 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Follow](#follow)
   - [Official](#official)
   - [Community](#community)
-
-<!--lint disable awesome-list-item-->
-<!--lint disable double-link-->
-
-## Featured (new releases)
-
-- [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
-- [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
-- [Publish a Quarto project in 6 minutes](https://www.youtube.com/watch?v=arzBRW5XIkg) - A short video tutorial on how to publish a Quarto project to GitHub Pages with GitHub Actions without any local rendering.
-
-<!--lint enable awesome-list-item-->
-<!--lint enable double-link-->
 
 ## Official documentation & quickstarts
 
