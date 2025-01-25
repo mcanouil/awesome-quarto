@@ -139,6 +139,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
 - [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 - [altdoc](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
+- [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
 
 ## Continuous integration / Continuous deployment
 
