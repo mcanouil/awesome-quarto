@@ -9,3 +9,5 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    labels:
+      - "Type: Dependencies :arrow_up:"
