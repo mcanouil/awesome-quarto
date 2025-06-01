@@ -6,6 +6,10 @@
 
 ## Requirements for your Awesome item list
 
+Please do not submit Quarto extensions to this list, instead submit to:
+- [Quarto.org Extensions Listing](https://quarto.org/docs/extensions/) - Quarto extensions listing from <https://quarto.org>.
+- [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
+
 - [ ] Only has awesome items. Awesome lists are curations of the best, not everything.
 - [ ] Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
 - [ ] Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
