@@ -8,7 +8,7 @@
 
 Please do not submit Quarto extensions to this list, instead submit to:
 - [Quarto.org Extensions Listing](https://quarto.org/docs/extensions/) - Quarto extensions listing from <https://quarto.org>.
-- [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
+- [Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - A curated collection of extensions offering an interface to browse, search, and filter extensions by categories and keywords, then install them effortlessly with a simple click or command.
 
 - [ ] Only has awesome items. Awesome lists are curations of the best, not everything.
 - [ ] Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.

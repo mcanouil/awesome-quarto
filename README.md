@@ -172,7 +172,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ## Extensions
 
 - [Quarto.org Extensions Listing](https://quarto.org/docs/extensions/) - Quarto extensions listing from <https://quarto.org>.
-- [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
+- [Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - A curated collection of extensions offering an interface to browse, search, and filter extensions by categories and keywords, then install them effortlessly with a simple click or command.
 
 ## Real-life examples
 
