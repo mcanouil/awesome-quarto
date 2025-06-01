@@ -7,6 +7,10 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this suggestion form!
+
+        Please do not submit Quarto extensions to this list, instead submit to:
+          - [Quarto.org Extensions Listing](https://quarto.org/docs/extensions/) - Quarto extensions listing from <https://quarto.org>.
+          - [Awesome Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - Quarto extensions listing from Awesome Quarto.
   - type: input
     id: suggestion
     attributes:
