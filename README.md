@@ -218,6 +218,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 - [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
 - [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+- [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 
 ### Other formats
 
