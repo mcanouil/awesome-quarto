@@ -181,16 +181,16 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Presentations formats
 
-- [Advanced Introduction to R (French)](https://m.canouil.dev/radvanced/) - See slides [here](https://github.com/mcanouil/radvanced).
-- [Streamlining with R](https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd) - See slides [here](https://meghan.rbind.io/slides/neair/neair.html).
-- [An educator's perspective of the tidyverse](https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd) - See slides [here](https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html).
-- [An anthology of experimental designs](https://github.com/emitanaka/talks/tree/master/Toronto2022) - See slides [here](https://emitanaka.org/slides/toronto2022/).
-- [The untold story of palmerpenguins](https://github.com/apreshill/palmerpenguins-useR-2022) - See slides [here](https://apreshill.github.io/palmerpenguins-useR-2022/).
-- [Outrageously efficient EDA](https://github.com/jthomasmock/arrow-dplyr) - See slides [here](https://jthomasmock.github.io/arrow-dplyr/).
-- [Improvements in textrecipes](https://github.com/emilhvitfeldt/talk-useR2022-textrecipes/) - See slides [here](https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/).
-- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - See slides [here](https://runapp2022.talks.jamesgoldie.dev/).
+- [Advanced Introduction to R (French)](https://m.canouil.dev/radvanced/) - [See slides](https://github.com/mcanouil/radvanced).
+- [Streamlining with R](https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd) - [See slides](https://meghan.rbind.io/slides/neair/neair.html).
+- [An educator's perspective of the tidyverse](https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd) - [See slides](https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html).
+- [An anthology of experimental designs](https://github.com/emitanaka/talks/tree/master/Toronto2022) - [See slides](https://emitanaka.org/slides/toronto2022/).
+- [The untold story of palmerpenguins](https://github.com/apreshill/palmerpenguins-useR-2022) - [See slides](https://apreshill.github.io/palmerpenguins-useR-2022/).
+- [Outrageously efficient EDA](https://github.com/jthomasmock/arrow-dplyr) - [See slides](https://jthomasmock.github.io/arrow-dplyr/).
+- [Improvements in textrecipes](https://github.com/emilhvitfeldt/talk-useR2022-textrecipes/) - [See slides](https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/).
+- [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - [See slides](https://runapp2022.talks.jamesgoldie.dev/).
 - [Iframes Gallery](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - A gallery of iframes that could be used in Quarto `revealjs` format.
-- [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for éVictorian Biodiversity Conference 2023 (See slides [here](https://shandiya.quarto.pub/vicbiocon2023/)).
+- [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for éVictorian Biodiversity Conference 2023 ([See slides](https://shandiya.quarto.pub/vicbiocon2023/)).
 
 ### Websites formats
 
