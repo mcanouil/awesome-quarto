@@ -231,7 +231,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+<!-- list people worth following on social sites (BlueSky, X/Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 ### Official
 
@@ -240,18 +240,18 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
   - [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
   - [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
 - Current members:
-  - [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (Twitter: [\@chrisderv](https://twitter.com/chrisderv); Mastodon: [\@cderv\@fosstodon.org](https://fosstodon.org/@cderv)).
-  - [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (Twitter: [\@scheidegger](https://twitter.com/scheidegger); Mastodon: [\@scheidegger\@mastodon.social](https://mastodon.social/@scheidegger)).
-  - [Gordon Woodhull (\@gordonwoodhull)](https://github.com/gordonwoodhull) - Member of Quarto core team.
+  - [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (BlueSky: [\@cderv.bsky.social](https://bsky.app/profile/cderv.bsky.social)).
+  - [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (BlueSky: [\@cscheid.net](https://bsky.app/profile/cscheid.net)).
+  - [Gordon Woodhull (\@gordonwoodhull)](https://github.com/gordonwoodhull) - Member of Quarto core team (BlueSky: [\@gordonwoodhull.bsky.social](https://bsky.app/profile/gordonwoodhull.bsky.social)).
 - Past members:
-  - [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team (Twitter: [\@fly_upside_down](https://twitter.com/fly_upside_down)).
-  - [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team (Twitter: [\@dragonstyle](https://twitter.com/dragonstyle)).
-  - [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team (Twitter: [\@xieyihui](https://twitter.com/xieyihui)).
-  - [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager (Twitter: [\@thomas_mock](https://twitter.com/thomas_mock); Mastodon: [\@thomas_mock\@fosstodon.org](https://fosstodon.org/@thomas_mock)).
+  - [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team.
+  - [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team.
+  - [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team.
+  - [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager.
 
 ### Community
 
-- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (Twitter: [\@MickaelCanouil](https://twitter.com/MickaelCanouil); Mastodon: [\@MickaelCanouil\@fosstodon.org](https://fosstodon.org/@MickaelCanouil)).
+- [Mickaël Canouil (\@mcanouil)](https://github.com/mcanouil) - Maintainer of Awesome Quarto list (BlueSky: [\@mickael.canouil.fr](https://bsky.app/profile/mickael.canouil.fr)).
 
 *Who else should we be following!?*
 
