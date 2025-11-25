@@ -1,6 +1,6 @@
 name: Awesome BOT
 
-on: 
+on:
   pull_request:
   workflow_dispatch:
   push:
@@ -29,4 +29,4 @@ jobs:
       - name: "install awesome-bot"
         run: gem install awesome_bot
       - name: "linting: README.md"
-        run: awesome_bot --allow-redirect --allow-dupe --white-list quarto.org,https://github.com/quarto-dev,https://www.gnu.org/software/emacs/ README.md
+        run: awesome_bot --allow-redirect --allow-dupe --white-list quarto.org,https://github.com/quarto-dev,https://www.gnu.org/software/emacs/,https://rfortherestofus.com/ README.md
