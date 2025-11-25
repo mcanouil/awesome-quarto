@@ -58,43 +58,43 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [Tutorial: The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) - An in-depth guide on how to start blogging with Quarto.
 - [Tutorial: Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/) - A blog post introducing a new Quarto blog and the steps to create your own blog with Quarto.
-- [Tutorial: Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make website with Quarto.
+- [Tutorial: Making shareable docs with Quarto](https://openscapes.github.io/quarto-website-tutorial/) - A tutorial to make a website with Quarto.
 - [Workshop: From R Markdown to Quarto](https://rstudio-conf-2022.github.io/rmd-to-quarto/) - A workshop for those who want to take their R Markdown skills and expertise and apply them in Quarto, the next generation of R Markdown.
 - [Workshop: Getting started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/) - "Get started with Quarto" workshop materials for rstudio::conf(2022).
 - [Workshop: Quarto, a library to run them all?](https://warwickcim.github.io/quarto-workshop/slides/slides.html) - Workshop at [RSECon'22](https://rsecon2022.society-rse.org/), led by Carlos Cámara, James Tripp and Cagatay Turkay (materials: <https://github.com/WarwickCIM/quarto-workshop>).
 - [Tutorial: Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/) - A step-by-step guide for setting up a personal website using Quarto by Samantha Csik.
-- [Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS](https://ucsb-meds.github.io/customizing-quarto-websites/) - Slides by Samantha Csik about using SASS and CSS to customise HTML Quarto website (materials: <https://github.com/UCSB-MEDS/customizing-quarto-websites>).
+- [Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS](https://ucsb-meds.github.io/customizing-quarto-websites/) - Slides by Samantha Csik about using SASS and CSS to customise HTML Quarto websites (materials: <https://github.com/UCSB-MEDS/customizing-quarto-websites>).
 - [Workshop: Quartaki — 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/) - Using R and RStudio by [Athanasia Mo Mowinckel](https://github.com/drmowinckels) covering basic markdown, html reports, citation & cross-refs, pdf and journal templates and Reveal.js presentations.
 - [Workshop: Mi primer blog con Quarto](https://perezp44.github.io/taller.primer.blog/) - A workshop in Spanish by Pedro J. Pérez to create a blog with Quarto (materials: <https://github.com/perezp44/taller.primer.blog>).
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
 - [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
-- [Tutorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short videos tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
+- [Tutorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short video tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
 - [Quarto for amsmath LaTeX users](https://nmfs-opensci.github.io/quarto-amsmath) - Notes focused on addressing issues related to using amsmath LaTeX for numbered equations and fancy math in Quarto books, specifically for HTML and PDF rendering.
 - [Tutorial: A step-by-step guide to parameterized reporting in R using Quarto](https://rfortherestofus.com/2024/06/parameterized-reporting-quarto) - A walkthrough of how to use parameterized reporting with Quarto with videos.
 - [Slidecrafting](https://slidecrafting-book.com/) - A book about slidecrafting, the art of putting together slides that are functional and aesthetically pleasing by Emil Hvitfeldt.
 
 ## Blog posts
 
-- [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing to Quarto publishing software by Alison Presmanes Hill.
+- [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
 - [Announcing Quarto, a new scientific and technical publishing system](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (*i.e.*, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 - [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/) - A blog post about "The art of putting together slides that are functional and aesthetically pleasing" using Quarto presentation format by Emil Hvitfeldt.
 - [Making Slides in Quarto with Reveal.js](https://meghan.rbind.io/blog/quarto-slides/) - A blog post about making slides in Quarto with Reveal.js and how to use emojis or customise the slides by Meghan Hall.
 - [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
-- [Six Productivity Hacks for Quarto](https://www.rstudio.com/blog/6-productivity-hacks-for-quarto/) - A blog post showing six tips from the re-use content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
+- [Six Productivity Hacks for Quarto](https://www.rstudio.com/blog/6-productivity-hacks-for-quarto/) - A blog post showing six tips from re-using content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
 - [How to add some personality to your Quarto Blog](https://www.ddanieltan.com/posts/blogtips/) - A blog post sharing some of the added features and tweaks users can make on top of the standard blog templates to inject some personality into their blog.
-- [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate Quarto blog post by Tom Mock.
+- [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate a Quarto blog post by Tom Mock.
 - [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
 - [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
-- [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
+- [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python users for creating reports.
 - [How to publish your Quarto document/book/website as a Docker container?](https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/) - A blog post describing how to publish your Quarto document/book/website as a Docker container by Mickaël Canouil.
 - [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
 - [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
 - [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
-- [Seven Tips for Creating Quarto Reveal.js Presentations](https://remlapmot.github.io/post/2025/quarto-revealjs-tips/) - A blog post showing few tips on how to customise Reveal.js slides with R/knitr, HTML/CSS, and Quarto native options.
+- [Seven Tips for Creating Quarto Reveal.js Presentations](https://remlapmot.github.io/post/2025/quarto-revealjs-tips/) - A blog post showing a few tips on how to customise Reveal.js slides with R/knitr, HTML/CSS, and Quarto native options.
 - [Creating effectively multi-engine Quarto documents using Quarto's embed shortcode](https://remlapmot.github.io/post/2025/multi-engine-quarto/) - A blog post describing how to use the embed shortcode to show code and execute its output from different languages/engines in the same document.
 - [Migrating my Academic (Hugo Wowchemy) website to Quarto](https://jc-castillo.com/blog/posts/quarto-migration/) - A blog post documenting the migration of an academic website from Hugo Academic/Wowchemy to Quarto, including technical steps for converting content, publications, and site structure.
 
@@ -123,38 +123,38 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Supported editors
 
-- [Emacs](https://github.com/quarto-dev/quarto-emacs) - [Emacs](https://www.gnu.org/software/emacs/) mode for Quarto.
-- [Neovim](https://github.com/quarto-dev/quarto-nvim) - [Neovim](https://neovim.io/) tools to work with Quarto.
-- [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
-- [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
-- [Visual Studio Code](https://github.com/quarto-dev/quarto) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
-- [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
-- [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
+- [Emacs](https://github.com/quarto-dev/quarto-emacs) - Mode for [Emacs](https://www.gnu.org/software/emacs/) to work with Quarto.
+- [Neovim](https://github.com/quarto-dev/quarto-nvim) - Tools for [Neovim](https://neovim.io/) to work with Quarto.
+- [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - Plugin for [Sublime Text](https://www.sublimetext.com/) to work with Quarto.
+- [Vim](https://github.com/quarto-dev/quarto-vim) - Plugin for [Vim](https://www.vim.org/) to work with Quarto.
+- [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
+- [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support for [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
+- [RStudio](https://posit.co/products/open-source/rstudio/) - IDE by [Posit PBC](https://posit.co/) that natively supports Quarto.
 - [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto)).
 
 ## Libraries/Packages/Scripts
 
 ### R
 
-- [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
+- [R](https://github.com/quarto-dev/quarto-r) - Interface package for [R](https://www.r-project.org/) to Quarto CLI.
 - [quartostamp](https://github.com/matt-dray/quartostamp) - An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` document.
-- [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
+- [babelquarto](https://docs.ropensci.org/babelquarto/) - An R package to help set up and render multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
 - [altdoc](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
 - [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
 
 ### Julia
 
-- [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
+- [Julia](https://github.com/quarto-dev/quarto-julia) - Interface package for [Julia](https://julialang.org/) to Quarto CLI.
 - [DocumenterQuarto](https://github.com/cadojo/DocumenterQuarto.jl) - A Julia package to generate documentation for Julia packages using Quarto and Documenter.
 
 ### Python
 
-- [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+- [Python](https://github.com/quarto-dev/quarto-python) - Interface package for [Python](https://www.python.org/) to Quarto CLI.
 - [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 
 ### Editors
 
-- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
+- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - Snippets for RStudio and VSCode to ease typesetting with Quarto.
 - [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
 - [Quarto Wingman](https://github.com/ntluong95/quarto-wingman) - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
 
@@ -166,7 +166,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Continuous integration / Continuous deployment
 
-- [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) - Official Quarto GitHub Actions allowing to setup, render, and deploy Quarto projects via GitHub Actions.
+- [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) - Official Quarto GitHub Actions to set up, render, and deploy Quarto projects via GitHub Actions.
 - [Quarto Website with GitHub Actions](https://tarleb.com/posts/quarto-with-gh-pages/) - Publish a Quarto website automatically every time it is updated via GitHub Actions.
 - [Quarto Devcontainer Feature](https://github.com/rocker-org/devcontainer-features/tree/main/src/quarto-cli) - Add Quarto CLI to your [Development Containers](https://containers.dev/) as a feature.
 - [Publish a Quarto project in 6 minutes](https://www.youtube.com/watch?v=arzBRW5XIkg) - A short video tutorial on how to publish a Quarto project to GitHub Pages with GitHub Actions without any local rendering.
@@ -190,7 +190,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Improvements in textrecipes](https://github.com/emilhvitfeldt/talk-useR2022-textrecipes/) - [See slides](https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/).
 - [Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)](https://github.com/jimjam-slam/talk-runapp-quarto-2022) - [See slides](https://runapp2022.talks.jamesgoldie.dev/).
 - [Iframes Gallery](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - A gallery of iframes that could be used in Quarto `revealjs` format.
-- [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for éVictorian Biodiversity Conference 2023 ([See slides](https://shandiya.quarto.pub/vicbiocon2023/)).
+- [Continental-scale biodiversity data assessment using the Atlas of Living Australia](https://github.com/shandiya/VicBioCon2023) - Slides for Victorian Biodiversity Conference 2023 ([See slides](https://shandiya.quarto.pub/vicbiocon2023/)).
 
 ### Websites formats
 
@@ -199,20 +199,20 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [R-Manuals](https://github.com/rstudio/r-manuals) - R Manuals rewritten with Quarto.
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
 - [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
-- [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for graduate-level course on program evaluation and causal inference using R, built with Quarto.
-- [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for Bioconductor community.
+- [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) - Website for a graduate-level course on program evaluation and causal inference using R, built with Quarto.
+- [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) - A Quarto Blog for the Bioconductor community.
 - [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 - [AffCom Lab Website](https://github.com/jmgirard/affcomlab) - A research lab Quarto Blog/website using custom listing pages for people and publications.
 - [Quantum Jitter](https://github.com/cgoo4/quantumjitter) - A Quarto website / blog with a custom theme (adapted from flatly / darkly), day / night landing page and a novel 404 page.
-- [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) - Andrew Heiss's website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
-- [Ella Kaye's website](https://github.com/EllaKaye/ellakaye.co.uk) - Ella Kaye's website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.
+- [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) - Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
+- [Ella Kaye's website](https://github.com/EllaKaye/ellakaye.co.uk) - Website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.
 - [Quering with PRQL](https://github.com/eitsupi/querying-with-prql) - Docusaurus website using computations via `Jupyter` and `knitr` and multiple languages (PRQL, SQL, R, Python, *etc.*).
 - [Real World Data Science](https://realworlddatascience.net/) - The Royal Statistical Society website, built with Quarto, features a custom design (based on the Lux Bootswatch theme), with a customised navbar and homepage layout.
-- [Silvia Canelón's website](https://silviacanelon.com) - Silvia Canelón's website customized to match the style of the Hugo Apéro blogdown theme.
+- [Silvia Canelón's website](https://silviacanelon.com) - Website customised to match the style of the Hugo Apéro blogdown theme.
 - [NASCENT-PERU website](https://nascent-peru.github.io/) - A multi-lingual (English/Spanish) website for a scientific research project using the [babelquarto](https://github.com/ropensci-review-tools/babelquarto) package.
 - [rainbowR website](https://rainbowr.org) - rainbowR is a community for LGBTQ+ folks who code in R - its website has a rainbow colour theme, custom syntax highlighting for both light and dark modes, and some fun customisations in the navbar.
-- [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with modern look and many customisations (*i.e.*, custom fonts, custom graphs, etc.).
-- [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Skimpy documentation made using `quartodoc`.
+- [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with a modern look and many customisations (*i.e.*, custom fonts, custom graphs, etc.).
+- [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Documentation made using `quartodoc`.
 - [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
 
 ### Book formats
@@ -235,15 +235,19 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Official
 
-- [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
-- [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
-- [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
-- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team (Twitter: [\@fly_upside_down](https://twitter.com/fly_upside_down)).
-- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (Twitter: [\@chrisderv](https://twitter.com/chrisderv); Mastodon: [\@cderv\@fosstodon.org](https://fosstodon.org/@cderv)).
-- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (Twitter: [\@scheidegger](https://twitter.com/scheidegger); Mastodon: [\@scheidegger\@mastodon.social](https://mastodon.social/@scheidegger)).
-- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team (Twitter: [\@dragonstyle](https://twitter.com/dragonstyle)).
-- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team (Twitter: [\@xieyihui](https://twitter.com/xieyihui)).
-- [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager (Twitter: [\@thomas_mock](https://twitter.com/thomas_mock); Mastodon: [\@thomas_mock\@fosstodon.org](https://fosstodon.org/@thomas_mock)).
+- GitHub Organisations
+  - [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
+  - [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
+  - [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
+- Current members:
+  - [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (Twitter: [\@chrisderv](https://twitter.com/chrisderv); Mastodon: [\@cderv\@fosstodon.org](https://fosstodon.org/@cderv)).
+  - [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (Twitter: [\@scheidegger](https://twitter.com/scheidegger); Mastodon: [\@scheidegger\@mastodon.social](https://mastodon.social/@scheidegger)).
+  - [Gordon Woodhull (\@gordonwoodhull)](https://github.com/gordonwoodhull) - Member of Quarto core team.
+- Past members:
+  - [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team (Twitter: [\@fly_upside_down](https://twitter.com/fly_upside_down)).
+  - [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team (Twitter: [\@dragonstyle](https://twitter.com/dragonstyle)).
+  - [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team (Twitter: [\@xieyihui](https://twitter.com/xieyihui)).
+  - [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager (Twitter: [\@thomas_mock](https://twitter.com/thomas_mock); Mastodon: [\@thomas_mock\@fosstodon.org](https://fosstodon.org/@thomas_mock)).
 
 ### Community
 
