@@ -74,6 +74,11 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Quarto for amsmath LaTeX users](https://nmfs-opensci.github.io/quarto-amsmath) - Notes focused on addressing issues related to using amsmath LaTeX for numbered equations and fancy math in Quarto books, specifically for HTML and PDF rendering.
 - [Tutorial: A step-by-step guide to parameterized reporting in R using Quarto](https://rfortherestofus.com/2024/06/parameterized-reporting-quarto) - A walkthrough of how to use parameterized reporting with Quarto with videos.
 - [Slidecrafting](https://slidecrafting-book.com/) - A book about slidecrafting, the art of putting together slides that are functional and aesthetically pleasing by Emil Hvitfeldt.
+- [Workshop: Branded Websites, Presentations, Dashboards, and PDFs with Quarto](https://posit-conf-2025.github.io/quarto-brand/) - posit::conf(2025) workshop materials on creating branded Quarto outputs, led by Isabella Velásquez and Sara Altman (materials available under CC BY-SA 4.0 license).
+- [Workshop: Extending Quarto](https://posit-conf-2025.github.io/quarto-extend/) - posit::conf(2025) workshop materials on developing custom extensions, formats, templates, and filters, led by Mine Çetinkaya-Rundel and Charlotte Wickham (materials available under CC BY-SA 4.0 license).
+- [Tutorial: Using GitHub Codespaces to teach with Quarto](https://quarto.org/docs/blog/posts/2025-05-19-github-codespaces/) - Learn the basics of GitHub Codespaces and how to use them to make it easier to teach using Quarto by Mickaël Canouil.
+- [Tutorial: How to Get a Blog Up from Scratch in 1 Day Using Quarto and Netlify](https://eliottkalfon.com/posts/quarto-blog-tutorial/) - A comprehensive step-by-step guide to setting up a Quarto blog with Netlify deployment in a single day by Eliott Kalfon.
+- [Tutorial: Writing a book with Quarto](https://blog.stephenturner.us/p/quarto-books) - A detailed walkthrough of transforming an old course website made from RMarkdown documents into a polished e-book using Quarto by Stephen Turner.
 
 ## Blog posts
 
@@ -120,6 +125,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Quarto for Academics](https://www.youtube.com/watch?v=EbAAmrB0luA) - This video highlights some of Quarto's features that are especially useful for academics, as educators and as researchers by Mine Çetinkaya-Rundel.
 - [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
 - [Parameterized Quarto reports improve understanding of soil health](https://www.youtube.com/watch?v=lbE5uOqfT70) - posit::conf(2023) talk by Jadey Ryan provides an example workflow of creating parameterized reports with HTML and MS Word outputs (materials: <https://jadeynryan.github.io/2023_posit-parameterized-quarto/>).
+- [posit::conf(2024) Quarto talks](https://quarto.org/docs/blog/posts/2024-11-06-conf-talks/) - Videos of talks from posit::conf(2024) are posted, compiled playlist of Quarto talks available on YouTube.
+- [posit::conf(2024) Quarto workshop materials](https://quarto.org/docs/blog/posts/2024-10-15-conf-workshops-materials/index.html) - Materials from three Quarto workshops at posit::conf(2024), including "Hello Quarto", "Quarto Websites" and "Beautiful documents with Quarto", all available to learn and teach from.
+- [posit::conf(2025) Quarto talks](https://quarto.org/docs/blog/posts/2025-11-24-conf-talk-videos/) - Videos of talks from posit::conf(2025) showcasing Quarto, including talks on using Quarto for reports, election night reporting, business collaboration, and more.
+- [posit::conf(2025) Quarto workshop materials](https://quarto.org/docs/blog/posts/2025-10-27-conf-workshops-materials/) - Materials from Quarto workshops at posit::conf(2025), including "Branded Websites, Presentations, Dashboards, and PDFs with Quarto" and "Extending Quarto", all available to learn and teach from.
 
 ## Supported editors
 
