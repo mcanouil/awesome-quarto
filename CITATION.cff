@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Awesome Quarto"
+message: "If you use this project, please cite it as below."
+type: software
+authors:
+  - family-names: "Canouil"
+    given-names: "Mickaël"
+    orcid: "https://orcid.org/0000-0002-3396-4549"
+repository-code: "https://github.com/mcanouil/awesome-quarto"
+url: "http://m.canouil.dev/awesome-quarto/"
+license: "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+date-released: "2026-02-26"
+version: 2026.02.26
