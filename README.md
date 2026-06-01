@@ -79,6 +79,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Using GitHub Codespaces to teach with Quarto](https://quarto.org/docs/blog/posts/2025-05-19-quarto-codespaces/) - Learn the basics of GitHub Codespaces and how to use them to make it easier to teach using Quarto by Mickaël Canouil.
 - [Tutorial: How to Get a Blog Up from Scratch in 1 Day Using Quarto and Netlify](https://eliottkalfon.com/posts/quarto-blog-tutorial/) - A comprehensive step-by-step guide to setting up a Quarto blog with Netlify deployment in a single day by Eliott Kalfon.
 - [Tutorial: Writing a book with Quarto](https://blog.stephenturner.us/p/quarto-books) - A detailed walkthrough of transforming an old course website made from RMarkdown documents into a polished e-book using Quarto by Stephen Turner.
+- [Workshop: Beginner-friendly tutorial on using Quarto for sharing research](https://pythonhealthdatascience.github.io/quarto-tutorial/) - A step-by-step guide on building a Quarto website to share and organise research, targeted at beginners (introducing GitHub, Quarto, and Markdown, with no prior experience needed).
 
 ## Blog posts
 
@@ -150,6 +151,9 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - An R package to help set up and render multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
 - [altdoc](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
 - [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
+- [plume](https://github.com/arnaudgallou/plume/) - Allows you to generate or inject author information into Quarto from tabular data.
+- [pakret](https://github.com/arnaudgallou/pakret/) - Lets you insert individual, preformatted citations for R and R packages directly inside an R Markdown or Quarto document as you write.
+- [grateful](https://github.com/Pakillo/grateful/) - Scans your whole project and produces a BibTex file with citations for all the R packages used.
 
 ### Julia
 
@@ -160,6 +164,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [Python](https://github.com/quarto-dev/quarto-python) - Interface package for [Python](https://www.python.org/) to Quarto CLI.
 - [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
+- [lintquarto](https://github.com/lintquarto/lintquarto) - Python package for running linters, static type checkers and code analysis tools on Python code in Quarto files.
+- [great-docs](https://github.com/posit-dev/great-docs) - Package from Posit that can be used to automatically generate a documentation site for a Python site, with a landing page, API reference and CLI reference, using Quarto as the rendering engine.
 
 ### Editors
 
@@ -172,6 +178,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 - [Quartize](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
 - [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
+- [Panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
+- [loom-lsp](https://github.com/PMassicotte/loom-lsp) - A rust-based language server for Quarto documents, allowing IDE support for different languages within the same document.
+- [vale](https://github.com/vale-cli/vale) - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
+- [rumdl](https://github.com/rvben/rumdl) - Markdown linter and formatter written in Rust.
 
 ## Continuous integration / Continuous deployment
 
@@ -224,6 +234,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with a modern look and many customisations (_i.e._, custom fonts, custom graphs, etc.).
 - [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Documentation made using `quartodoc`.
 - [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
+- [DES RAP Book](https://pythonhealthdatascience.github.io/des_rap_book/) - A self-paced training resource on developing discrete event simulation models in Python and R, with a toggle at the top of each page allowing readers to switch between languages.
 
 ### Book formats
 
