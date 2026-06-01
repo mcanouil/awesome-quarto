@@ -234,7 +234,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with a modern look and many customisations (_i.e._, custom fonts, custom graphs, etc.).
 - [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Documentation made using `quartodoc`.
 - [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
-- [DES RAP Book](https://pythonhealthdatascience.github.io/des_rap_book/) - self-paced training resource on developing discrete event simulation models in Python and R, with a toggle at the top of each page allowing readers to switch between languages.
+- [DES RAP Book](https://pythonhealthdatascience.github.io/des_rap_book/) - A self-paced training resource on developing discrete event simulation models in Python and R, with a toggle at the top of each page allowing readers to switch between languages.
 
 ### Book formats
 
