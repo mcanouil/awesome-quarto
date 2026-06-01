@@ -34,6 +34,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
   - [Python](#python)
   - [Editors](#editors)
   - [Miscellaneous](#miscellaneous)
+- [AI \& LLMs](#ai--llms)
 - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Real-life examples](#real-life-examples)
@@ -182,6 +183,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [loom-lsp](https://github.com/PMassicotte/loom-lsp) - A rust-based language server for Quarto documents, allowing IDE support for different languages within the same document.
 - [vale](https://github.com/vale-cli/vale) - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
 - [rumdl](https://github.com/rvben/rumdl) - Markdown linter and formatter written in Rust.
+
+## AI & LLMs
+
+- [Quarto Agent Skills](https://github.com/posit-dev/skills/tree/main/quarto) - A collection of Claude/Agent Skills from Posit for Quarto, covering authoring, `brand.yml`, and alt text, that extend AI coding agents with Quarto-specific knowledge and workflows; usable from Claude Code, Claude.ai, and other agents (Cursor, Codex, Cline) via `npx skills add`.
 
 ## Continuous integration / Continuous deployment
 
