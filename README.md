@@ -201,6 +201,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [Quarto.org Extensions Listing](https://quarto.org/docs/extensions/) - Quarto extensions listing from <https://quarto.org>.
 - [Quarto Extensions Listing](https://m.canouil.dev/quarto-extensions/) - A curated collection of extensions offering an interface to browse, search, and filter extensions by categories and keywords, then install them effortlessly with a simple click or command.
+- [quarto-tts-reader](https://github.com/mancano-tales/quarto-tts-reader) - A read-aloud player filter for Quarto HTML articles and books using the Web Speech API with word-level highlighting and click-to-read.
 
 ## Real-life examples
 
