@@ -226,7 +226,6 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [vale](https://github.com/vale-cli/vale) - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
 - [rumdl](https://github.com/rvben/rumdl) - Markdown linter and formatter written in Rust.
 - [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
-- [tree-sitter-quarto](https://github.com/ck37/tree-sitter-quarto) - A Tree-sitter grammar for Quarto Markdown with support for executable cells, chunk options, and cross-references, used to bring Quarto support to editors such as Zed, Neovim, and Helix.
 - [brand.yml](https://github.com/posit-dev/brand-yml) - A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, `revealjs`, and Typst formats.
 
 ## AI & LLMs
