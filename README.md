@@ -71,8 +71,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
 - [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/2023-11-19_publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
-- [Tutorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short video tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
-- [Quarto for amsmath LaTeX users](https://nmfs-opensci.github.io/quarto-amsmath) - Notes focused on addressing issues related to using amsmath LaTeX for numbered equations and fancy math in Quarto books, specifically for HTML and PDF rendering.
+- [Tutorials: Quarto Visual Editor and RStudio](https://www.youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short video tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
+- [Quarto for amsmath LaTeX users](https://nmfs-opensci.github.io/quarto-amsmath/) - Notes focused on addressing issues related to using amsmath LaTeX for numbered equations and fancy math in Quarto books, specifically for HTML and PDF rendering.
 - [Tutorial: A step-by-step guide to parameterized reporting in R using Quarto](https://rfortherestofus.com/2024/06/parameterized-reporting-quarto) - A walkthrough of how to use parameterized reporting with Quarto with videos.
 - [Slidecrafting](https://slidecrafting-book.com/) - A book about slidecrafting, the art of putting together slides that are functional and aesthetically pleasing by Emil Hvitfeldt.
 - [Workshop: Branded Websites, Presentations, Dashboards, and PDFs with Quarto](https://posit-conf-2025.github.io/quarto-brand/) - posit::conf(2025) workshop materials on creating branded Quarto outputs, led by Isabella Velásquez and Sara Altman (materials available under CC BY-SA 4.0 license).
@@ -86,12 +86,12 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/) - A blog post introducing Quarto publishing software by Alison Presmanes Hill.
 - [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) - A website made with Quarto highlighting a tip for Quarto every day as a blog post.
-- [Announcing Quarto, a new scientific and technical publishing system](https://posit.co/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
+- [Announcing Quarto, a new scientific and technical publishing system](https://posit.co/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system) - Blog post by J.J. Allaire announcing the launch of Quarto, a new open-source scientific and technical publishing system.
 - [Interactive Molecular Content](https://www.valencekjell.com/posts/2022-08-13-interactive/) - A blog post showing how to embed interactive content (_i.e._, molecular visualisation) in webpages with Quarto using Bokeh, 3DMol.js and NGL.
 - [Slidecraft 101: Colors and Fonts](https://emilhvitfeldt.com/post/slidecraft-colors-fonts/) - A blog post about "The art of putting together slides that are functional and aesthetically pleasing" using Quarto presentation format by Emil Hvitfeldt.
 - [Making Slides in Quarto with Reveal.js](https://meghan.rbind.io/blog/2022-07-12-making-slides-in-quarto-with-revealjs/) - A blog post about making slides in Quarto with Reveal.js and how to use emojis or customise the slides by Meghan Hall.
 - [A beginner's guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/2336848/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html) - This article shows you how to set up a Quarto document to use Observable JavaScript, including how to pass data from R or Python to an Observable code chunk.
-- [Six Productivity Hacks for Quarto](https://posit.co/blog/6-productivity-hacks-for-quarto/) - A blog post showing six tips from re-using content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
+- [Six Productivity Hacks for Quarto](https://posit.co/blog/6-productivity-hacks-for-quarto) - A blog post showing six tips from re-using content across documents, the insertion of Pandoc divs and spans to continuous deployment with GitHub Actions.
 - [Use R to Generate a Quarto Blogpost](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) - A blog post about using R to generate a Quarto blog post by Tom Mock.
 - [Adding Subscriptions to a Quarto Site](https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html) - A blog post about how to add a subscription form to your Quarto blog.
 - [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
@@ -107,20 +107,20 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ## Talks and videos
 
 - [Reproducible authoring with Quarto](https://www.youtube.com/watch?v=6p4vOKS6Xls) - 2022 Toronto Workshop on Reproducibility with Mine Çetinkaya-Rundel (slides: <https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/>).
-- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022>).
+- [Reproducible Publications with Julia and Quarto](https://www.youtube.com/watch?v=Y1uKNO32H_I) - JuliaCon 2022 with J.J. Allaire (slides: <https://jjallaire.github.io/quarto-juliacon-2022/>).
 - [A Conversation about Quarto](https://www.youtube.com/watch?v=azVAl343CIU) - [Openscapes](https://openscapes.org/) Community Talk: Hello Quarto!
 - [Workshop: Welcome to Quarto 2-hour Workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4) - RStudio Meetup: Welcome to Quarto 2-hour Workshop by Tom Mock (slides: <https://jthomasmock.github.io/quarto-2hr-webinar/>).
-- [Quarto for the Curious](https://posit.co/resources/videos/quarto-for-rmarkdown-users/) - A Quarto overview given by Tom Mock at RStudio::conf(2022) (materials: <https://thomasmock.quarto.pub/quarto-curious/>).
-- [Hello Quarto: Share • Collaborate • Teach • Reimagine](https://posit.co/resources/videos/hello-quarto-share-collaborate-teach-reimagine/) - Keynote by Mine Çetinkaya-Rundel & Julia Stewart Lowndes highlighting how they leverage Quarto in open-science at RStudio::conf(2022) (materials: <https://github.com/mine-cetinkaya-rundel/hello-quarto>).
-- [Websites & Books & Blogs, oh my! Creating Rich Content with Quarto](https://posit.co/resources/videos/websites-books-blogs-oh-my-creating-rich-content-with-quarto/) - Talk by Devin Pastoor at RStudio::conf(2022) showing some of the formats available in Quarto and how it is easy to focus on contents while Quarto takes care of the rest.
+- [Quarto for the Curious](https://posit.co/resources/videos/quarto-for-rmarkdown-users) - A Quarto overview given by Tom Mock at RStudio::conf(2022) (materials: <https://thomasmock.quarto.pub/quarto-curious/>).
+- [Hello Quarto: Share • Collaborate • Teach • Reimagine](https://posit.co/resources/videos/hello-quarto-share-collaborate-teach-reimagine) - Keynote by Mine Çetinkaya-Rundel & Julia Stewart Lowndes highlighting how they leverage Quarto in open-science at RStudio::conf(2022) (materials: <https://github.com/mine-cetinkaya-rundel/hello-quarto>).
+- [Websites & Books & Blogs, oh my! Creating Rich Content with Quarto](https://posit.co/resources/videos/websites-books-blogs-oh-my-creating-rich-content-with-quarto) - Talk by Devin Pastoor at RStudio::conf(2022) showing some of the formats available in Quarto and how it is easy to focus on contents while Quarto takes care of the rest.
 - [Literate Programming With Jupyter Notebooks and Quarto](https://www.youtube.com/watch?v=C8kDPmb_IKU) - Talk by Hamel Husain at RStudio::conf(2022) describing the integration between [Nbdev](https://github.com/AnswerDotAI/nbdev) and Quarto (materials: <https://github.com/fastai/nbdev-demo>).
-- [These are a few of my favorite things](https://posit.co/resources/videos/these-are-a-few-of-my-favorite-things-about-quarto-presentations/) - Talk by Tracy Teal at RStudio::conf(2022) highlighting some of the features of Quarto presentation, such as multiple columns, speaker notes and mode, transitions, _etc._
+- [These are a few of my favorite things](https://posit.co/resources/videos/these-are-a-few-of-my-favorite-things-about-quarto-presentations) - Talk by Tracy Teal at RStudio::conf(2022) highlighting some of the features of Quarto presentation, such as multiple columns, speaker notes and mode, transitions, _etc._
 - [Building a Blog with Quarto](https://www.youtube.com/watch?v=CVcvXfRyfE0) - RStudio Meetup: Building a Blog with Quarto by Isabella Velásquez (materials: <https://ivelasq.quarto.pub/building-a-blog-with-quarto/>).
 - [Beautiful Reports and Presentations with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY) - RStudio Meetup: Beautiful Reports and Presentations with Quarto by Tom Mock (materials: <https://github.com/jthomasmock/quarto-reporting>).
 - [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - R-Ladies St. Louis: Introduction to Quarto by Isabella Velásquez (materials: <https://github.com/ivelasq/2022-10-27_intro-to-quarto>).
 - [Quarto YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg) - A YouTube playlist of videos about Quarto and Pandoc by Eli Holmes.
 - [Create your Data Science Portfolio with Quarto](https://www.youtube.com/watch?v=xtSFXtDf4cM) - In this video by Deepsha Menghani, learn how you can easily create a Data Science Portfolio website and deploy it instantly with the help of Quarto (materials: <https://deepshamenghani.quarto.pub/portfolio-with-quarto-workshop/#/title-slide>).
-- [A Coffee with Quarto and Neovim](https://youtube.com/playlist?list=PLabWm-zCaD1axcMGvf7wFxJz8FZmyHSJ7) - A YouTube playlist showing you how to use Quarto in Neovim by [Jannik Buhr](https://jmbuhr.de/).
+- [A Coffee with Quarto and Neovim](https://www.youtube.com/playlist?list=PLabWm-zCaD1axcMGvf7wFxJz8FZmyHSJ7) - A YouTube playlist showing you how to use Quarto in Neovim by [Jannik Buhr](https://jmbuhr.de/).
 - [How to style your Quarto blog without knowing a lot of HTML/CSS?](https://www.youtube.com/watch?v=ErRX8plZpQE) - This is a video tutorial on styling your Quarto blog even if you lack a strong foundation of HTML/CSS by Albert Rapp.
 - [Quarto for Academics](https://www.youtube.com/watch?v=EbAAmrB0luA) - This video highlights some of Quarto's features that are especially useful for academics, as educators and as researchers by Mine Çetinkaya-Rundel.
 - [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4) - This video highlights the new dashboard feature arriving in Quarto 1.4 by Charles Teague.
@@ -138,7 +138,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Vim](https://github.com/quarto-dev/quarto-vim) - Plugin for [Vim](https://www.vim.org/) to work with Quarto.
 - [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
 - [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support for [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
-- [RStudio](https://posit.co/products/open-source/rstudio/) - IDE by [Posit PBC](https://posit.co/) that natively supports Quarto.
+- [RStudio](https://posit.co/products/open-source/rstudio) - IDE by [Posit PBC](https://posit.co/) that natively supports Quarto.
 - [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto)).
 
 ## Libraries/Packages/Scripts
@@ -218,7 +218,6 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Websites formats
 
 - [quarto.org](https://github.com/quarto-dev/quarto-web) - The Quarto documentation website.
-- [rlille.fr](https://github.com/RLille/rlille.fr) - The R Lille (R User Group) website using Quarto.
 - [R-Manuals](https://github.com/rstudio/r-manuals) - R Manuals rewritten with Quarto.
 - [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - Website/blog highlighting a tip for Quarto every day.
 - [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
