@@ -119,6 +119,9 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Creating effectively multi-engine Quarto documents using Quarto's embed shortcode](https://remlapmot.github.io/post/2025/multi-engine-quarto/) - A blog post describing how to use the embed shortcode to show code and execute its output from different languages/engines in the same document.
 - [Migrating my Academic (Hugo Wowchemy) website to Quarto](https://jc-castillo.com/blog/posts/quarto-migration/) - A blog post documenting the migration of an academic website from Hugo Academic/Wowchemy to Quarto, including technical steps for converting content, publications, and site structure.
 - [Collaborating on Quarto documents](https://nrennie.rbind.io/blog/collaborating-quarto/) - A blog post outlining several options for collaborating on Quarto documents with non-technical collaborators who do not want to edit code, covering both Git-based and Git-free workflows by Nicola Rennie.
+- [Styling a Quarto blog](https://www.guillaumedehaene.com/posts/2024/03/styling_a_quarto_blog.html) - A blog post working through theme, typography, code blocks, diagrams, and mathematics rendering with concrete YAML and SCSS examples by Guillaume Dehaene.
+- [Apply the Dracula Theme to Quarto Websites](https://boyd.tarlinton.au/posts/dracula_theme.html) - A blog post on adapting the Bootswatch Darkly theme into a Dracula palette for Quarto, with a light and dark toggle following the reader's system preference, by Boyd Tarlinton.
+- [A Claude Skill for _brand.yml](https://blog.stephenturner.us/p/brand-yml-claude-skill-uva-sds-quarto) - A blog post on generating a `_brand.yml` specification from an organisation's brand assets with an AI agent skill, and sharing it via `quarto use brand`, by Stephen Turner.
 
 ## Talks and videos
 
