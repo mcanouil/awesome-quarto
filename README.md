@@ -240,7 +240,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Documentation made using `quartodoc`.
 - [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
 - [DES RAP Book](https://pythonhealthdatascience.github.io/des_rap_book/) - A self-paced training resource on developing discrete event simulation models in Python and R, with a toggle at the top of each page allowing readers to switch between languages.
-- [Noah Weidig's website](https://github.com/noahweidig/noahweidig.github.io) - A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards (see <https://www.noahweidig.com/>).
+- [Noah Weidig's website](https://github.com/noahweidig/noahweidig.github.io) - A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.
 
 ### Book formats
 
