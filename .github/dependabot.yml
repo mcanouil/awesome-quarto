@@ -8,6 +8,11 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "00 12 1 * *"
     labels:
       - "Type: Dependencies :arrow_up:"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
