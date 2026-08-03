@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+# Uncomment once GitHub Discussions is enabled on this repository.
+# contact_links:
+#   - name: Feature Request
+#     url: https://github.com/mcanouil/awesome-quarto/discussions/new?category=ideas
+#     about: Suggest an idea or a new feature here.
+#   - name: Support
+#     url: https://github.com/mcanouil/awesome-quarto/discussions/new?category=q-a
+#     about: Please ask and answer questions here.
