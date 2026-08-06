@@ -194,6 +194,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [pakret](https://github.com/arnaudgallou/pakret/) - Lets you insert individual, preformatted citations for R and R packages directly inside an R Markdown or Quarto document as you write.
 - [grateful](https://github.com/Pakillo/grateful/) - Scans your whole project and produces a BibTex file with citations for all the R packages used.
 - [rd2qmd](https://github.com/eitsupi/rd2qmd) - A fast Rd to Quarto Markdown converter written in Rust, with cross-package link resolution for building reference sites.
+- [ir](https://github.com/r-lib/ir) - A minimal R script runner that manages reproducible environments from dependencies declared in script frontmatter, with support for Quarto documents via the `ir` YAML key.
 
 ### Julia
 
@@ -288,6 +289,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [DES RAP Book](https://pythonhealthdatascience.github.io/des_rap_book/) - A self-paced training resource on developing discrete event simulation models in Python and R, with a toggle at the top of each page allowing readers to switch between languages.
 - [Noah Weidig's website](https://github.com/noahweidig/noahweidig.github.io) - A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.
 - [Quarto Pressmark](https://mdwm.org/quarto-pressmark/) - An elegant, typographic, minimalistic theme for Quarto websites, inspired by newspapers and tufte-css, with curated fonts and extensive custom styling (see <https://github.com/skriptum/quarto-pressmark>).
+- [ggsegverse](https://ggsegverse.github.io/) - Website for the `ggsegverse` R package ecosystem for brain-segmentation visualisation, with custom theming and JavaScript integration with the r-universe API.
 
 ### Book formats
 
