@@ -2,6 +2,7 @@ name: Awesome Linter
 
 on: 
   pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
   workflow_dispatch:
   push:
     branches: main
@@ -16,6 +17,8 @@ jobs:
     strategy:
       fail-fast: false
     runs-on: ubuntu-latest
+    if: ${{ github.event.pull_request.draft != true }}
+    timeout-minutes: 10
     env:
       github_token: ${{ secrets.GITHUB_TOKEN }}
     steps:
