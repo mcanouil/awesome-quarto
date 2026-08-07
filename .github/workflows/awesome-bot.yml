@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.pull_request.draft != true }}
     timeout-minutes: 20
+    permissions:
+      contents: read
     steps:
       - name: "checkout repo"
         uses: actions/checkout@v7

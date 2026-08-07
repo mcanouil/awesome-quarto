@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.pull_request.draft != true }}
     timeout-minutes: 10
+    permissions:
+      contents: read
     env:
       github_token: ${{ secrets.GITHUB_TOKEN }}
     steps:
